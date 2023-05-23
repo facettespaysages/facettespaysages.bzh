@@ -1,6 +1,10 @@
 # main links
 main:
-   - title: "Approche"
+   - title: "L'Approche"
      url: /approche/
+   - title: "Les Projets"
+     url: /projets/
+   - title: "Les Partenaires"
+     url: /partenaires/
    - title: "Contact"
      url: /contact/

@@ -156,6 +156,8 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _partenaires
+  - _projets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -276,12 +278,19 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  partenaires:
+    output: true
+    permalink: /:collection/:path/
+  projets:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: "/blog"
+      path: ""
       type: posts
     values:
       layout: single
@@ -290,6 +299,28 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _partenaires
+  - scope:
+      path: ""
+      type: partenaires
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _projets
+  - scope:
+      path: ""
+      type: projets
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: ""
