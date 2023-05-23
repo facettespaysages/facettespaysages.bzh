@@ -1,6 +1,6 @@
 ---
-fullname: Louise Quintana
-role: paysagiste conceptrice
+title: Louise Quintana
+excerpt: paysagiste conceptrice
 domaine: Paysage
 link: https://www.lq-paysagiste.fr/
 incubator: maitres_oeuvre
@@ -8,6 +8,8 @@ avatar: ""
 competences:
 badges:
 missions:
+header:
+  teaser: /assets/images/partenaires/Louise_Quintana.jpg
 ---
 
 Louise Quintana est basée à Saint-Brévin-les-Pins en tant que paysagiste conceptrice indépendante. Elle fait partie de notre équipe lauréate du plan de paysage de Quimper.

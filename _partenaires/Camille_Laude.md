@@ -1,6 +1,6 @@
 ---
-fullname: Camille Laude Architecte
-role: architecte
+title: Camille Laude Architecte
+excerpt: architecte
 domaine: Architecture
 link: https://camillelaude.fr/
 incubator: maitres_oeuvre
@@ -10,6 +10,8 @@ badges:
 startups:
     - SaintVincent
 missions:
+header:
+  teaser: /assets/images/partenaires/Camille_Laude.jpeg
 ---
 
 Camille Laude est architecte indépendante basée à Ecommoy. Nous sommes lauréates pour mener l'étude de requalification de centre-bourg de Saint-Vincent du Lorouër.

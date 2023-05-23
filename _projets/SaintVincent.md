@@ -1,6 +1,6 @@
 ---
 title: Requalification du centre-bourg de Saint-Vincent du Lorouër
-mission: Accompagner la transformation du centre-bourg
+excerpt: Accompagner la transformation du centre-bourg
 sponsors:
 incubator:
 link:
@@ -22,14 +22,15 @@ phases:
   - name: all
     start: 2023-01-02
     end: 2023-12
-
+header:
+  teaser: /assets/images/projets/SaintVincent.jpg
 ---
 # Requalification du centre-bourg
 _Etudes d’aménagement du centre-bourg de Saint-Vincent du Lorouër_
 
 ## Contexte 
 
-La commune de Saint-Vincent a missionné notre équipe pour intégrer l'élargissement de la route départementale dans une étude plus large de requalification des espaces publics du centre-bourg.
+La commune de Saint-Vincent a excerptné notre équipe pour intégrer l'élargissement de la route départementale dans une étude plus large de requalification des espaces publics du centre-bourg.
 Les opérations de démolition de certaines maisons transforment la perception de l'espace vécu entre l'église au sud et le futur espace de vie communal au nord.
 
 ## Enjeux

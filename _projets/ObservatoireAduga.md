@@ -1,6 +1,6 @@
 ---
 title: Observatoire des paysages
-mission: Evaluer l'application des politiques publiques à travers l'évolution des paysages
+excerpt: Evaluer l'application des politiques publiques à travers l'évolution des paysages
 sponsors:
 incubator:
 link:
@@ -15,7 +15,8 @@ phases:
   - name: all
     start: 2012-01-01
     end: 2016-11-01
-
+header:
+  teaser: /assets/images/projets/ObservatoireAduga.jpg
 ---
 # Observatoire des paysages
 _Evaluer l'application des politiques publiques à travers l'évolution des paysages du Grand Amiénois_
