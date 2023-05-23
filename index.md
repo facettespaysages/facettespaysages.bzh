@@ -12,7 +12,6 @@ de résilience, pour une préservation des paysages remarquables et le développ
 
 
 ### Facettes Paysages: 3 valeurs
-
 1. Etre à l'écoute des porteurs de projet et de leurs besoins.
 2. Dessiner ensemble un cadre de vie agréable et résilient.
 3. Développer les paysages comestibles, en prônant un retour à la forêt.
