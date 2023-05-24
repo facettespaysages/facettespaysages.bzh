@@ -5,7 +5,7 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#304591"
-  overlay_filter: "0.5"
+  overlay_filter: "0"
 #  overlay_image: /assets/images/unsplash-image-1.jpg
 #  actions:
 #    - label: "Download"
@@ -27,7 +27,7 @@ feature_row:
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
-  - image_path: /assets/images/projets/SaintVincent.jpg
+  - image_path: /assets/images/projets/saint_vincent_plan.jpg
     title: "Accompagner la transformation d'un centre-bourg"
     excerpt: "Requalification du centre-bourg de Saint-Vincent du Lorouër"
 feature_row2:
@@ -54,7 +54,12 @@ feature_row4:
   - image_path: /assets/images/FP2.jpg
     alt: "placeholder image 2"
     title: "Facettes Paysages: 3 valeurs"
-    excerpt: '1. Etre à l''écoute des porteurs de projet et de leurs besoins. <p> 2. Dessiner ensemble un cadre de vie agréable et résilient. \n  3. Développer les paysages comestibles, en prônant un retour à la forêt.'
+    excerpt: | 
+      Être à l'écoute des porteurs de projet et de leurs besoins.
+      <br>
+      Dessiner ensemble un cadre de vie agréable et résilient.
+      <br>
+      Développer les paysages comestibles, en prônant un retour à la forêt.
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"

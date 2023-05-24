@@ -2,19 +2,19 @@
 title: Requalification du centre-bourg de Saint-Vincent du Lorouër
 excerpt: Accompagner la transformation du centre-bourg
 gallery:
-    - url: /assets/images/projets/saintvincent.jpg
-      image_path: /assets/images/projets/saintvincent.jpg
+    - url: /assets/images/projets/saint_vincent.jpg
+      image_path: /assets/images/projets/saint_vincent.jpg
       alt: "Situation existante"
-    - url: /assets/images/projets/saintvincent2.jpg
-      image_path: /assets/images/projets/saintvincent2.jpg
+    - url: /assets/images/projets/saint_vincent_2.jpg
+      image_path: /assets/images/projets/saint_vincent_2.jpg
       alt: "Situation projetée"
 phases:
   - name: all
     start: 2023-01-02
     end: 2023-12
 header:
-  teaser: /assets/images/projets/SaintVincent.jpg
-  overlay_image: /assets/images/projets/SaintVincent.jpg
+  teaser: /assets/images/projets/saint_vincent_plan.jpg
+  overlay_image: /assets/images/projets/saint_vincent_plan.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
