@@ -10,6 +10,9 @@ header:
   overlay_image: /assets/images/projets/Chaumont.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true
+  actions:
+    - label: "Lien Officiel"
+      url: https://domaine-chaumont.fr/fr/festival-international-des-jardins/archives/edition-2018-jardins-de-la-pensee
 last_modified_at: 2023-05-26T00:00:00-00:00
 ---
 # Ceci n’est pas un jardin
@@ -22,5 +25,3 @@ Comment représenter nos pensées dans l’espace ? Comment peut-on rendre visib
 En 1929, Magritte représente une pipe accompagnée du texte : «Ceci n’est pas une pipe». Par cette apparente négation, le peintre veut amener le visiteur à prendre conscience que son tableau est avant tout une représentation, plutôt qu’une vraie pipe. Il joue ainsi sur le décalage entre l’objet et sa représentation, entre l’objectivité et la subjectivité.
 
 A la façon de Magritte, «Ceci n’est pas un jardin» offre un premier tableau d’apparat : jardin lisse et sans fin qui dérange. Puis, la perspective tronquée perturbe ce tableau et intrigue le promeneur. Interpellé, il franchit une paroi qui s’épaissit pour s’immerger dans un « vrai » jardin, un jardin d’une nature bienfaisante, apaisante, qui panse et aide à penser.
-
-https://domaine-chaumont.fr/fr/festival-international-des-jardins/archives/edition-2018-jardins-de-la-pensee
