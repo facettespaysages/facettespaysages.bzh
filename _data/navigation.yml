@@ -4,6 +4,10 @@ main:
      url: /approche/
    - title: "Les Projets"
      url: /projets/
+   - title: "Actualités"
+     url: /category/actualités/
+   - title: "Blog"
+     url: /category/blog/
    - title: "Les Partenaires"
      url: /partenaires/
    - title: "Contact"
