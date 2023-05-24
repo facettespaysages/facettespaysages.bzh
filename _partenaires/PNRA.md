@@ -2,10 +2,6 @@
 title: Parc Naturel Régional d'Armorique
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
-avatar: ""
-competences:
-badges:
-missions:
 header:
   teaser: /assets/images/partenaires/PNRA.jpg
   show_overlay_excerpt: true

@@ -2,12 +2,8 @@
 title: Commune de Saint-Vincent du Lorouër
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
-avatar: ""
-competences:
-badges:
 startups:
     - SaintVincent
-missions:
 header:
   teaser: /assets/images/partenaires/Commune_SaintVincent.jpg
   show_overlay_excerpt: true

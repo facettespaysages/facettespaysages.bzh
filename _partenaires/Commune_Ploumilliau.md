@@ -2,10 +2,6 @@
 title: Commune de Ploumilliau
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
-avatar: ""
-competences:
-badges:
-missions:
 header:
   teaser: /assets/images/partenaires/Commune_Ploumilliau.jpg
   show_overlay_excerpt: true

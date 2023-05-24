@@ -2,10 +2,6 @@
 title: Isabelle Nivez
 excerpt: Paysagiste conceptrice
 incubator: maitres_oeuvre
-avatar: ""
-competences:
-badges:
-missions:
 header:
   teaser: /assets/images/partenaires/Isabelle_Nivez.jpg
   show_overlay_excerpt: true

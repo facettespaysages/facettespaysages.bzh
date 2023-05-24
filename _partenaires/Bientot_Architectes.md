@@ -2,10 +2,6 @@
 title: Bientôt
 excerpt: Architecture et urbanistes
 incubator: maitres_oeuvre
-avatar: ""
-competences:
-badges:
-missions:
 header:
   teaser: /assets/images/partenaires/Bientot_Architectes.jpeg
   show_overlay_excerpt: true

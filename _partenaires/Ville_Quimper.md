@@ -2,10 +2,6 @@
 title: Ville de Quimper
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
-avatar: ""
-competences:
-badges:
-missions:
 header:
   teaser: /assets/images/partenaires/Ville_Quimper.jpg
   show_overlay_excerpt: true

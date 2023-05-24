@@ -2,10 +2,6 @@
 title: Nunc Architectes
 excerpt: Architecture et urbanistes
 incubator: maitres_oeuvre
-avatar: ""
-competences:
-badges:
-missions:
 header:
   teaser: /assets/images/partenaires/Nunc_Architectes.jpg
   show_overlay_excerpt: true

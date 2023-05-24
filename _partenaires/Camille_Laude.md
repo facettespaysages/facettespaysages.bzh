@@ -2,12 +2,8 @@
 title: Camille Laude Architecte
 excerpt: Architecture
 incubator: maitres_oeuvre
-avatar: ""
-competences:
-badges:
 startups:
     - SaintVincent
-missions:
 header:
   teaser: /assets/images/partenaires/Camille_Laude.jpeg
   show_overlay_excerpt: true

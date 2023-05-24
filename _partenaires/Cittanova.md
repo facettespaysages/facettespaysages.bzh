@@ -2,13 +2,8 @@
 title: Cittànova
 excerpt: Architecture et urbanisme
 incubator: maitres_oeuvre
-avatar: ""
-rounded: false
-competences:
-badges:
 startups:
     - Commune Vay
-missions:
 header:
   teaser: /assets/images/partenaires/Cittanova.jpeg
   show_overlay_excerpt: true
