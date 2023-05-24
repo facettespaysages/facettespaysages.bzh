@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /approche/
+permalink: /présentation/
 title:  "Facettes Paysages"
 excerpt: "Vous trouverez ici toutes la documentation nécessaire pour connaître le projet."
 ---

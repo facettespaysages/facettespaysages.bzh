@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "Présentation"
-     url: /approche/
+     url: /présentation/
    - title: "Les Projets"
      url: /projets/
    - title: "Actualités"

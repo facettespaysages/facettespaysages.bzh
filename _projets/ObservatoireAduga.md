@@ -1,6 +1,6 @@
 ---
 title: Observatoire des paysages
-excerpt: Evaluer l'application des politiques publiques à travers l'évolution des paysages
+excerpt:  Évaluer l'application des politiques publiques à travers l'évolution des paysages
 phases:
   - name: all
     start: 2012-01-01
