@@ -1,21 +1,16 @@
 ---
 title: C'est mieux de le jouer
 excerpt: Animer des ateliers publics par le théâtre forum dans le cadre d'un Plan Climat Air Energie Territoire
-sponsors:
-incubator:
-link:
-contact:
-accessibility_status:
-usertypes:
-  - particulier
-  - entreprise
-stats: true
 phases:
   - name: all
     start: 2018
     end: 2018
 header:
   teaser: /assets/images/projets/TheatreForum.jpg
+  overlay_image: /assets/images/projets/TheatreForum.jpg
+  overlay_filter: 0.5
+  show_overlay_excerpt: true
+last_modified_at: 2023-05-26T00:00:00-00:00
 ---
 # C'est mieux de le jouer
 _Animation d’ateliers publics par le théâtre forum,

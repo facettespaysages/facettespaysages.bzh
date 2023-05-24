@@ -1,15 +1,19 @@
 ---
 title: Ville de Quimper
-excerpt: collectivité territoriale
-domaine: maîtrise d'ouvrage
-link: https://www.quimper.bzh/
+excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
 avatar: ""
 competences:
 badges:
 missions:
 header:
-  teaser: /assets/images/partenaires/Ville_Quimper.jpeg
+  teaser: /assets/images/partenaires/Ville_Quimper.jpg
+  show_overlay_excerpt: true
+  overlay_image: /assets/images/partenaires/Ville_Quimper.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "Lien direct"
+      url: https://www.quimper.bzh/
 ---
 
 Avec Isabelle Nivez, Louise Quintana, Bientôt et Biotope, la ville de Quimper nous fait confiance dans l'élaboration de son plan de paysage.

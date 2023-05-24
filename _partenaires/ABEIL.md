@@ -1,8 +1,6 @@
 ---
 title: ABEIL
-excerpt: ingénieurs en VRD, éclairage, mobilités actives, démarche environnementale
-domaine: Ingénierie
-#link: https://www.abeil-bretagne.fr/
+excerpt: Ingénieurs en VRD, éclairage, mobilités actives, démarche environnementale
 incubator: maitres_oeuvre
 avatar: ""
 competences:

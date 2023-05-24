@@ -4,5 +4,5 @@ layout: collection
 permalink: /projets/
 collection: projets
 entries_layout: grid
-#classes: wide
+classes: wide
 ---

@@ -1,8 +1,6 @@
 ---
 title: Camille Laude Architecte
-excerpt: architecte
-domaine: Architecture
-link: https://camillelaude.fr/
+excerpt: Architecture
 incubator: maitres_oeuvre
 avatar: ""
 competences:
@@ -12,6 +10,12 @@ startups:
 missions:
 header:
   teaser: /assets/images/partenaires/Camille_Laude.jpeg
+  show_overlay_excerpt: true
+  overlay_image: /assets/images/partenaires/Camille_Laude.jpeg
+  overlay_filter: 0.5
+  actions:
+    - label: "Lien direct"
+      url: https://camillelaude.fr/
 ---
 
 Camille Laude est architecte indépendante basée à Ecommoy. Nous sommes lauréates pour mener l'étude de requalification de centre-bourg de Saint-Vincent du Lorouër.

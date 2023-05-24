@@ -1,21 +1,16 @@
 ---
 title: Labellisation GeoPark du Parc Naturel Régional d'Armorique
 excerpt: Rédiger les dossiers réglementaires pour la labellisation Geopark du Parc Naturel Régional d'Armorique
-sponsors:
-incubator:
-link:
-contact: Isabelle_Nivez, Atelier_Hermine
-accessibility_status:
-usertypes:
-  - particulier
-  - entreprise
-stats: true
 phases:
   - name: all
     start: 2023-02-26
     end: 2023-05-08
 header:
   teaser: /assets/images/projets/PNRA.jpg
+  overlay_image: /assets/images/projets/PNRA.jpg
+  overlay_filter: 0.5
+  show_overlay_excerpt: true
+last_modified_at: 2023-05-26T00:00:00-00:00
 ---
 # Labellisation GeoPark du Parc Naturel Régional d'Armorique
 _Rédaction de dossiers réglementaires pour l’implantation d'une signalétique spécifique à la géologie des lieux_

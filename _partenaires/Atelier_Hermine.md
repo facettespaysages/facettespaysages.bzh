@@ -1,8 +1,6 @@
 ---
 title: Atelier de l'Hermine
-excerpt: scénographe et designer de mobilier
-domaine: Scénographie
-#link: https://ecointerprete.fr/
+excerpt: Scénographe et designer de mobilier
 incubator: maitres_oeuvre
 avatar: ""
 competences:

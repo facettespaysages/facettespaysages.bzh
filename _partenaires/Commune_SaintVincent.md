@@ -1,8 +1,6 @@
 ---
 title: Commune de Saint-Vincent du Lorouër
-excerpt: collectivité territoriale
-domaine: maîtrise d'ouvrage
-link: https://www.loirluceberce.fr/saint-vincent-du-lorouer/
+excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
 avatar: ""
 competences:
@@ -12,6 +10,12 @@ startups:
 missions:
 header:
   teaser: /assets/images/partenaires/Commune_SaintVincent.jpg
+  show_overlay_excerpt: true
+  overlay_image: /assets/images/partenaires/Commune_SaintVincent.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "Lien direct"
+      url: https://www.loirluceberce.fr/saint-vincent-du-lorouer/
 ---
 
 La commune de Saint-Vincent du Lorouër me fait confiance dans la requalification de son centre-bourg.

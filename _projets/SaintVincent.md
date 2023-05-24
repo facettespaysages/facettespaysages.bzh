@@ -1,29 +1,23 @@
 ---
 title: Requalification du centre-bourg de Saint-Vincent du Lorouër
 excerpt: Accompagner la transformation du centre-bourg
-sponsors:
-incubator:
-link:
-contact: Camille Laude Architecte, SODEREF
-accessibility_status:
-image_bandeau: /assets/images/saintvincent.jpg
 gallery:
-    - url: /assets/images/saintvincent.jpg
-      image_path: /assets/images/saintvincent.jpg
-      alt: "placeholder image 1"
-    - url: /assets/images/saintvincent2.jpg
-      image_path: /assets/images/saintvincent2.jpg
-      alt: "placeholder image 2"
-usertypes:
-  - particulier
-  - entreprise
-stats: true
+    - url: /assets/images/projets/saintvincent.jpg
+      image_path: /assets/images/projets/saintvincent.jpg
+      alt: "Situation existante"
+    - url: /assets/images/projets/saintvincent2.jpg
+      image_path: /assets/images/projets/saintvincent2.jpg
+      alt: "Situation projetée"
 phases:
   - name: all
     start: 2023-01-02
     end: 2023-12
 header:
   teaser: /assets/images/projets/SaintVincent.jpg
+  overlay_image: /assets/images/projets/SaintVincent.jpg
+  overlay_filter: 0.5
+  show_overlay_excerpt: true
+last_modified_at: 2023-05-26T00:00:00-00:00
 ---
 # Requalification du centre-bourg
 _Etudes d’aménagement du centre-bourg de Saint-Vincent du Lorouër_

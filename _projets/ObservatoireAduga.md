@@ -1,22 +1,16 @@
 ---
 title: Observatoire des paysages
 excerpt: Evaluer l'application des politiques publiques à travers l'évolution des paysages
-sponsors:
-incubator:
-link:
-contact: ADUGA
-budget_url: https://www.aduga.org/index.php?lvl=cmspage&pageid=6&id_rubrique=112
-accessibility_status:
-usertypes:
-  - particulier
-  - entreprise
-stats: true
 phases:
   - name: all
     start: 2012-01-01
     end: 2016-11-01
 header:
   teaser: /assets/images/projets/ObservatoireAduga.jpg
+  overlay_image: /assets/images/projets/ObservatoireAduga.jpg
+  overlay_filter: 0.5
+  show_overlay_excerpt: true
+last_modified_at: 2023-05-26T00:00:00-00:00
 ---
 # Observatoire des paysages
 _Evaluer l'application des politiques publiques à travers l'évolution des paysages du Grand Amiénois_
