@@ -35,13 +35,13 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Mes atouts"
     excerpt: |
-      Le théâtre d’improvisation nourrit ma philosophie professionnelle grâce à l’écoute, la prise de risque, l’organisation et la confiance de groupe.
+      Le <B>théâtre d’improvisation</B> nourrit ma philosophie professionnelle grâce à l’écoute, la prise de risque, l’organisation et la confiance de groupe.
       <br>
-      Je pratique le dessin depuis mon enfance. En 2020, je découvre l'aquarelle botanique avec l'atelier botanique dans le Massif des écrins.
+      Je pratique le <B>dessin</B> depuis mon enfance. En 2020, je découvre l'<B>aquarelle botanique</B> avec l'atelier botanique dans le Massif des écrins.
       <br>
       Au quotidien, j'utilise les logiciels de dessin assisté par ordinateur, la suite adobe et la suite office.
       <br>
-      J'empoche une certification sur l'énneagreamme, afin de mieux comprendre les interactions humaines et débloquer des situations complexes. 
+      J'empoche une certification sur l'<B>énneagreamme</B>, afin de mieux comprendre les interactions humaines et débloquer des situations complexes. 
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
