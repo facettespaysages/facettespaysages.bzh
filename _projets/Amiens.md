@@ -19,14 +19,22 @@ Le territoire analysé est composé d’une succession de «poches urbaines» fa
 
 ## Enjeux
 
-Afin de retrouver une entrée de ville ancrée dans la géographie de plateau, le projet répond aux enjeux d’aménagement suivants :
-*
+Afin de retrouver une entrée de ville ancrée dans la géographie de plateau, le projet répond aux enjeux d’aménagement métropolitains suivants :
+* Contenir l'urbanisation aux limites physiques dessinées par les grands axes routiers
+* Rééquilibrer l'offre commerciale en confortant les pôles d'activité existants
+* Diversifier les pratiques agricoles en frange urbaine en favorisant la perméabilité des sols
+* Développer les mobilités actives sur le plateau, selon des cercles concentriques.
+
 
 ## Le projet
 
-Le projet d’aménagement valorise et conforte l’entrée de ville comme façade économique tout en étant un quartier vécu.
+Le projet d’aménagement valorise et conforte l’entrée de ville comme façade économique tout en étant un quartier vécu : 
+* Il propose une desserte en transports en commun efficace et performante
+* Il développe un réseau dense pour les mobilités actives 
+* Il valorise les voies de communication historiques par des structures paysagères remarquables
+* Il facilite la perméabilité des sols par le biais des espaces publics et des parcelles cultivées
+* Il définit une urbanisation composée par des variations de densité en complémentarité des pratiques agricoles.
 Prenant place sur 170 ha, l’identité de la future ZAC Saint-Ladre est directement rattachée à la géographie de vallée sèche :  Un versant nord ouvert caractérisé par des grandes parcelles agricoles et une densité urbaine forte alliée d’espaces publics aérés à contrario d’un versant sud constitué de parcelles arboricoles et d’une densité urbaine moins forte, plus «rurale» et où les espaces publics sont conçus dans des ambiances plus intimistes et rafraîchissantes.
-
 
 ## Echéances
 

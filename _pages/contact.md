@@ -8,5 +8,5 @@ header:
   actions:
     - label: "juliette@facettes.bzh"
       url: "mailto:juliette@facettes.bzh"
-excerpt: "Pour toutes demandes d'informations au sujet de Facettes Paysages, contactez-nous par mail."
+excerpt: "Pour toutes demandes d'informations au sujet de Facettes Paysages, contactez-moi par mail ou par téléphone au 07.84.31.80.96."
 ---

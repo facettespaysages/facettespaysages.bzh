@@ -24,3 +24,12 @@ Comment représenter nos pensées dans l’espace ? Comment peut-on rendre visib
 En 1929, Magritte représente une pipe accompagnée du texte : «Ceci n’est pas une pipe». Par cette apparente négation, le peintre veut amener le visiteur à prendre conscience que son tableau est avant tout une représentation, plutôt qu’une vraie pipe. Il joue ainsi sur le décalage entre l’objet et sa représentation, entre l’objectivité et la subjectivité.
 
 A la façon de Magritte, «Ceci n’est pas un jardin» offre un premier tableau d’apparat : jardin lisse et sans fin qui dérange. Puis, la perspective tronquée perturbe ce tableau et intrigue le promeneur. Interpellé, il franchit une paroi qui s’épaissit pour s’immerger dans un « vrai » jardin, un jardin d’une nature bienfaisante, apaisante, qui panse et aide à penser.
+
+## L'équipe
+Arnaud Anger
+Clémence Aumond
+Ghislain Dalbos
+Julie Ferrero
+Frédéric Fouan 
+Juliette Ols
+
