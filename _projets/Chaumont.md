@@ -1,6 +1,6 @@
 ---
 title: Ceci n’est pas un jardin
-excerpt: Réaliser un jardin éphémère à l'occasion de la 27ème édition «Jardin de la Pensée» du domaine de Chaumont-sur-Loire
+excerpt: Projet lauréat de la 27ème édition «Jardin de la Pensée» du domaine de Chaumont-sur-Loire
 phases:
   - name: all
     start: 2017-09-01
@@ -15,8 +15,7 @@ header:
       url: https://domaine-chaumont.fr/fr/festival-international-des-jardins/archives/edition-2018-jardins-de-la-pensee
 last_modified_at: 2023-05-26T00:00:00-00:00
 ---
-# Ceci n’est pas un jardin
-_Projet lauréat de la 27ème édition «Jardin de la Pensée» du domaine de Chaumont-sur-Loire_
+__
 
 ## Le jardin de la pensée, une inspiration picturale  
 

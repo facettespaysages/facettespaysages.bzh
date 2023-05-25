@@ -13,53 +13,66 @@ header:
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Une agence de paysage finistérienne pour comprendre les dynamiques des paysages bretons et dessiner leurs évolutions possibles."
 intro: 
-  - excerpt: 'Accompagner les collectivités territoriales et les porteurs de projet privés dans leur démarche de résilience, pour une préservation des paysages remarquables et le développement de paysages comestibles.'
+  - excerpt: '<B>Accompagner les collectivités territoriales et les porteurs de projet privés dans leur démarche de résilience, pour une préservation des paysages remarquables et le développement de paysages comestibles.</B>'
 feature_row:
   - image_path: assets/images/projets/Chaumont.jpg
     alt: "placeholder image 1"
-    title: "Réaliser un jardin"
+    title: "Concevoir et réaliser un jardin éphémère"
     excerpt: "Projet lauréat de la 27ème édition «Jardin de la Pensée» du domaine de Chaumont-sur-Loire"
-  - image_path: /assets/images/projets/ObservatoireAduga.jpg
+  - image_path: /assets/images/projets/Amiens.jpg
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
-    title: "Évaluer l'application des politiques publiques "
-    excerpt: "Observatoire des paysages du Grand Amiénois"
+    title: "Réfléchir au développement urbain métropolitain"
+    excerpt: "Des zones au quartier, de nouveaux paysages en entrée nord d'Amiens"
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
   - image_path: /assets/images/projets/saint_vincent_plan.jpg
-    title: "Accompagner la transformation d'un centre-bourg"
-    excerpt: "Requalification du centre-bourg de Saint-Vincent du Lorouër"
+    title: "Dessiner de nouveaux espaces publics"
+    excerpt: "Requalification du centre-bourg de Saint-Vincent-du-Lorouër"
 feature_row2:
   - image_path: /assets/images/FP.jpg
     alt: "placeholder image 2"
     title: "Mes atouts"
-    excerpt: 'Je suis force de proposition et d’action à mettre en place pour établir des stratégies d’adaption des territoires aux dérèglements climatiques, pour les accompagner dans leur résilience.
-              Le théâtre d’improvisation nourrit ma philosophie professionnelle grâce à l’écoute, la prise de risque, l’organisation et la confiance de groupe.'
+    excerpt: |
+      Le théâtre d’improvisation nourrit ma philosophie professionnelle grâce à l’écoute, la prise de risque, l’organisation et la confiance de groupe.
+      <br>
+      Je pratique le dessin depuis mon enfance. En 2020, je découvre l'aquarelle botanique avec l'atelier botanique dans le Massif des écrins.
+      <br>
+      Au quotidien, j'utilise les logiciels de dessin assisté par ordinateur, la suite adobe et la suite office.
+      <br>
+      J'empoche une certification sur l'énneagreamme, afin de mieux comprendre les interactions humaines et débloquer des situations complexes. 
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/FP1.jpg
+  - image_path: /assets/images/FP2.jpg
     alt: "placeholder image 2"
-    title: "Prendre racine"
-    excerpt: 'Sensible à l’équilibre entre l’espace, le temps et toutes les formes du vivant, je pratique le projet de paysage en faisant de la couture avec l’existant, en favorisant le développement de nouveaux usages,
-     et en travaillant la matière végétale pour créer des ambiances paysagères adaptées au contexte. J’acquiers une expérience de sept années en agence d’urbanisme et de paysage. Jusqu’à fin 2022, 
-     je travaille à l’Atelier Jacqueline Osty et Associés où, sous la direction de Loïc Bonnin et Gabriel Mauchamp, 
-     je coordonne le volet opérationnel des accords cadres de la ZAC Sud-Ouest de l’Île de Nantes et la ZAC Bottière Pin Sec (ANRU II).'
+    title: "Mon parcours"
+    excerpt: |
+      En juillet 2016, je suis diplômée Paysagiste Conceptrice à l'ENSAP Lille. Je poursuis l'observatoire des paysages du Grand Amiénois en tant que chargée d'études à l'ADUGA. 
+      <br>
+      Cinq mois plus tard, je reprends mes marques à Nantes où j'évolue dans l'équipe des Ateliers UP+ de SCE. 
+      <br>
+      En octobre 2019, j'intègre la nouvelle antenne nantaise de l'Atelier Jacqueline Osty et Associés où, sous la direction de Loïc Bonnin et Gabriel Mauchamp, 
+      je coordonne le volet opérationnel des accords cadres de la ZAC Sud-Ouest de l’Île de Nantes et la ZAC Bottière Pin Sec (ANRU II).
+      <br>
+      En janvier 2023, je crée Facettes Paysages afin de travailler avec les collectivités bretonnes.
+      
+      
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/FP2.jpg
+  - image_path: /assets/images/FP1.jpg
     alt: "placeholder image 2"
-    title: "Facettes Paysages: 3 valeurs"
+    title: "Mes valeurs"
     excerpt: | 
-      Être à l'écoute des porteurs de projet et de leurs besoins.
+      Être à <B>l'écoute</B> des porteurs de projet et de leurs besoins.
       <br>
-      Dessiner ensemble un cadre de vie agréable et résilient.
+      Dessiner <B>ensemble</B> un cadre de vie agréable et résilient.
       <br>
-      Développer les paysages comestibles, en prônant un retour à la forêt.
+      Développer les <B>paysages comestibles</B>, en prônant un retour à la forêt.
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
@@ -69,8 +82,8 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="center" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="center" %}
 
 {% include feature_row id="feature_row4" type="center" %}

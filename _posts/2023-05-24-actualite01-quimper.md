@@ -1,7 +1,9 @@
 ---
 layout: single
-title:  "Actualité #01"
-excerpt: "Facettes Paysages lauréate du plan paysage de Quimper"
+title:  "Actualité #01 
+<br>
+Plan de paysage de Quimper"
+excerpt: "Déroulé sur trois ans, le plan de paysage de Quimper démarre en juin 2023 !"
 categories:
   - Actualités
 author_profile: false

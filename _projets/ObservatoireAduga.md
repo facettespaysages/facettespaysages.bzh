@@ -1,6 +1,6 @@
 ---
 title: Observatoire des paysages
-excerpt:  Évaluer l'application des politiques publiques à travers l'évolution des paysages
+excerpt:  Évaluer l'application des politiques publiques à travers l'évolution des paysages du Grand Amiénois
 phases:
   - name: all
     start: 2012-01-01
@@ -15,8 +15,6 @@ header:
       url: https://www.aduga.org/index.php?lvl=cmspage&pageid=6&id_rubrique=112
 last_modified_at: 2023-05-26T00:00:00-00:00
 ---
-# Observatoire des paysages
-_Evaluer l'application des politiques publiques à travers l'évolution des paysages du Grand Amiénois_
 
 ## Contexte 
 

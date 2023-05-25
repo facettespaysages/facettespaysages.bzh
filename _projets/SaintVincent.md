@@ -1,6 +1,6 @@
 ---
-title: Requalification du centre-bourg de Saint-Vincent du Lorouër
-excerpt: Accompagner la transformation du centre-bourg
+title: De nouveaux espaces publics
+excerpt: Etudes d’aménagement du centre-bourg de Saint-Vincent-du-Lorouër
 gallery:
     - url: /assets/images/projets/saint_vincent.jpg
       image_path: /assets/images/projets/saint_vincent.jpg
@@ -19,12 +19,10 @@ header:
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
 ---
-# Requalification du centre-bourg
-_Etudes d’aménagement du centre-bourg de Saint-Vincent du Lorouër_
 
 ## Contexte 
 
-La commune de Saint-Vincent a excerptné notre équipe pour intégrer l'élargissement de la route départementale dans une étude plus large de requalification des espaces publics du centre-bourg.
+La commune de Saint-Vincent a missionné notre équipe pour intégrer l'élargissement de la route départementale dans une étude plus large de requalification des espaces publics du centre-bourg.
 Les opérations de démolition de certaines maisons transforment la perception de l'espace vécu entre l'église au sud et le futur espace de vie communal au nord.
 
 ## Enjeux
@@ -37,7 +35,7 @@ Afin de retrouver un centre-bourg à taille humaine, le projet répond aux enjeu
 
 ## Le projet
 
-La démolition des habitations centrales permet d’aménager de larges trottoirs (L=2,00m) de part et d’autre d’une voirie élargie à 6m sur l’ensemble du linéaire.
+La démolition des habitations centrales permet d’aménager de larges trottoirs de part et d’autre d’une voirie élargie à 6m sur l’ensemble du linéaire.
 Un parking de 9 places dont une PMR est aménagé dans la partie centrale.
 Le puits est conservé et mis en valeur par l’aménagement d’un petit jardin dans l’alcôve des murets existants.
 

@@ -1,6 +1,6 @@
 ---
 title: Un jardin sec suspendu
-excerpt: Réaliser un jardin sur un toit terrasse à Nantes
+excerpt: Aménagement d'un jardin sur un toit-terrasse Nantais
 phases:
   - name: all
     start: 2020-12-01
@@ -12,8 +12,6 @@ header:
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
 ---
-# Un jardin sec suspendu
-_Aménagement d'un jardin sur un toit-terrasse Nantais_
 
 ## Contexte 
 

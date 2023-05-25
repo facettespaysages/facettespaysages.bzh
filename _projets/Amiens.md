@@ -1,6 +1,6 @@
 ---
 title: Des zones au quartier
-excerpt: Imaginer l'avenir de la vallée sèche Saint-Ladre, par l'aménagement de nouveaux paysages en entrée nord d'Amiens
+excerpt: La vallée sèche Saint-Ladre, de nouveaux paysages en entrée nord d'Amiens
 phases:
   - name: all
     start: 2015-09-01
@@ -12,8 +12,6 @@ header:
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
 ---
-# Des zones au quartier
-_La vallée sèche Saint-Ladre, de nouveaux paysages en entrée nord d'Amiens_
 
 ## Contexte 
 

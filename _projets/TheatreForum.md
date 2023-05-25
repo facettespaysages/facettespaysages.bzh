@@ -12,9 +12,7 @@ header:
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
 ---
-# C'est mieux de le jouer
-_Animation d’ateliers publics par le théâtre forum,
-Questembert communauté, Arc-Sud Bretagne & Ploermël communauté_
+_Questembert communauté, Arc-Sud Bretagne & Ploermël communauté_
 
 ## Le Plan Climat Air Energie Territoire 
 
@@ -28,4 +26,4 @@ Le principal objectif est de construire cette stratégie de façon collective, m
 Ce projet co-construit permet au territoire d’atteindre les objectifs nationaux et régionaux "Air Energie Climat" à l’horizon 2050.
 Le théâtre forum est un des leviers pour que les citoyen·nes soient force de proposition et s’approprient cette démarche ambitieuse.
 
-Accompagnée par Arnaud Mesnard et Eleonore Dorville, j'ai eu plaisir a animé les ateliers de théâtre forum grâce aux outils du théâtre d’improvisation. Les scénettes improvisées étaient réajustées et rejouées avec le public présent.
+Accompagnée par Arnaud Mesnard et Eleonore Dorville, j'ai eu plaisir à animer les ateliers de théâtre forum grâce aux outils du théâtre d’improvisation. Les scénettes improvisées étaient réajustées et rejouées avec le public présent.
