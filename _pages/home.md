@@ -50,14 +50,14 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Mon parcours"
     excerpt: |
-      En juillet 2016, je suis diplômée Paysagiste Conceptrice à l'ENSAP Lille. Je poursuis l'observatoire des paysages du Grand Amiénois en tant que chargée d'études à l'ADUGA. 
+      En juillet 2016, je suis diplômée Paysagiste Conceptrice à l'<B>ENSAP Lille</B>. Je poursuis l'observatoire des paysages du Grand Amiénois en tant que chargée d'études à l'ADUGA. 
       <br>
-      Cinq mois plus tard, je reprends mes marques à Nantes où j'évolue dans l'équipe des Ateliers UP+ de SCE. 
+      Cinq mois plus tard, je reprends mes marques à Nantes où j'évolue dans l'équipe des <B>Ateliers UP+ de SCE</B>. 
       <br>
-      En octobre 2019, j'intègre la nouvelle antenne nantaise de l'Atelier Jacqueline Osty et Associés où, sous la direction de Loïc Bonnin et Gabriel Mauchamp, 
+      En octobre 2019, j'intègre la nouvelle antenne nantaise de l'<B>Atelier Jacqueline Osty et Associés</B> où, sous la direction de Loïc Bonnin et Gabriel Mauchamp, 
       je coordonne le volet opérationnel des accords cadres de la ZAC Sud-Ouest de l’Île de Nantes et la ZAC Bottière Pin Sec (ANRU II).
       <br>
-      En janvier 2023, je crée Facettes Paysages afin de travailler avec les collectivités bretonnes.
+      En janvier 2023, je crée <B>Facettes Paysages</B> afin de travailler avec les collectivités bretonnes.
       
       
 #    url: "#test-link"
