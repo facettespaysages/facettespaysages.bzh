@@ -90,9 +90,11 @@ og_image                 : "/assets/images/Logo_Facettes_Paysages.svg" # Open Gr
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Organization" # Person or Organization (defaults to Person)
+  type     <              : "Organization" # Person or Organization (defaults to Person)
   name                   : "Facettes Paysages" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - https://www.linkedin.com/company/facettes-paysages
+
 
 # Analytics
 analytics:
@@ -109,6 +111,7 @@ author:
   bio              : "Paysagiste Conceptrice"
   location         : "Cosmar, 29530 Collorec"
   email            : "juliette@facettes.bzh"
+  linkedin         : "juliette-ols-7929b5a8"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
