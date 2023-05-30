@@ -11,6 +11,17 @@ header:
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
+sidebar:
+  - title: "Site"
+    text: "Questembert communauté, Arc-Sud Bretagne & Ploermël communauté, département du Morbihan (56)"
+  - title: "Maîtrise d'ouvrage"
+    text: "Nepsen"
+  - title: "Equipe"
+    text: "Eleonore Dorville, Arnaud Mesnard, Juliette Ols"
+  - title: "Surface"
+    text: "-"
+  - title: "Budget"
+    text: "-"
 ---
 _Questembert communauté, Arc-Sud Bretagne & Ploermël communauté_
 

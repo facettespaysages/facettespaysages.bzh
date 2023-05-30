@@ -14,8 +14,15 @@ header:
     - label: "ADUGA"
       url: https://www.aduga.org/index.php?lvl=cmspage&pageid=6&id_rubrique=112
 last_modified_at: 2023-05-26T00:00:00-00:00
----
+sidebar:
+    - title: "Site"
+      text: "Territoire du Grand Amiénois, département de la Somme (80)"
+    - title: "Maîtrise d'ouvrage"
+      text: "Communes du Grand Amiénois"
+    - title: "Equipe"
+      text: "Agence de Développement et d'Urbanisme du Grand Amiénois"
 
+---
 ## Contexte 
 
 L’observatoire des paysages est un outil d’évaluation des impacts du Schéma de COhérence Territoriale (SCOT) à l’échelle locale sur 12 sites témoins. L’observatoire rend compte de la pluralité et la richesse des paysages du Grand Amiénois tout en étant un outil de communication et de sensibilisation entre l’ADUGA et les acteur·ices locaux·les.
