@@ -11,8 +11,18 @@ header:
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
+sidebar:
+  - title: "Site"
+    text: "Ecoquartier de la Prairie au Duc, département de Loire-Atlantique (44)"
+  - title: "Maîtrise d'ouvrage"
+    text: "Commanditaire privé"
+  - title: "Equipe"
+    text: "Facettes Paysages"
+  - title: "Surface"
+    text: "66 m2"
+  - title: "Budget"
+    text: "1 500 € H.T."
 ---
-
 ## Contexte 
 
 Situé dans un quartier fraîchement sortie de terre, le jardin sec suspendu a été imaginé sur une terrasse privative de 66m².

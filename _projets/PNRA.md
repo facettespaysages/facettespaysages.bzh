@@ -11,8 +11,18 @@ header:
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
+sidebar:
+    - title: "Site"
+      text: "Parc Naturel Régional d'Armorique, département du Finistère (29)"
+    - title: "Maîtrise d'ouvrage"
+      text: "PNRA"
+    - title: "Equipe"
+      text: "Isabelle Nivez, Atelier de l'Hermine, Facettes Paysages"
+    - title: "Surface"
+      text: "-"
+    - title: "Budget"
+      text: "-"
 ---
-
 ## Contexte 
 
 Le Parc Naturel d’Armorique est candidat au label « Géoparc mondial UNESCO » et a déposé la candidature du territoire en novembre 2019 aux instances de l’UNESCO. L’objectif est de contribuer à l’attractivité du territoire et d’impulser une nouvelle dynamique de développement économique local, fondée sur la richesse et la préservation de ces patrimoines.

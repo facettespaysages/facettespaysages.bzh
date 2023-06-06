@@ -11,8 +11,18 @@ header:
   overlay_filter: 0.2
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
+sidebar:
+  - title: "Site"
+    text: "Entrée nord d'Amiens, département de la Somme (80)"
+  - title: "Maîtrise d'ouvrage pressentie"
+    text: "Amiens Métropole"
+  - title: "Equipe"
+    text: "Facettes Paysages"
+  - title: "Surface"
+    text: "170 ha"
+  - title: "Budget"
+    text: "-"
 ---
-
 ## Contexte 
 
 Le territoire analysé est composé d’une succession de «poches urbaines» faites au coup par coup depuis 1960. L’extension de la zone commerciale Saint-Ladre ne fait que prolonger cet urbanisme sans considérer la géographie de vallée sèche du même nom.

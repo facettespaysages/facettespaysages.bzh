@@ -11,25 +11,26 @@ header:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Une agence de paysage finistérienne pour comprendre les dynamiques des paysages bretons et dessiner leurs évolutions possibles."
+excerpt: "Une agence de paysage finistérienne pour comprendre les dynamiques des paysages et dessiner leurs évolutions possibles."
 intro: 
   - excerpt: '<B>Accompagner les collectivités territoriales et les porteurs de projet privés dans leur démarche de résilience, pour une préservation des paysages remarquables et le développement de paysages comestibles.</B>'
 feature_row:
-  - image_path: assets/images/projets/Chaumont.jpg
-    alt: "placeholder image 1"
-    title: "Concevoir et réaliser un jardin éphémère"
-    excerpt: "Projet lauréat de la 27ème édition «Jardin de la Pensée» du domaine de Chaumont-sur-Loire"
+  - image_path: /assets/images/projets/saint_vincent_2.jpg
+    alt: "Croquis d'ambiance du jardin de Saint-Vincent-du-Lorouër"
+    title: "Dessiner de nouveaux espaces publics"
+    excerpt: "Requalification du centre-bourg de Saint-Vincent-du-Lorouër"
   - image_path: /assets/images/projets/Amiens.jpg
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
+    alt: "Plan d'aménagement de la vallée sèche Saint-Ladre"
     title: "Réfléchir au développement urbain métropolitain"
     excerpt: "Des zones au quartier, de nouveaux paysages en entrée nord d'Amiens"
+  - image_path: assets/images/projets/Chaumont.jpg
+    alt: "Croquis d'ambiance de ceci n'est pas un jardin"
+    title: "Concevoir et réaliser un jardin éphémère"
+    excerpt: "Projet lauréat de la 27ème édition «Jardin de la Pensée» du domaine de Chaumont-sur-Loire"
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
-  - image_path: /assets/images/projets/saint_vincent_plan.jpg
-    title: "Dessiner de nouveaux espaces publics"
-    excerpt: "Requalification du centre-bourg de Saint-Vincent-du-Lorouër"
 feature_row2:
   - image_path: /assets/images/FP.jpg
     alt: "placeholder image 2"

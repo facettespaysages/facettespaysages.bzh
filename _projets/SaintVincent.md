@@ -18,8 +18,18 @@ header:
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00
+sidebar:
+  - title: "Site"
+    text: "Saint-Vincent-du-Lorouër, département de la Sarthe (72)"
+  - title: "Maîtrise d'ouvrage"
+    text: "Commune de Saint-Vincent-du-Lorouër"
+  - title: "Equipe"
+    text: "Camille Laude, Facettes Paysages, Soderef"
+  - title: "Surface"
+    text: "1 500 m2"
+  - title: "Budget travaux"
+    text: "250 000 € H.T."
 ---
-
 ## Contexte 
 
 La commune de Saint-Vincent a missionné notre équipe pour intégrer l'élargissement de la route départementale dans une étude plus large de requalification des espaces publics du centre-bourg.
