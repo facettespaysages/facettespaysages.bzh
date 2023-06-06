@@ -59,7 +59,7 @@
 
 <meta property="og:type" content="{{ og_type }}">
 <meta property="og:locale" content="{{ site.locale | replace: "-", "_" | default: "en_US" }}">
-<meta property="og:site_name" content="Facettes Paysages">
+<meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 <meta property="og:url" content="{{ canonical_url }}">
 
@@ -124,17 +124,10 @@
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    {% if site.social.type == "Organization" %}
-      "@type": "Organization",
-      "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
-      "logo": {{ site_og_image | jsonify }}{% endif %}{% if site.social.links %},
-      "sameAs": {{ site.social.links | jsonify }}{% endif %}
-    {% else %}
-      "@type": "Person",
-      "name": {{ site.social.name | default: site.name | jsonify }},
-      "url": {{ '/' | absolute_url |jsonify }}{% if site.social.links %},
-      "sameAs": {{ site.social.links | jsonify }}{% endif %}
-    {% endif %}
+    "@type": "Organization",
+    "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
+    "logo": {{ site_og_image | jsonify }}{% endif %}{% if site.social.links %},
+    "sameAs": {{ site.social.links | jsonify }}{% endif %}
   }
 </script>
 

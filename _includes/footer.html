@@ -13,7 +13,7 @@
 </div>
 
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
+  &copy; {{ site.time | date: '%Y' }} {{ site.title }}
   {% unless logo_path == empty %}
   <a class="footer-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
   {% endunless %}
