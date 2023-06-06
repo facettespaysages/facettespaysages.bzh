@@ -1,5 +1,4 @@
 ---
-title: "Facettes Paysages"
 layout: splash
 permalink: /
 header:

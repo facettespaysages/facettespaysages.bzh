@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /présentation/
-title:  "Facettes Paysages"
+title:  "Présentation"
 excerpt: "Vous trouverez ici toutes la documentation nécessaire pour connaître le projet."
 ---
 
