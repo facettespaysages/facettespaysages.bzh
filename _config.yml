@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Paysagiste Conceptrice"
+title                    : "Facettes Paysages"
 title_separator          : "-"
 subtitle                 : "Conception paysagère & Finistère" # site tagline that appears below site title in masthead
-name                     : "Facettes Paysages"
+name                     : "Paysagiste Conceptrice"
 description              : "Une agence de paysage finistérienne pour comprendre les dynamiques des paysages bretons et dessiner leurs évolutions possibles."
 url                      : "https://www.facettes.bzh" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -91,7 +91,7 @@ og_image                 : "/assets/images/Logo_Facettes_Paysages.svg" # Open Gr
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type     <              : "Organization" # Person or Organization (defaults to Person)
+  type                   : "Organization" # Person or Organization (defaults to Person)
   name                   : "Facettes Paysages" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - https://www.linkedin.com/company/facettes-paysages
