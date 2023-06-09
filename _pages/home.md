@@ -30,7 +30,7 @@ feature_row:
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/thumbnails/images/FP.jpg
+  - image_path: /assets/images/thumbnails/FP.jpg
     alt: "placeholder image 2"
     title: "Mes atouts"
     excerpt: |
@@ -45,7 +45,7 @@ feature_row2:
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/thumbnails/images/FP2.jpg
+  - image_path: /assets/images/thumbnails/FP2.jpg
     alt: "placeholder image 2"
     title: "Mon parcours"
     excerpt: |
@@ -63,7 +63,7 @@ feature_row3:
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/thumbnails/images/FP1.jpg
+  - image_path: /assets/images/thumbnails/FP1.jpg
     alt: "placeholder image 2"
     title: "Mes valeurs"
     excerpt: | 
