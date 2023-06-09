@@ -5,9 +5,9 @@ incubator: maitres_oeuvre
 startups:
     - SaintVincent
 header:
-  teaser: /assets/images/partenaires/Camille_Laude.jpeg
+  teaser: /assets/images/thumbnails/partenaires/Camille_Laude.jpg
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/Camille_Laude.jpeg
+  overlay_image: /assets/images/partenaires/Camille_Laude.jpg
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

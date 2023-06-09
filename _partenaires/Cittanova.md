@@ -5,7 +5,7 @@ incubator: maitres_oeuvre
 startups:
     - Commune Vay
 header:
-  teaser: /assets/images/partenaires/Cittanova.jpg
+  teaser: /assets/images/thumbnails/partenaires/Cittanova.jpg
   show_overlay_excerpt: true
   overlay_image: /assets/images/partenaires/Cittanova.jpg
   overlay_filter: 0.5

@@ -6,7 +6,7 @@ phases:
     start: 2018
     end: 2018
 header:
-  teaser: /assets/images/projets/TheatreForum.jpg
+  teaser: /assets/images/thumbnails/projets/TheatreForum.jpg
   overlay_image: /assets/images/projets/TheatreForum.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true

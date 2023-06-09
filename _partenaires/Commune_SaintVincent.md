@@ -5,7 +5,7 @@ incubator: maitres_ouvrage
 startups:
     - SaintVincent
 header:
-  teaser: /assets/images/partenaires/Commune_SaintVincent.jpg
+  teaser: /assets/images/thumbnails/partenaires/Commune_SaintVincent.jpg
   show_overlay_excerpt: true
   overlay_image: /assets/images/partenaires/Commune_SaintVincent.jpg
   overlay_filter: 0.5
