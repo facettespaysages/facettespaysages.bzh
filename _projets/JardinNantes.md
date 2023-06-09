@@ -6,7 +6,7 @@ phases:
     start: 2020-12-01
     end: 2021-02
 header:
-  teaser: /assets/images/projets/JardinNantes.jpg
+  teaser: /assets/images/thumbnails/projets/JardinNantes.jpg
   overlay_image: /assets/images/projets/JardinNantes.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true

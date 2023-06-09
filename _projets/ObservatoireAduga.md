@@ -6,7 +6,7 @@ phases:
     start: 2012-01-01
     end: 2016-11-01
 header:
-  teaser: /assets/images/projets/ObservatoireAduga.jpg
+  teaser: /assets/images/thumbnails/projets/ObservatoireAduga.jpg
   overlay_image: /assets/images/projets/ObservatoireAduga.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true

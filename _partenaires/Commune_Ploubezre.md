@@ -3,7 +3,7 @@ title: Commune de Ploubezre
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
 header:
-  teaser: /assets/images/partenaires/Commune_Ploubezre.jpg
+  teaser: /assets/images/thumbnails/partenaires/Commune_Ploubezre.jpg
   show_overlay_excerpt: true
   overlay_image: /assets/images/partenaires/Commune_Ploubezre.jpg
   overlay_filter: 0.5

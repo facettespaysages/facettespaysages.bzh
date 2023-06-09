@@ -3,7 +3,7 @@ title: Louise Quintana
 excerpt: Paysagiste conceptrice
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/partenaires/Louise_Quintana.jpg
+  teaser: /assets/images/thumbnails/partenaires/Louise_Quintana.jpg
   show_overlay_excerpt: true
   overlay_image: /assets/images/partenaires/Louise_Quintana.jpg
   overlay_filter: 0.5
