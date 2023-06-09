@@ -3,9 +3,9 @@ title: Bientôt
 excerpt: Architecture et urbanistes
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/partenaires/Bientot_Architectes.jpeg
+  teaser: /assets/images/partenaires/Bientot_Architectes.jpg
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/Bientot_Architectes.jpeg
+  overlay_image: /assets/images/partenaires/Bientot_Architectes.jpg
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

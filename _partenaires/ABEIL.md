@@ -3,9 +3,9 @@ title: ABEIL
 excerpt: Ingénieurs en VRD, éclairage, mobilités actives, démarche environnementale
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/partenaires/ABEIL.jpeg
+  teaser: /assets/images/partenaires/ABEIL.jpg
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/ABEIL.jpeg
+  overlay_image: /assets/images/partenaires/ABEIL.jpg
   overlay_filter: 0.9
   actions:
     - label: "Lien direct"
