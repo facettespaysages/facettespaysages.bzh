@@ -20,8 +20,8 @@ convert baie-kerogan.jpg -resize 50% baie-kerogan.jpg
 ## Create thumbnails :
 ```shell script
 cd assets/images
-mogrify  -format png -path thumbnails -thumbnail 600x600 *.jpg
-mogrify  -format png -path thumbnails/projets -thumbnail 400x400 projets/*.jpg
-mogrify  -format png -path thumbnails/partenaires -thumbnail 400x400 partenaires/*.jpg
-mogrify  -format png -path thumbnails/actualites -thumbnail 400x400 actualites/*.jpg
+mogrify  -format jpg -path thumbnails -thumbnail 600x600 *.jpg
+mogrify  -format jpg -path thumbnails/projets -thumbnail 400x400 projets/*.jpg
+mogrify  -format jpg -path thumbnails/partenaires -thumbnail 400x400 partenaires/*.jpg
+mogrify  -format jpg -path thumbnails/actualites -thumbnail 400x400 actualites/*.jpg
 ```
