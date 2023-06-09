@@ -21,7 +21,7 @@ convert baie-kerogan.jpg -resize 50% baie-kerogan.jpg
 ```shell script
 cd assets/images
 mogrify  -format jpg -path thumbnails -thumbnail 600x600 *.jpg
-mogrify  -format jpg -path thumbnails/projets -thumbnail 400x400 projets/*.jpg
+mogrify  -format jpg -path thumbnails/projets -thumbnail 600x600 projets/*.jpg
 mogrify  -format jpg -path thumbnails/partenaires -thumbnail 400x400 partenaires/*.jpg
 mogrify  -format jpg -path thumbnails/actualites -thumbnail 400x400 actualites/*.jpg
 ```
