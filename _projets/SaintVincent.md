@@ -13,7 +13,7 @@ phases:
     start: 2023-01-02
     end: 2023-12
 header:
-  teaser: /assets/images/projets/saint_vincent_plan.jpg
+  teaser: /assets/images/thumbnails/projets/saint_vincent_plan.jpg
   overlay_image: /assets/images/projets/saint_vincent_plan.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true

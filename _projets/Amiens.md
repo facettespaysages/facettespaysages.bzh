@@ -6,7 +6,7 @@ phases:
     start: 2015-09-01
     end: 2016-07-03
 header:
-  teaser: /assets/images/projets/Amiens.jpg
+  teaser: /assets/images/thumbnails/projets/Amiens.jpg
   overlay_image: /assets/images/projets/Amiens.jpg
   overlay_filter: 0.2
   show_overlay_excerpt: true

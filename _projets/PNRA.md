@@ -6,7 +6,7 @@ phases:
     start: 2023-02-26
     end: 2023-05-08
 header:
-  teaser: /assets/images/projets/PNRA.jpg
+  teaser: /assets/images/thumbnails/projets/PNRA.jpg
   overlay_image: /assets/images/projets/PNRA.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true

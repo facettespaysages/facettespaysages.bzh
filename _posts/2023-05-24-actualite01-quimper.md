@@ -8,7 +8,7 @@ categories:
   - Actualités
 author_profile: false
 header:
-  teaser: /assets/images/actualites/actu01.jpg
+  teaser: /assets/images/thumbnails/actualites/actu01.jpg
   show_overlay_excerpt: false
   overlay_image: /assets/images/actualites/actu01.jpg
   overlay_filter: 0.2
