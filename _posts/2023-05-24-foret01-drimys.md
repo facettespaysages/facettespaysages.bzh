@@ -8,10 +8,14 @@ categories:
   - Blog
 author_profile: true
 header:
-  teaser: /assets/images/drimys.jpg
+  teaser: /assets/images/blog/drimys.jpg
   show_overlay_excerpt: false
   overlay_image: /assets/images/blog/drimys.jpg
   overlay_filter: 0.2
+gallery:
+  - url: /assets/images/blog/drimys.jpg
+    image_path: /assets/images/blog/drimys.jpg
+    alt: "aquarelle d'une planche botanique de Drimys winteri, à la manière de Mackintosh"
 ---
 
 Il était une fois… Drimys winteri J.R. Forst & G.Forst
@@ -21,3 +25,4 @@ Avant même que la crise sanitaire liée à la pandémie de la Covid 19 ne soit 
 Pendant le premier confinement à discuter avec mes parents, j’ai proposé de réaliser une première série de test de plantations pour voir l’adaptation de certaines espèces méconnues jusqu’alors. Dans la parcelle des frênes, dans un milieu frais et argileux, là où la lumière est plus abondante, nous avons installé Drimys. Un grillage à mouton a été mis en place pour empêcher les grands gibiers de venir goûter sa fraîche écorce.
 
 A la plantation, Drimys ne faisait pas plus de 40cm. Aujourd’hui bien installé, il commence à me dépasser. C’est un arbre au feuillage persistant, qui se comporte plutôt comme un arbuste sous notre latitude n’excédant pas 5m de hauteur. De très beaux spécimens sont visibles à l’arboretum des arbres du Monde en Arrée. Son écorce est comestible, on l’appelle la Cannelle de Magellan. Récoltée puis réduite en poudre, elle est un substitut au poivre. C’est également un condiment très riche en vitamine C. A la manière d’une agrume, elle luttait contre le scorbut dans les longues traversées marines des siècles passés.
+{% include gallery caption="Extrait d'une planche botanique de Drimys winteri" %}
