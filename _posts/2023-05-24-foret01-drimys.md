@@ -7,6 +7,11 @@ excerpt: "Arbuste originaire d'Amérique du Sud, faisant partie de la famille de
 categories:
   - Blog
 author_profile: true
+header:
+  teaser: /assets/images/drimys.jpg
+  show_overlay_excerpt: false
+  overlay_image: /assets/images/blog/drimys.jpg
+  overlay_filter: 0.2
 ---
 
 Il était une fois… Drimys winteri J.R. Forst & G.Forst
