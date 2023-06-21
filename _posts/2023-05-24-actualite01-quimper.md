@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Actualité #01 
+title:  "Requalification du centre-bourg de Ploubezre
 <br>
-Requalification du centre-bourg de Ploubezre"
+Actualité #01"
 excerpt: "Déroulé sur trois ans, le projet portant sur les espaces publics de Ploubezre démarre en juin 2023 !"
 categories:
   - Actualités
