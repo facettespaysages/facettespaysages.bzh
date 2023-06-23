@@ -10,5 +10,7 @@ main:
      url: /category/blog/
    - title: "Les Partenaires"
      url: /partenaires/
+   - title: "Étude Salariale"
+     url: https://etude-salariale.facettes.bzh
    - title: "Contact"
      url: /contact/
