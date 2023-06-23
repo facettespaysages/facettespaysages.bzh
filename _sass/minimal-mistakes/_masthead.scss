@@ -40,7 +40,9 @@
 }
 
 .site-logo img {
-  max-height: 2rem;
+  display: block;
+  width: 2rem;
+  height: 2rem;
 }
 
 .site-title {
