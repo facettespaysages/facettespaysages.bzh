@@ -1,5 +1,6 @@
 ---
 title: Les Partenaires
+seo_title: Partenaires
 layout: collection
 permalink: /partenaires/
 collection: partenaires

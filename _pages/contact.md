@@ -2,6 +2,7 @@
 layout: splash
 permalink: /contact/
 title:  "Vous avez des questions ?"
+seo_title: Contact
 header:
   overlay_image: /assets/images/FP.webp
   overlay_filter: 0.5
