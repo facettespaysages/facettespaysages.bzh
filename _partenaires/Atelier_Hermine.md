@@ -3,9 +3,9 @@ title: Atelier de l'Hermine
 excerpt: Scénographe et designer de mobilier
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/thumbnails/partenaires/Atelier_Hermine.jpg
+  teaser: /assets/images/thumbnails/partenaires/Atelier_Hermine.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/Atelier_Hermine.jpg
+  overlay_image: /assets/images/partenaires/Atelier_Hermine.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

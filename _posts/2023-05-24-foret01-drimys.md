@@ -8,13 +8,13 @@ categories:
   - Blog
 author_profile: true
 header:
-  teaser: /assets/images/blog/drimys.jpg
+  teaser: /assets/images/blog/drimys.webp
   show_overlay_excerpt: false
-  overlay_image: /assets/images/blog/drimys.jpg
+  overlay_image: /assets/images/blog/drimys.webp
   overlay_filter: 0.2
 gallery:
-  - url: /assets/images/blog/drimys.jpg
-    image_path: /assets/images/blog/drimys.jpg
+  - url: /assets/images/blog/drimys.webp
+    image_path: /assets/images/blog/drimys.webp
     alt: "aquarelle d'une planche botanique de Drimys winteri, à la manière de Mackintosh"
 ---
 

@@ -3,7 +3,7 @@ layout: splash
 permalink: /contact/
 title:  "Vous avez des questions ?"
 header:
-  overlay_image: /assets/images/FP.jpg
+  overlay_image: /assets/images/FP.webp
   overlay_filter: 0.5
   actions:
     - label: "juliette@facettes.bzh"

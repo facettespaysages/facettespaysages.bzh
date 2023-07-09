@@ -3,9 +3,9 @@ title: Biotope environnement
 excerpt: Écologue
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/thumbnails/partenaires/Biotope.jpg
+  teaser: /assets/images/thumbnails/partenaires/Biotope.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/Biotope.jpg
+  overlay_image: /assets/images/partenaires/Biotope.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

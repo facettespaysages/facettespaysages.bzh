@@ -3,9 +3,9 @@ title: Nunc Architectes
 excerpt: Architecture et urbanistes
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/thumbnails/partenaires/Nunc_Architectes.jpg
+  teaser: /assets/images/thumbnails/partenaires/Nunc_Architectes.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/Nunc_Architectes.jpg
+  overlay_image: /assets/images/partenaires/Nunc_Architectes.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"
