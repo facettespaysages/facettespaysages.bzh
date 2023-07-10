@@ -135,17 +135,6 @@
   }
 </script>
 
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
-    "logo": {{ site_og_image | jsonify }}{% endif %}{% if site.social.links %},
-    "sameAs": {{ site.social.links | jsonify }}{% endif %}
-  }
-</script>
-
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
