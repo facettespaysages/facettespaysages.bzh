@@ -8,9 +8,9 @@ categories:
   - Actualités
 author_profile: false
 header:
-  teaser: /assets/images/thumbnails/actualites/actu01.jpg
+  teaser: /assets/images/thumbnails/actualites/actu01.webp
   show_overlay_excerpt: false
-  overlay_image: /assets/images/actualites/actu01.jpg
+  overlay_image: /assets/images/actualites/actu01.webp
   overlay_filter: 0.2
 ---
 

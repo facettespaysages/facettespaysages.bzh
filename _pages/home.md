@@ -4,7 +4,7 @@ permalink: /
 header:
   overlay_color: "#304591"
   overlay_filter: "0"
-#  overlay_image: /assets/images/unsplash-image-1.jpg
+#  overlay_image: /assets/images/unsplash-image-1.webp
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
@@ -13,16 +13,16 @@ excerpt: "Une agence de paysage finistérienne pour comprendre les dynamiques de
 intro: 
   - excerpt: '<B>Accompagner les collectivités territoriales et les porteurs de projet privés dans leur démarche de résilience, pour une préservation des paysages remarquables et le développement de paysages comestibles.</B>'
 feature_row:
-  - image_path: /assets/images/thumbnails/projets/saint_vincent_2.jpg
+  - image_path: /assets/images/thumbnails/projets/saint_vincent_2.webp
     alt: "Croquis d'ambiance du jardin de Saint-Vincent-du-Lorouër"
     title: "Dessiner de nouveaux espaces publics"
     excerpt: "Requalification du centre-bourg de Saint-Vincent-du-Lorouër"
-  - image_path: /assets/images/thumbnails/projets/Amiens.jpg
+  - image_path: /assets/images/thumbnails/projets/Amiens.webp
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "Plan d'aménagement de la vallée sèche Saint-Ladre"
     title: "Réfléchir au développement urbain métropolitain"
     excerpt: "Des zones au quartier, de nouveaux paysages en entrée nord d'Amiens"
-  - image_path: assets/images/thumbnails/projets/Chaumont.jpg
+  - image_path: assets/images/thumbnails/projets/Chaumont.webp
     alt: "Croquis d'ambiance de ceci n'est pas un jardin"
     title: "Concevoir et réaliser un jardin éphémère"
     excerpt: "Projet lauréat de la 27ème édition «Jardin de la Pensée» du domaine de Chaumont-sur-Loire"
@@ -30,7 +30,7 @@ feature_row:
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/thumbnails/FP.jpg
+  - image_path: /assets/images/thumbnails/FP.webp
     alt: "placeholder image 2"
     title: "Mes atouts"
     excerpt: |
@@ -45,7 +45,7 @@ feature_row2:
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/thumbnails/FP2.jpg
+  - image_path: /assets/images/thumbnails/FP2.webp
     alt: "placeholder image 2"
     title: "Mon parcours"
     excerpt: |
@@ -63,7 +63,7 @@ feature_row3:
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/thumbnails/FP1.jpg
+  - image_path: /assets/images/thumbnails/FP1.webp
     alt: "placeholder image 2"
     title: "Mes valeurs"
     excerpt: | 

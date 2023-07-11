@@ -2,13 +2,15 @@
 main:
    - title: "Présentation"
      url: /présentation/
-   - title: "Les Projets"
+   - title: "Projets"
      url: /projets/
    - title: "Actualités"
      url: /category/actualités/
    - title: "Blog"
      url: /category/blog/
-   - title: "Les Partenaires"
+   - title: "Partenaires"
      url: /partenaires/
+   - title: "Étude Salariale"
+     url: https://etude-salariale.facettes.bzh
    - title: "Contact"
      url: /contact/

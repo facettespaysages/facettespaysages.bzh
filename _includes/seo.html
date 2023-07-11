@@ -10,6 +10,10 @@
   {%- assign seo_title = page.title | append: " " | append: title_separator | append: " " | append: site.title -%}
 {%- endif -%}
 
+{%- if page.seo_title -%}
+  {%- assign seo_title = page.seo_title -%}
+{%- endif -%}
+
 {%- if seo_title -%}
   {%- assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once -%}
 {%- endif -%}
@@ -123,11 +127,11 @@
 
 <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "url": {{ '/' | absolute_url | jsonify }}{% if site.og_image %},
-    "logo": {{ site_og_image | jsonify }}{% endif %}{% if site.social.links %},
-    "sameAs": {{ site.social.links | jsonify }}{% endif %}
+    "@context" : "https://schema.org",
+    "@type" : "WebSite",
+    "name" : "Facettes Paysages",
+    "alternateName" : "Facettes",
+    "url" : "https://www.facettes.bzh/"
   }
 </script>
 

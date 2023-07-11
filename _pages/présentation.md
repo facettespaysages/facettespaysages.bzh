@@ -2,18 +2,19 @@
 layout: splash
 permalink: /présentation/
 title:  "Présentation"
+seo_title: "Présentation"
 excerpt: "Vous trouverez ici toutes la documentation nécessaire pour connaître le projet."
 ---
 
 
-![Juliette Ols](/assets/images/FP.jpg)
+![Juliette Ols](/assets/images/FP.webp)
 
 Je suis <b>paysagiste conceptrice</b>, diplômée en 2016 de l'Ecole Nationale Supérieure d'Architecture et de Paysage de Lille.
 
 
 ## Prendre racine
 
-![La baie de Terenez](/assets/images/FP0.jpg)
+![La baie de Terenez](/assets/images/FP0.webp)
 
 J'ai grandi dans le centre Finistère, à travers le bocage des Monts d'Arrée et les paysages littoraux de la presqu'île de Crozon, de la baie de Terenez ou encore le Cap Sizun.
 Une fois le baccaulauréat en poche, j'intègre l'Ecole Nationale Supérieure d'Architecture de Nantes, où je suis un cycle de licence.
@@ -21,12 +22,12 @@ En 2012, je décide de passer le concours commun aux quatre écoles de Paysage (
 
 J'acquiers une expérience de sept années en agence d’urbanisme et de paysage. Jusqu’à fin 2022, je travaille à l’Atelier Jacqueline Osty et Associés où, sous la direction de Loïc Bonnin et Gabriel Mauchamp, je coordonne le volet opérationnel des accords cadres de la ZAC Sud-Ouest de l’Île de Nantes et la ZAC Bottière Pin Sec (ANRU II).
 
-![Le quai des Antilles](/assets/images/FP2.jpg)
+![Le quai des Antilles](/assets/images/FP2.webp)
 
 A l’issue de ces années d’expérience, je crée Facettes Paysages en janvier 2023. Je choisis consciencieusement l'établissement de l'agence...
 C'est dans le Finistère que je m'enracine, dans le bocage de Collorec, pour travailler sur des thématiques touchant au développement des territoires peu denses et sur les paysages comestibles.
 
-![Le bocage de Collorec](/assets/images/FP1.jpg)
+![Le bocage de Collorec](/assets/images/FP1.webp)
 
 ## Aborder le projet en équipe
 

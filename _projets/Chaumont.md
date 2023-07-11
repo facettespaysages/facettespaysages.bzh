@@ -6,8 +6,8 @@ phases:
     start: 2017-09-01
     end: 2018-11-04
 header:
-  teaser: /assets/images/thumbnails/projets/Chaumont.jpg
-  overlay_image: /assets/images/projets/Chaumont.jpg
+  teaser: /assets/images/thumbnails/projets/Chaumont.webp
+  overlay_image: /assets/images/projets/Chaumont.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
   actions:

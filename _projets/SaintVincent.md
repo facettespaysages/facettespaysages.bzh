@@ -2,19 +2,19 @@
 title: De nouveaux espaces publics
 excerpt: Etudes d’aménagement du centre-bourg de Saint-Vincent-du-Lorouër
 gallery:
-    - url: /assets/images/projets/saint_vincent.jpg
-      image_path: /assets/images/projets/saint_vincent.jpg
+    - url: /assets/images/projets/saint_vincent.webp
+      image_path: /assets/images/projets/saint_vincent.webp
       alt: "Situation existante"
-    - url: /assets/images/projets/saint_vincent_2.jpg
-      image_path: /assets/images/projets/saint_vincent_2.jpg
+    - url: /assets/images/projets/saint_vincent_2.webp
+      image_path: /assets/images/projets/saint_vincent_2.webp
       alt: "Situation projetée"
 phases:
   - name: all
     start: 2023-01-02
     end: 2023-12
 header:
-  teaser: /assets/images/thumbnails/projets/saint_vincent_plan.jpg
-  overlay_image: /assets/images/projets/saint_vincent_plan.jpg
+  teaser: /assets/images/thumbnails/projets/saint_vincent_plan.webp
+  overlay_image: /assets/images/projets/saint_vincent_plan.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2023-05-26T00:00:00-00:00

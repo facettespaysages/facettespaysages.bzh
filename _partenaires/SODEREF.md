@@ -3,9 +3,9 @@ title: SODEREF
 excerpt: Ingénieurs en VRD, éclairage, mobilités actives, démarche environnementale
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/thumbnails/partenaires/SODEREF.jpg
+  teaser: /assets/images/thumbnails/partenaires/SODEREF.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/SODEREF.jpg
+  overlay_image: /assets/images/partenaires/SODEREF.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"
