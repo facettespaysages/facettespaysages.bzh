@@ -14,4 +14,4 @@ header:
   overlay_filter: 0.2
 ---
 
-Facettes Paysages avec ECR environnement, est l’heureuse équipe lauréate pour mener les études de réalisation des portes d'entrée d'agglomération de Bannalec. Cette étude vise à réduire la vitesse des automibilistes en entrée d'agglomération et de travailler une identité graphique propre à Bannalec, tout en intégrant les réglementations de signalisation horizontales en vigueur. 
+Facettes Paysages avec ECR environnement, est l’heureuse équipe lauréate pour mener les études de réalisation des portes d'entrée d'agglomération de Bannalec. Cette étude vise à réduire la vitesse des automibilistes en entrée d'agglomération et de travailler une identité graphique propre à Bannalec, tout en intégrant les réglementations de signalisations horizontales en vigueur. 
