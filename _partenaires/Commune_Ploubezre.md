@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"
-      url: https://www.loirluceberce.fr/saint-vincent-du-lorouer/
+      url: https://www.ploubezre.fr/
 ---
 
 Avec ABEIL, la commune de Ploubezre nous fait confiance dans l'étude de requalification des espaces publics du centre-bourg.
