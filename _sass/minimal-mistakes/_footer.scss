@@ -85,5 +85,15 @@
 }
 
 .footer-logo img {
-  max-height: 4rem;
+  max-height: 4.5rem;
+}
+
+.footer__wrapper {
+  @include clearfix();
+  margin-bottom: 2em;
+  font-size: $type-size-8;
+
+  .archive__item-title {
+    margin-bottom: 0;
+  }
 }

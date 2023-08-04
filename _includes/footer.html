@@ -1,20 +1,33 @@
 {% capture logo_path %}{{ site.logo_footer | default: site.logo }}{% endcapture %}
 
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.footer.links %}
-    {% for link in site.footer.links %}
-    {% if link.label and link.url %}
-    <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-    {% endif %}
-    {% endfor %}
-    {% endif %}
-  </ul>
-</div>
-
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.title }}
-  {% unless logo_path == empty %}
-  <a class="footer-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
-  {% endunless %}
+<div class="footer__wrapper">
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-body">
+        <br>
+        &copy; {{ site.time | date: '%Y' }} {{ site.title }}
+        <br>
+    </div>
+    </div>
+  </div>
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-body">
+        <i class="fas fa-compass" style="color: #ffffff;"></i> Cosmar 29530 COLLOREC
+        <br>
+        <i class="fas fa-phone fa-flip-horizontal" style="color: #ffffff;"></i> 07.84.31.80.96
+        <br>
+        <i class="fas fa-envelope" style="color: #ffffff;"></i> juliette@facettes.bzh
+      </div>
+    </div>
+  </div>
+  <div class="feature__item">
+    <div class="archive__item">
+      <div class="archive__item-body">
+        {% unless logo_path == empty %}
+        <a class="footer-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% endunless %}
+      </div>
+    </div>
+  </div>
 </div>
