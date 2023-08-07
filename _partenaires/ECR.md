@@ -3,9 +3,9 @@ title: ECR
 excerpt: Ingénieurs en VRD, éclairage, mobilités actives, démarche environnementale
 incubator: maitres_oeuvre
 header:
-  teaser: /assets/images/partenaires/ECR_Environnement.jpg
+  teaser: /assets/images/thumbnails/partenaires/ECR_Environnement.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/ECR_Environnement.jpg
+  overlay_image: /assets/images/partenaires/ECR_Environnement.webp
   overlay_filter: 0.9
   actions:
     - label: "Lien direct"
