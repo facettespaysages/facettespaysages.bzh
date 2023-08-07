@@ -14,4 +14,4 @@ header:
   overlay_filter: 0.2
 ---
 
-8 mois après sa création, Facettes Paysages a enfin reçu ses premières cartes de visite et ses stickers ! L'occasion de remercier tout particulièrement Jeanne Marie Lorrain pour l'identité graphique, Stickers en ligne pour l'édition des supports autocollants transparents, et Atlanmac pour les cartes de visite. Merci !
+8 mois après sa création, Facettes Paysages a édité ses premières cartes de visite et ses stickers ! L'occasion de remercier tout particulièrement Jeanne Marie Lorrain pour l'identité graphique, Stickers en ligne pour l'édition des supports autocollants transparents, et Atlanmac pour les cartes de visite. Merci !
