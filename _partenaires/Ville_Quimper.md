@@ -12,4 +12,4 @@ header:
       url: https://www.quimper.bzh/
 ---
 
-Avec Isabelle Nivez, Louise Quintana, Bientôt et Biotope, la ville de Quimper nous fait confiance dans l'élaboration de son [Plan de paysage de Quimper](https://plan-paysage-quimper.facettes.bzh/).
+Avec Isabelle Nivez, Louise Quintana, Bientôt et Biotope, la ville de Quimper nous fait confiance dans l'élaboration de son [Plan de paysage](https://plan-paysage-quimper.facettes.bzh/).
