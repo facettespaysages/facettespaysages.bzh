@@ -12,6 +12,9 @@ header:
   show_overlay_excerpt: false
   overlay_image: /assets/images/actualites/actu02.webp
   overlay_filter: 0.2
+  actions:
+    - label: "Site du Plan de paysage de Quimper"
+      url: https://plan-paysage-quimper.facettes.bzh/
 ---
 
 Facettes Paysages avec à ses côtés Isabelle Nivez, Louise Quintana, Bientôt & Biotope, est l’heureuse équipe lauréate pour mener le plan de paysage de Quimper. Cette étude menée sur deux  années permet de construire une vision commune des paysages remarquables quimpérois, d’en cerner les caractéristiques et les enjeux. Notre équipe mettra en récit les différents points de vue portés sur ces paysages en vue d’établir une stratégie planifiée et opérationnelle portée par la ville de Quimper et ses partenaires pour les valoriser, les préserver, les restaurer, les dessiner. 
