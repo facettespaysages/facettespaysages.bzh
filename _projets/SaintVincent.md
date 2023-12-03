@@ -1,5 +1,5 @@
 ---
-title: De nouveaux espaces publics
+title: Agrandissement de la place de l'église
 excerpt: Etudes d’aménagement du centre-bourg de Saint-Vincent-du-Lorouër
 gallery:
     - url: /assets/images/projets/saint_vincent.webp
