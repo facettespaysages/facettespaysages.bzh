@@ -1,6 +1,6 @@
 ---
 title: Labellisation GeoPark du Parc Naturel Régional d'Armorique
-excerpt:
+excerpt: Rédaction des permis d'aménager pour l'insertion de mobilier signalétique dédiée à la géologie du parc
 phases:
   - name: all
     start: 2023-02-26
