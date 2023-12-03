@@ -42,7 +42,7 @@ sidebar:
   - title: "Budget travaux"
     text: "2 000 000 € H.T."
 ---
-## Contexte 
+## Contexte
 
 La commune de Ploubezre a missionné notre équipe pour accompagner la redynamisation de son centre-bourg.
 
@@ -61,6 +61,8 @@ Afin d'accompagner les dynamiques actuelles et futures, le projet doit tenir com
 * faciliter et augmenter la capacité d'infiltration des eaux pluviales afin de réduire le ravinement des sols et le débit en aval.
 
 ## Le projet
+
+![plan des principes d'aménagement sur l'hyper-bourg](/assets/images/projets/ploubezre2.jpg)
 
 Par son installation sur le plateau du Petit Trégor, Ploubezre est orientée sur le vallon du Goas Per et plus loin, la vallée du Léguer. 
 
