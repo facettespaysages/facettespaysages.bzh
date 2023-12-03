@@ -33,8 +33,7 @@ sidebar:
     text: "Facettes Paysages"
   - title: "Surface"
     text: "1 500 m²"
-  - title: "Budget travaux"
-    text: "- "
+
 ---
 ## Contexte
 
