@@ -17,11 +17,11 @@ feature_row:
     alt: "Croquis d'ambiance du jardin de Saint-Vincent-du-Lorouër"
     title: "Dessiner de nouveaux espaces publics"
     excerpt: "Requalification du centre-bourg de Saint-Vincent-du-Lorouër"
-  - image_path: /assets/images/thumbnails/projets/Amiens.webp
+  - image_path: /assets/images/projets/ploubezre5.jpg
 #    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "Plan d'aménagement de la vallée sèche Saint-Ladre"
-    title: "Réfléchir au développement urbain métropolitain"
-    excerpt: "Des zones au quartier, de nouveaux paysages en entrée nord d'Amiens"
+    alt: "Vue d'oiseau de la place des Anciens Combattants de Ploubezre"
+    title: "Accompagner la redynamisation des centre-bourgs"
+    excerpt: "Projet d'aménagement des espaces publics de Ploubezre"
   - image_path: assets/images/thumbnails/projets/Chaumont.webp
     alt: "Croquis d'ambiance de ceci n'est pas un jardin"
     title: "Concevoir et réaliser un jardin éphémère"
