@@ -18,8 +18,6 @@ header:
 
 ---
 
-![photographie de Victoria Geffard, portrait de Juliette Ols dans la nature](/assets/images/actualites/actu07-2.jpg)
-
 Première rencontre avec la presse locale pour évoquer mon parcours, mon installation dans le centre Finistère, les projets sur lesquels je travaille avec les communes locales. 
 Petit tour d'horizon qui met en évidence l'importance du métier de paysagiste conceptrice avec les enjeux climatiques : accompagner les porteurs de projet dans leur résilience, pour gérer les eaux pluviales à ciel ouvert, notre ressource en eau, densifier le tissu urbain, développer les paysages comestibles, promouvoir les modes actifs, même en milieu rural... 
 Je ne pouvais pas imaginer mieux comme début d'activités : 
@@ -28,5 +26,7 @@ Je ne pouvais pas imaginer mieux comme début d'activités :
 * le cadre de travail, avec ce jardin, cette forêt, cette commune de Collorec, ce centre-Finistère, est paisible ! 
 
 Je remercie tout particulièrement Soizic Robet et Victoria Geffard de m'avoir contactée et m'avoir laissé ce temps d'échange ensemble.
+
+![photographie de Victoria Geffard, portrait de Juliette Ols dans la nature](/assets/images/actualites/actu07-2.jpg)
 
 Vous avez des questions ? Des projets que vous souhaitez voir sortir de terre ? Je suis disponible par téléphone au 07.84.31.80.96 et par mail à l'adresse de contact juliette@facettes.bzh
