@@ -19,7 +19,7 @@ header:
 ---
 
 Première rencontre avec la presse locale pour évoquer mon parcours, mon installation dans le centre Finistère, les projets sur lesquels je travaille avec les communes locales. 
-Petit tour d'horizon qui met en évidence l'importance du métier de paysagiste conceptrice au regard des enjeux climatiques : accompagner les porteurs de projet dans leur résilience, pour gérer les eaux pluviales à ciel ouvert, densifier le tissu urbain, développer les paysages comestibles, promouvoir les modes actifs, même en milieu rural... 
+Petit tour d'horizon qui met en évidence l'importance du métier de paysagiste conceptrice au regard des enjeux climatiques : accompagner les porteurs de projet dans leur démarche de résilience, pour gérer les eaux pluviales à ciel ouvert, densifier le tissu urbain, développer les paysages comestibles, promouvoir les modes actifs, même en milieu rural... 
 Je ne pouvais pas imaginer mieux comme début d'activités: 
 * les liens se tissent avec les acteurs et actrices du Finistère, des Côtes d'Armor, et même plus loin Rennes, Nantes, Vierzon;
 * les ambitions municipales et les enjeux d'aménagement sont stimulants;
