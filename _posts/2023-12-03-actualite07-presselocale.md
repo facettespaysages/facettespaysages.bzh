@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Facettes Paysages, a son premier article dans la presse locale !
+title:  "Facettes Paysages, dans la presse locale !
 <br>
 Actualité #07"
 excerpt: "Rencontre avec Victoria Geffard, édition du Ouest France Carhaix-Plouguer"
