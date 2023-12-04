@@ -17,7 +17,7 @@ feature_row:
     alt: "Croquis d'ambiance du jardin de Saint-Vincent-du-Lorouër"
     title: "Dessiner de nouveaux espaces publics"
     excerpt: "Requalification du centre-bourg de Saint-Vincent-du-Lorouër"
-  - image_path: /assets/images/projets/ploubezre5.jpg
+  - image_path: /assets/images/thumbnails/projets/ploubezre5.webp
     alt: "Vue d'oiseau de la place des Anciens Combattants de Ploubezre"
     title: "Accompagner la redynamisation des centre-bourgs"
     excerpt: "Projet d'aménagement des espaces publics de Ploubezre"
