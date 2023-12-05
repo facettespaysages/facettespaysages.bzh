@@ -36,7 +36,7 @@ A l’entrée du Massif des Ecrins, dans la vallée de Valbonnais, nous avons pa
 
 ![le lieu du stage, au pied du Massif des Ecrins](/assets/images/blog/aquarelleanais1.jpg)
 
-En ce début du mois de juin, la flore printanière était en pleine explosion. Des couleurs, des saveurs, des textures riches et contrastées, et fond de scène les crêtes encore enneigées. Les longues séances de dessin en extérieur étaient propices à la méditation, la concentration était à son paroxysme. 
+En ce début du mois de juin, la flore printanière était en pleine explosion. Des couleurs, des saveurs, des textures riches et contrastées, avec en fond de scène les crêtes encore enneigées. Les longues séances de dessin en extérieur étaient propices à la méditation, la concentration était à son paroxysme. 
 Les soirées étaient relativement courtes, le cerveau et le corps ayant besoin de se reposer pour entamer la suite de l’aventure dessinée. 
 
 {% include gallery caption="Quelques extraits de mon carnet de voyage" %}
