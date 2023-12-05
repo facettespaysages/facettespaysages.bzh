@@ -44,7 +44,7 @@ Les soirées étaient relativement courtes, le cerveau et le corps ayant besoin 
 En parallèle de ces excursions graphiques, nous avons eu la chance de réaliser une eau florale de Sauge des Prés avec Martine, herboriste passionnée et passionnante, qui nous a appris énormément sur les bienfaits des plantes de haute montagne.
 
 De retour de ce voyage, je me suis mise en tête de poursuivre la pratique de l’aquarelle, avec une entrée botanique. 
-Qu’elle ne fut pas ma surprise de voir que Sophie Graverand proposait des journées de découverte autour de l’aquarelle botanique au conservatoire botanique de Brest. 
+Qu’elle ne fut pas ma surprise de voir que Sophie Graverand proposait des journées de découverte autour de cette pratique au conservatoire botanique de Brest. 
 
 Une journée immersive au début du mois de décembre 2022, dans l’écrin verdoyant des serres tropicales du Conservatoire.
 
