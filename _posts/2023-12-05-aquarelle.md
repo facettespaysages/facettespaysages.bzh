@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "L'aquarelle botanique : un outil pour transmettre mon goût pour le monde végétal"
+title:  "L'aquarelle botanique : un moyen de partager ma passion pour le végétal"
 excerpt: "A la découverte du médium, des couleurs, des outils, du papier."
 categories:
   - Blog
@@ -41,7 +41,7 @@ Les soirées étaient relativement courtes, le cerveau et le corps ayant besoin 
 
 {% include gallery caption="Quelques extraits de mon carnet de voyage" %}
 
-En parallèle de ces excursions graphiques, nous avons eu la chance de réaliser une eau florale de Sauge des Prés avec Martine, herboriste passionnée et passionnante, qui nous a appris énormément sur les bienfaits des plantes de haute montagne.
+En parallèle de ces excursions graphiques, nous avons réalisé une eau florale de Sauge des Prés avec Martine, herboriste passionnée et passionnante, qui nous a appris énormément sur les bienfaits des plantes de haute montagne.
 
 De retour de ce voyage, je me suis mise en tête de poursuivre la pratique de l’aquarelle, avec une entrée botanique. 
 Qu’elle ne fut pas ma surprise de voir que Sophie Graverand proposait des journées de découverte autour de cette pratique au conservatoire botanique de Brest. 
