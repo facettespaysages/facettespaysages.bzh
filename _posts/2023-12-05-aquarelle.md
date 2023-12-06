@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "L'aquarelle botanique : un moyen de partager ma passion pour le végétal"
-excerpt: "A la découverte du médium, des couleurs, des outils, du papier."
+title:  "L'aquarelle botanique : diffuser mon gôut pour le végétal"
+excerpt: "A la découverte du médium, des couleurs, des supports et des outils"
 categories:
   - Blog
 author_profile: true
@@ -26,13 +26,13 @@ J’ai toujours apprécié dessiner des formes abstraites, ou me concentrer sur 
 
 Au cours de mes études en école de paysage, j’ai côtoyé des personnes très douées avec des pattes graphiques propres à chacune d’elles. Des études où j'avais l’espace et le temps disponible pour tester, créer et approfondir certaines techniques de dessin pour mieux communiquer les éléments de projet sur lesquels je travaillais. 
 
-Depuis mon diplôme, j’attache une grande importance au dessin à la main, notamment avec le croquis perspectif, pour créer des images sensibles sans forcément passer par des photomontages hyper-réalistes. 
-Le dessin est pour moi une manière simple et didactique de communiquer sur des principes d’aménagement, en laissant une place à l’imaginaire de mes clients et partenaires de travail. 
+Depuis mon diplôme, j’attache une grande importance au dessin à la main, notamment avec le croquis perspectif, pour créer des images sensibles sans forcément créer des photomontages hyper-réalistes. 
+Le dessin est pour moi une manière simple et didactique de communiquer sur des principes d’aménagement, en laissant une place à l’imaginaire de mes clients et mes partenaires de travail. 
 
-Au cours de mes années d’expérience nantaises, j’ai pris goût à l’aquarelle. 
+Au cours de mes années d’expérience nantaises, j’ai pris goût à l'aquarelle. 
 
 J’ai suivi un stage d’aquarelle botanique avec Anaïs de l’atelier botanique… Et quel voyage !
-A l’entrée du Massif des Ecrins, dans la vallée de Valbonnais, nous avons passé 5 jours à arpenter le fond de vallée.
+A l’entrée du Massif des Ecrins, dans la commune du Désert en Valjouffrey, nous avons passé quatre jours à arpenter le fond de vallée.
 
 ![le lieu du stage, au pied du Massif des Ecrins](/assets/images/blog/aquarelleanais1.jpg)
 
@@ -41,20 +41,20 @@ Les soirées étaient relativement courtes, le cerveau et le corps ayant besoin 
 
 {% include gallery caption="Quelques extraits de mon carnet de voyage" %}
 
-En parallèle de ces excursions graphiques, nous avons réalisé une eau florale de Sauge des Prés avec Martine, herboriste passionnée et passionnante, qui nous a appris énormément sur les bienfaits des plantes de haute montagne.
+En parallèle de ces excursions graphiques, nous avons réalisé une eau florale de Sauge des Prés avec Martine, herboriste passionnée et passionnante, qui nous a énormément appris sur les bienfaits des plantes de haute montagne.
 
 De retour de ce voyage, je me suis mise en tête de poursuivre la pratique de l’aquarelle, avec une entrée botanique. 
-Qu’elle ne fut pas ma surprise de voir que Sophie Graverand proposait des journées de découverte autour de cette pratique au conservatoire botanique de Brest. 
+Qu’elle ne fut pas ma surprise de voir que Sophie Graverand proposait des journées de découverte autour de cette pratique au Conservatoire Botanique de Brest. 
 
-Une journée immersive au début du mois de décembre 2022, dans l’écrin verdoyant des serres tropicales du Conservatoire.
+Une journée immersive, il y a tout juste un an, en décembre 2022, dans l’écrin verdoyant des serres tropicales du Conservatoire.
 
 ![le lieu du stage, à la découverte des Mackintosh dans les serres tropicales du Conservatoire Botanique de Brest](/assets/images/blog/aquarelle1.jpg)
 
-Cette journée était dédiée au travail du couple Mackintosh, artistes anglais faisant partie de la mouvance de l’art déco. Nous avons exploré les différentes étapes de préparation d’une planche botanique.
+Cette journée était dédiée au travail du couple Mackintosh, artistes anglais faisant partie de la mouvance de l’art déco. Nous avons exploré les différentes étapes de création d'une planche botanique.
 
 ![extrait de planche botanique dédiée à Passiflora vitifolia](/assets/images/blog/aquarelle2.jpg)
 
-En juillet 2023, cette mise en bouche s’est concrétisée par un stage d'une semaine dédié à la création d’une planche botanique, avec ses différentes étapes et une technique très fine de l’aquarelle. 
+En juillet 2023, cette mise en bouche s’est concrétisée par un stage d'une semaine dédié à la création d’une planche botanique, avec ses différentes étapes et l'utilisation technique très fine de l’aquarelle. 
 Nous avons choisi de travailler sur une plante, tout au long de la semaine, pour apprendre à l'observer sous tous les angles, dans les moindres détails.
 
 ![Etudes de l'Oxalis, sous toutes ces coutures](/assets/images/blog/aquarelle3.jpg)
@@ -64,5 +64,6 @@ Une diversité de couleurs complexe à appréhender, avec une certaine continuit
 
 ![Planche botanique en cours de réalisation sur l'Oxalis](/assets/images/blog/aquarelle4.jpg)
 
-Ce stage a été riche en émotions, en échanges artistiques et botaniques. Il me donne qu'une seule envie ... Celle de continuer à observer et à croquer les végétaux, pour mieux les comprendre et à utiliser l'aquarelle dans mes rendus de projet !
+Ce stage a été riche en émotions, en échanges artistiques et botaniques. Il ne me donne qu'une seule envie ... Celle de continuer à observer et à croquer les végétaux, pour mieux les comprendre et à utiliser l'aquarelle dans mes rendus de projet !
 
+Je remercie Anaïs et Sophie pour leur pédagogie très douce et de m'avoir transmis leur goût pour cette pratique ! 
