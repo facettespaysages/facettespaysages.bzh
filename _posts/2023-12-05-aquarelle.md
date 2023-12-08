@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "L'aquarelle botanique : diffuser mon gôut pour le végétal"
+title:  "L'aquarelle botanique : diffuser mon goût pour le végétal"
 excerpt: "A la découverte du médium, des couleurs, des supports et des outils"
 categories:
   - Blog
