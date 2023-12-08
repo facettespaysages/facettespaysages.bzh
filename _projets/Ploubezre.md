@@ -40,7 +40,7 @@ sidebar:
   - title: "Surface"
     text: "22 000 m²"
   - title: "Budget travaux"
-    text: "2 000 000 € H.T."
+    text: "1 600 000 € H.T."
 ---
 ## Contexte
 
