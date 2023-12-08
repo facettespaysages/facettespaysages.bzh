@@ -13,18 +13,18 @@ excerpt: "Une agence de paysage finistérienne pour comprendre les dynamiques de
 intro: 
   - excerpt: '<B>Accompagner les collectivités territoriales et les porteurs de projet privés dans leur démarche de résilience, pour une préservation des paysages remarquables et le développement de paysages comestibles.</B>'
 feature_row:
-  - image_path: /assets/images/thumbnails/projets/saint_vincent_2.webp
-    alt: "Croquis d'ambiance du jardin de Saint-Vincent-du-Lorouër"
-    title: "Dessiner de nouveaux espaces publics"
-    excerpt: "Requalification du centre-bourg de Saint-Vincent-du-Lorouër"
   - image_path: /assets/images/thumbnails/projets/ploubezre5.webp
     alt: "Vue d'oiseau de la place des Anciens Combattants de Ploubezre"
-    title: "Accompagner la redynamisation des centre-bourgs"
-    excerpt: "Projet d'aménagement des espaces publics de Ploubezre"
-  - image_path: assets/images/thumbnails/projets/Chaumont.webp
+    title: "Redynamiser les centre-bourgs"
+    excerpt: "Désimperméabiliser, planter, et pacifier les espaces partagés dans les petites villes et les villages"
+  - image_path: assets/images/thumbnails/projets/parterre.webp
     alt: "Croquis d'ambiance de ceci n'est pas un jardin"
-    title: "Concevoir et réaliser un jardin éphémère"
-    excerpt: "Projet lauréat de la 27ème édition «Jardin de la Pensée» du domaine de Chaumont-sur-Loire"
+    title: "Esquisser des jardins privés"
+    excerpt: "Ecouter les envies et les attentes des particuliers, dessiner des ambiances intimistes personnelles"
+  - image_path: /assets/images/blog/feijoa169.jpg
+    alt: "Extrait d'une planche botanique de Feijoa sellowiana"
+    title: "Le végétal comme matière de projet"
+    excerpt: "Comprendre et composer avec les plantes sauvages, comestibles, locales, selon différentes strates"
 #    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary"
@@ -48,7 +48,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Mon parcours"
     excerpt: |
-      En juillet 2016, je suis diplômée Paysagiste Conceptrice à l'<B>ENSAP Lille</B>. Je poursuis l'observatoire des paysages du Grand Amiénois en tant que chargée d'études à l'ADUGA. 
+      En juillet 2016, je suis diplômée Paysagiste Conceptrice à l'<B>ENSAP Lille</B>. Je poursuis l'observatoire des paysages du Grand Amiénois en tant que chargée d'études à l'ADUGA, au côté de Frédéric Blin. 
       <br>
       Cinq mois plus tard, je reprends mes marques à Nantes où j'évolue dans l'équipe des <B>Ateliers UP+ de SCE</B>. 
       <br>
