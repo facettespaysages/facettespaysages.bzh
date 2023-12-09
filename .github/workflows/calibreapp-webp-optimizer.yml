@@ -22,7 +22,8 @@ jobs:
         run: sudo apt-get install -y imagemagick webp parallel
       - name: Create thumbnails
         shell: pwsh
-        run: cd assets/images && ./create_thumbnails.sh
+        working-directory: ./assets/images
+        run: ./create_thumbnails.sh
       - name: Create WebP
         shell: pwsh
         run: find . | egrep '.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -af {} -o {.}.webp'
