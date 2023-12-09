@@ -17,12 +17,12 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+      - name: Install packages
+        shell: pwsh
+        run: apt install imagemagick webp parallel
       - name: Create thumbnails
         shell: pwsh
         run: cd assets/images && ./create_thumbnails.sh
-      - name: Install parallel
-        shell: pwsh
-        run: apt install webp parallel
       - name: Create WebP
         shell: pwsh
         run: find . | egrep '.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -af {} -o {.}.webp'
