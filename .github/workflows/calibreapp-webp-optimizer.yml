@@ -29,6 +29,8 @@ jobs:
       - name: Create WebP
         run: find . | egrep '.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -af {} -o {.}.webp'
       - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Commit thumbnails and webp
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
