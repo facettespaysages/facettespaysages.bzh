@@ -2,25 +2,25 @@
 title: Imaginer un jardin d'exploration
 excerpt: Esquisse d'un jardin privé en bord de Loire
 gallery:
-    - url: /assets/images/projets/parterre1.jpg
-      image_path: /assets/images/projets/parterre1.jpg
+    - url: /assets/images/projets/parterre1.webp
+      image_path: /assets/images/projets/parterre1.webp
       alt: "Plan des principes d'aménagement"
-    - url: /assets/images/projets/parterre2.jpg
-      image_path: /assets/images/projets/parterre2.jpg
+    - url: /assets/images/projets/parterre2.webp
+      image_path: /assets/images/projets/parterre2.webp
       alt: "Coupe sur les différentes ambiances créées depuis la terrasse jusqu'à la mare"
-    - url: /assets/images/projets/parterre3.jpg
-      image_path: /assets/images/projets/parterre3.jpg
+    - url: /assets/images/projets/parterre3.webp
+      image_path: /assets/images/projets/parterre3.webp
       alt: "Elévation nord de la maison, vue sur les différences de niveaux gérée entre la terrasse et le garage"
-    - url: /assets/images/projets/parterre.jpg
-      image_path: /assets/images/projets/parterre.jpg
+    - url: /assets/images/projets/parterre.webp
+      image_path: /assets/images/projets/parterre.webp
       alt: "Croquis d'ambiance du jardin, vue sur la vallée de Loire en fond de scène"
 phases:
   - name: all
     start: 2023-06-01
     end: 2023-11-21
 header:
-  teaser: /assets/images/projets/parterre.jpg
-  overlay_image: /assets/images/projets/parterre.jpg
+  teaser: /assets/images/thumbnails/projets/parterre.webp
+  overlay_image: /assets/images/projets/parterre.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2023-12-03T00:00:00-00:00
@@ -56,10 +56,10 @@ Le cheminement principal fait un mètre de large et est fauché régulièrement 
 
 Le talus à l’Est est densément planté avec des espèces qui supportent l’exposition très ensoleillée (tardive en été). Les bacs de phytoépuration sont intégrés dans le même type de mélange vaporeux. Les phragmites participeront à l’ensemble.
 L’espace de détente avec les bancs existants est légèrement aplanit. La masse existante du cognassier du japon et du lila est complétée par deux grenadiers et un fremontodendron.
-![palette végétale libre et naturelle, évocation des bords de Loire](/assets/images/projets/parterre5.jpg)
+![palette végétale libre et naturelle, évocation des bords de Loire](/assets/images/projets/parterre5.webp)
 
 Autour du palmier et en premier plan de la vue depuis la terrasse, de larges massifs sont plantés de manière à fleurir et créer une continuité avec les cordylines existantes à l’Ouest.
-![palette végétale libre et naturelle, évocation des bords de Loire](/assets/images/projets/parterre4.jpg)
+![palette végétale libre et naturelle, évocation des bords de Loire](/assets/images/projets/parterre4.webp)
 
 Autour de la mare, dans les endroits où les dénivelés sont plus doux, des plantes adaptées aux variations d’eau sont installées.
 

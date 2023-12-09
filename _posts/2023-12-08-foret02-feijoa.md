@@ -8,13 +8,13 @@ categories:
   - Blog
 author_profile: true
 header:
-  teaser: /assets/images/blog/feijoa.jpg
+  teaser: /assets/images/thumbnails/blog/feijoa.jpg
   show_overlay_excerpt: false
-  overlay_image: /assets/images/blog/feijoa.jpg
+  overlay_image: /assets/images/blog/feijoa.webp
   overlay_filter: 0.2
 gallery:
-  - url: /assets/images/blog/feijoa.jpg
-    image_path: /assets/images/blog/feijoa.jpg
+  - url: /assets/images/blog/feijoa.webp
+    image_path: /assets/images/blog/feijoa.webp
     alt: "aquarelle d'une planche botanique de Feijoa sellowiana, à la manière de Mackintosh"
 ---
 Il était une fois… Feijoa sellowiana (O.Berg) Burret

@@ -21,7 +21,7 @@ feature_row:
     alt: "Croquis d'ambiance de ceci n'est pas un jardin"
     title: "Esquisser des jardins privés"
     excerpt: "Ecouter les envies et les attentes des particuliers, dessiner des ambiances intimistes personnelles"
-  - image_path: /assets/images/blog/feijoa169.jpg
+  - image_path: /assets/images/thumbnails/blog/feijoa169.webp
     alt: "Extrait d'une planche botanique de Feijoa sellowiana"
     title: "Le végétal comme matière de projet"
     excerpt: "Comprendre et composer avec les plantes sauvages, comestibles, locales, selon différentes strates"

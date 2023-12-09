@@ -8,9 +8,9 @@ categories:
   - Actualités
 author_profile: false
 header:
-  teaser: /assets/images/actualites/actu07.jpg
+  teaser: /assets/images/thumbnails/actualites/actu07.webp
   show_overlay_excerpt: false
-  overlay_image: /assets/images/actualites/actu07.jpg
+  overlay_image: /assets/images/actualites/actu07.webp
   overlay_filter: 0.2
   actions:
     - label: "lire l'article du Ouest France"
@@ -27,6 +27,6 @@ Je ne pouvais pas imaginer mieux comme début d'activités:
 
 Je remercie tout particulièrement Soizic Robet et Victoria Geffard de m'avoir contactée et m'avoir laissée ce temps d'échange ensemble.
 
-![photographie de Victoria Geffard, portrait de Juliette Ols dans la nature](/assets/images/actualites/actu07-2.jpg)
+![photographie de Victoria Geffard, portrait de Juliette Ols dans la nature](/assets/images/actualites/actu07-2.webp)
 
 Vous avez des questions ? Des projets que vous souhaitez voir sortir de terre ? Je suis disponible par téléphone au 07.84.31.80.96 et par mail à l'adresse de contact juliette@facettes.bzh

@@ -6,19 +6,19 @@ categories:
   - Blog
 author_profile: true
 header:
-  teaser: /assets/images/blog/aquarelleanais3.jpg
+  teaser: /assets/images/thumbnails/blog/aquarelleanais3.webp
   show_overlay_excerpt: false
-  overlay_image: /assets/images/blog/aquarelleanais3.jpg
+  overlay_image: /assets/images/blog/aquarelleanais3.webp
   overlay_filter: 0.2
 gallery:
-  - url: /assets/images/blog/aquarelleanais2.jpg
-    image_path: /assets/images/blog/aquarelleanais2.jpg
+  - url: /assets/images/blog/aquarelleanais2.webp
+    image_path: /assets/images/blog/aquarelleanais2.webp
     alt: "Pause méditative et dessin du bassin des Gores, avec une eau cristalline, fraîche et vivifiante"
-  - url: /assets/images/blog/aquarelleanais4.jpg
-    image_path: /assets/images/blog/aquarelleanais4.jpg
+  - url: /assets/images/blog/aquarelleanais4.webp
+    image_path: /assets/images/blog/aquarelleanais4.webp
     alt: "Présentation du Lupinus et de Plantago, des épis floreaux dressés et pleins de couleurs"
-  - url: /assets/images/blog/aquarelleanais5.jpg
-    image_path: /assets/images/blog/aquarelleanais5.jpg
+  - url: /assets/images/blog/aquarelleanais5.webp
+    image_path: /assets/images/blog/aquarelleanais5.webp
     alt: "Présentation de Paenioa, la pivoine et son délicat parfum"
 
 ---
@@ -34,7 +34,7 @@ Au cours de mes années d’expérience nantaises, j’ai pris goût à l'aquare
 J’ai suivi un stage d’aquarelle botanique avec Anaïs de l’atelier botanique… Et quel voyage !
 A l’entrée du Massif des Ecrins, dans la commune du Désert en Valjouffrey, nous avons passé quatre jours à arpenter le fond de vallée.
 
-![le lieu du stage, au pied du Massif des Ecrins](/assets/images/blog/aquarelleanais1.jpg)
+![le lieu du stage, au pied du Massif des Ecrins](/assets/images/blog/aquarelleanais1.webp)
 
 En ce début du mois de juin, la flore printanière était en pleine explosion. Des couleurs, des saveurs, des textures riches et contrastées, avec en fond de scène les crêtes encore enneigées. Les longues séances de dessin en extérieur étaient propices à la méditation, la concentration était à son paroxysme. 
 Les soirées étaient relativement courtes, le cerveau et le corps ayant besoin de se reposer pour entamer la suite de l’aventure dessinée. 
@@ -48,21 +48,21 @@ Qu’elle ne fut pas ma surprise de voir que Sophie Graverand proposait des jour
 
 Une journée immersive, il y a tout juste un an, en décembre 2022, dans l’écrin verdoyant des serres tropicales du Conservatoire.
 
-![le lieu du stage, à la découverte des Mackintosh dans les serres tropicales du Conservatoire Botanique de Brest](/assets/images/blog/aquarelle1.jpg)
+![le lieu du stage, à la découverte des Mackintosh dans les serres tropicales du Conservatoire Botanique de Brest](/assets/images/blog/aquarelle1.webp)
 
 Cette journée était dédiée au travail du couple Mackintosh, artistes anglais faisant partie de la mouvance de l’art déco. Nous avons exploré les différentes étapes de création d'une planche botanique.
 
-![extrait de planche botanique dédiée à Passiflora vitifolia](/assets/images/blog/aquarelle2.jpg)
+![extrait de planche botanique dédiée à Passiflora vitifolia](/assets/images/blog/aquarelle2.webp)
 
 En juillet 2023, cette mise en bouche s’est concrétisée par un stage d'une semaine dédié à la création d’une planche botanique, avec ses différentes étapes et l'utilisation technique très fine de l’aquarelle. 
 Nous avons choisi de travailler sur une plante, tout au long de la semaine, pour apprendre à l'observer sous tous les angles, dans les moindres détails.
 
-![Etudes de l'Oxalis, sous toutes ces coutures](/assets/images/blog/aquarelle3.jpg)
+![Etudes de l'Oxalis, sous toutes ces coutures](/assets/images/blog/aquarelle3.webp)
 
 Une semaine passée au côté d'une Oxalis, très souple et danseuse sous les projecteurs. 
 Une diversité de couleurs complexe à appréhender, avec une certaine continuité du magenta qui se retrouve en base de toutes les couleurs utilisées sur le papier.
 
-![Planche botanique en cours de réalisation sur l'Oxalis](/assets/images/blog/aquarelle4.jpg)
+![Planche botanique en cours de réalisation sur l'Oxalis](/assets/images/blog/aquarelle4.webp)
 
 Ce stage a été riche en émotions, en échanges artistiques et botaniques. Il ne me donne qu'une seule envie ... Celle de continuer à observer et à croquer les végétaux, pour mieux les comprendre et à utiliser l'aquarelle dans mes rendus de projet !
 
