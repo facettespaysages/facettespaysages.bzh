@@ -17,7 +17,12 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
-
+      - name: Install parallel
+        shell: pwsh
+        run: apt install webp parallel
+      - name: Create WebP
+        shell: pwsh
+        run: find . | egrep '.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -af {} -o {.}.webp'
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
