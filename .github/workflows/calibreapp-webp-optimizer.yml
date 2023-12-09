@@ -14,6 +14,10 @@ jobs:
     if: github.event.pull_request.head.repo.full_name == github.repository
     name: calibreapp/image-actions
     runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
@@ -24,6 +28,7 @@ jobs:
         run: ./create_thumbnails.sh
       - name: Create WebP
         run: find . | egrep '.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -af {} -o {.}.webp'
+      - uses: stefanzweifel/git-auto-commit-action@v5
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
