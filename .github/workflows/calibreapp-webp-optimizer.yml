@@ -17,6 +17,9 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+      - name: Create thumbnails
+        shell: pwsh
+        run: cd assets/images && ./create_thumbnails.sh
       - name: Install parallel
         shell: pwsh
         run: apt install webp parallel
