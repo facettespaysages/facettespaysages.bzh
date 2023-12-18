@@ -8,22 +8,22 @@ categories:
   - Actualités
 author_profile: false
 header:
-  teaser: /assets/images/actualites/actu08-2.jpg
+  teaser: /assets/images/thumbnails/actualites/actu08-2.webp
   show_overlay_excerpt: false
-  overlay_image: /assets/images/actualites/actu08-2.jpg
+  overlay_image: /assets/images/actualites/actu08-2.webp
   overlay_filter: 0.2
 gallery:
-  - url: /assets/images/actualites/actu08-4.jpg
-    image_path: /assets/images/actualites/actu08-4.jpg
+  - url: /assets/images/actualites/actu08-4.webp
+    image_path: /assets/images/actualites/actu08-4.webp
     alt: "Entretien des espaces verts à Plouaret"
-  - url: /assets/images/actualites/actu08-3.jpg
-    image_path: /assets/images/actualites/actu08-3.jpg
+  - url: /assets/images/actualites/actu08-3.webp
+    image_path: /assets/images/actualites/actu08-3.webp
     alt: "Reprise du tracé du cimetière de l'enclos paroissial de Ploëzal"
-  - url: /assets/images/actualites/actu08-2.jpg
-    image_path: /assets/images/actualites/actu08-2.jpg
+  - url: /assets/images/actualites/actu08-2.webp
+    image_path: /assets/images/actualites/actu08-2.webp
     alt: "Analyse des différents tronçons de la zone de rencontre aménagée à Etables-sur-Mer"
-  - url: /assets/images/actualites/actu08.jpg
-    image_path: /assets/images/actualites/actu08.jpg
+  - url: /assets/images/actualites/actu08.webp
+    image_path: /assets/images/actualites/actu08.webp
     alt: "Réemploi des matériaux et préservation des arbres existants sur la place François Prigent de Plouénan"
 ---
 
