@@ -162,6 +162,7 @@ include:
   - _pages
   - _partenaires
   - _projets
+  - _pepinieres
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -289,6 +290,9 @@ collections:
   projets:
     output: true
     permalink: /:collection/:path/
+  pepinieres:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -307,6 +311,17 @@ defaults:
   - scope:
       path: ""
       type: partenaires
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+  # _pepinieres
+  - scope:
+      path: ""
+      type: pepinieres
     values:
       layout: single
       author_profile: false
