@@ -2,6 +2,9 @@
 title: Ville de Quimper
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
+location:
+  latitude: 47.99560668123227
+  longitude: -4.1009804311372795
 header:
   teaser: /assets/images/thumbnails/partenaires/Ville_Quimper.webp
   show_overlay_excerpt: true

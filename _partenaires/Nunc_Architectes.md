@@ -2,6 +2,9 @@
 title: Nunc Architectes
 excerpt: Architecture et urbanistes
 incubator: maitres_oeuvre
+location:
+  latitude: 48.812734040255656
+  longitude: 2.324355338061905
 header:
   teaser: /assets/images/thumbnails/partenaires/Nunc_Architectes.webp
   show_overlay_excerpt: true
