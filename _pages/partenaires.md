@@ -59,7 +59,9 @@ var facetteIcon = new L.Icon({
   shadowSize: [41, 41]
 });
 
-L.marker([48.301404208912494, -3.7773972693157214], {icon: facetteIcon}).addTo(map);
+L.marker([48.301404208912494, -3.7773972693157214], {icon: facetteIcon})
+         .bindPopup(L.popup({maxWidth:500}).setContent("Facettes Paysages"))
+.addTo(map);
 
 {%- for unite in site.pepinieres -%}
     {% if unite.location.latitude and unite.location.longitude %}
