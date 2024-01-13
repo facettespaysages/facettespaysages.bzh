@@ -2,6 +2,9 @@
 title: Commune de Bannalec
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
+location:
+  latitude: 47.932148886259846
+  longitude: -3.6996558503248482
 header:
   teaser: /assets/images/thumbnails/partenaires/Commune_Bannalec.webp
   show_overlay_excerpt: true
