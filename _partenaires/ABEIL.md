@@ -2,6 +2,9 @@
 title: ABEIL
 excerpt: Ingénieurs en VRD, éclairage, mobilités actives, démarche environnementale
 incubator: maitres_oeuvre
+location:
+  latitude: 48.086874236652065
+  longitude: -1.673442310097823
 header:
   teaser: /assets/images/thumbnails/partenaires/ABEIL.webp
   show_overlay_excerpt: true

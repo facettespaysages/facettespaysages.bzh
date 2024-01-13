@@ -2,6 +2,9 @@
 title: Biotope environnement
 excerpt: Écologue
 incubator: maitres_oeuvre
+location:
+  latitude: 48.38695174637657
+  longitude: -4.473852473825685
 header:
   teaser: /assets/images/thumbnails/partenaires/Biotope.webp
   show_overlay_excerpt: true

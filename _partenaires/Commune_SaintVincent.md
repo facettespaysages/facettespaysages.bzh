@@ -2,8 +2,9 @@
 title: Commune de Saint-Vincent du Lorouër
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
-startups:
-    - SaintVincent
+#location:
+#  latitude: 47.82466927018435
+#  longitude: 0.4910889291772639
 header:
   teaser: /assets/images/thumbnails/partenaires/Commune_SaintVincent.webp
   show_overlay_excerpt: true

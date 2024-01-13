@@ -2,8 +2,9 @@
 title: Camille Laude Architecte
 excerpt: Architecture
 incubator: maitres_oeuvre
-startups:
-    - SaintVincent
+location:
+  latitude: 47.82751306307319
+  longitude: 0.2710210063316084
 header:
   teaser: /assets/images/thumbnails/partenaires/Camille_Laude.webp
   show_overlay_excerpt: true
