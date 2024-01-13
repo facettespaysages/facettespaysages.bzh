@@ -2,6 +2,9 @@
 title: Bientôt
 excerpt: Architecture et urbanistes
 incubator: maitres_oeuvre
+location:
+  latitude: 48.12011797818987
+  longitude: -1.6878303780072568
 header:
   teaser: /assets/images/thumbnails/partenaires/Bientot_Architectes.webp
   show_overlay_excerpt: true

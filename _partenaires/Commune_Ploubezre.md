@@ -2,6 +2,9 @@
 title: Commune de Ploubezre
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
+location:
+  latitude: 48.70382928779424
+  longitude: -3.448285141823421
 header:
   teaser: /assets/images/thumbnails/partenaires/Commune_Ploubezre.webp
   show_overlay_excerpt: true

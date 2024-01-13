@@ -2,6 +2,9 @@
 title: Louise Quintana
 excerpt: Paysagiste conceptrice
 incubator: maitres_oeuvre
+location:
+  latitude: 47.2466150183337
+  longitude: -2.1673886824730686
 header:
   teaser: /assets/images/thumbnails/partenaires/Louise_Quintana.webp
   show_overlay_excerpt: true

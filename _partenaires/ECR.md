@@ -2,6 +2,9 @@
 title: ECR
 excerpt: Ingénieurs en VRD, éclairage, mobilités actives, démarche environnementale
 incubator: maitres_oeuvre
+location:
+  latitude: 48.38790064135848
+  longitude: -4.3484093622690985
 header:
   teaser: /assets/images/thumbnails/partenaires/ECR_Environnement.webp
   show_overlay_excerpt: true

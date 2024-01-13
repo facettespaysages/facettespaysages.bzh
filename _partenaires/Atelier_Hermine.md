@@ -2,6 +2,9 @@
 title: Atelier de l'Hermine
 excerpt: Scénographe et designer de mobilier
 incubator: maitres_oeuvre
+location:
+  latitude: 48.624875912106816
+  longitude: -3.8600659621706352
 header:
   teaser: /assets/images/thumbnails/partenaires/Atelier_Hermine.webp
   show_overlay_excerpt: true

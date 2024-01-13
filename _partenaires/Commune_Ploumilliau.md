@@ -2,6 +2,9 @@
 title: Commune de Ploumilliau
 excerpt: Collectivité territoriale
 incubator: maitres_ouvrage
+location:
+  latitude: 48.67967510600648
+  longitude: -3.523465879838929
 header:
   teaser: /assets/images/thumbnails/partenaires/Commune_Ploumilliau.webp
   show_overlay_excerpt: true

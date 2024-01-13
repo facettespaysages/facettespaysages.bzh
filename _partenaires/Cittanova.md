@@ -2,8 +2,9 @@
 title: Cittànova
 excerpt: Architecture et urbanisme
 incubator: maitres_oeuvre
-startups:
-    - Commune Vay
+location:
+  latitude: 47.20429625048312
+  longitude: -1.5662904315477066
 header:
   teaser: /assets/images/thumbnails/partenaires/Cittanova.webp
   show_overlay_excerpt: true

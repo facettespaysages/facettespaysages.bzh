@@ -2,6 +2,9 @@
 title: SODEREF
 excerpt: Ingénieurs en VRD, éclairage, mobilités actives, démarche environnementale
 incubator: maitres_oeuvre
+location:
+  latitude: 49.002004461234
+  longitude: 1.1798353445920184
 header:
   teaser: /assets/images/thumbnails/partenaires/SODEREF.webp
   show_overlay_excerpt: true

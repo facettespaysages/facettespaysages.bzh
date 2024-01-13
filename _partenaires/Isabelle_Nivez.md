@@ -2,6 +2,9 @@
 title: Isabelle Nivez
 excerpt: Paysagiste conceptrice
 incubator: maitres_oeuvre
+location:
+  latitude: 48.379850627288796
+  longitude: -4.512627660268485
 header:
   teaser: /assets/images/thumbnails/partenaires/Isabelle_Nivez.webp
   show_overlay_excerpt: true
