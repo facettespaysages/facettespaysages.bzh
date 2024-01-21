@@ -3,7 +3,6 @@ title: Les Partenaires
 seo_title: Partenaires
 layout: splash
 permalink: /partenaires/
-classes: wide
 ---
 # Les Partenaires
 
