@@ -5,6 +5,7 @@ layout: splash
 permalink: /partenaires/
 classes: wide
 ---
+# Les Partenaires
 
 <div id="map" style="height: 610px; width:100%"></div>
 
