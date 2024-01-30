@@ -3,6 +3,9 @@ title: Les Partenaires
 seo_title: Partenaires
 layout: splash
 permalink: /partenaires/
+header:
+  overlay_image: /assets/images/partenaires/partenaires.webp
+  overlay_filter: 0.1
 ---
 # Les Partenaires
 
