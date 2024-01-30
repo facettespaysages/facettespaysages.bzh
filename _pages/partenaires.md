@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/partenaires/partenaires.webp
   overlay_filter: 0.1
 ---
-# Les Partenaires
 
 <div id="map" style="height: 610px; width:100%"></div>
 
