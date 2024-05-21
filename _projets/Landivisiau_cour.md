@@ -42,7 +42,9 @@ La direction de l'école cherche à requalifier les trois cours, qui accueille 4
 
 Le périmètre d'étude comprend trois cours distinctes : la cour des CM à l'Est, la cour des CE située à +3m au-dessus de la cour des CP, la cour des CP en coeur d'ilot.
 
-L'école actuelle est caractérisée par des cours entièrement réalisées en enrobé, opérant comme des fours en période estivale, en plein coeur de la journée. Les élèves et le personnel encadrant suffoque. 
+![photos situation existante](/assets/images/projets/landi6.jpg)
+
+L'école actuelle est caractérisée par des cours entièrement réalisées en enrobé, opérant comme des fours en période estivale, en plein coeur de la journée. Les élèves et le personnel encadrant suffoquent. 
 L'aménagement d'un grand porche entre la cour des grands et celles des petits est un espace où les vents d'Est et d'Ouest s'engouffrent, le rendant inconfortable et inappropriable par les enfants.
 
 ## Enjeux
@@ -66,7 +68,7 @@ Chaque cour dispose d’espaces de jeux dynamiques, soit sur sols durs soit sur 
 
 ![croquis de la cour des CM](/assets/images/projets/landi3.jpg)
 
-La cour des CM est conservée en l’état, vue la qualité de l’enrobé goasq récemment réalisé. Les préaux retrouvés entre la cour des CM et la cour des CP est réalisé avec un platelage bois pour accompagner la grande cloison modulable.
+La cour des CM est conservée en l’état, vue la qualité de l’enrobé goasq récemment réalisé. Les préaux retrouvés entre la cour des CM et la cour des CE est réalisé avec un platelage bois pour accompagner la grande cloison modulable.
 
 ![croquis de la cour des CE](/assets/images/projets/landi2.jpg)
 
@@ -74,7 +76,7 @@ Les cours des CE et des CP sont entièrement reprises pour décrouter l’enrob�
 
 ![palette végétale des massifs arbustifs](/assets/images/projets/landi5.jpg)
 
-Les plantations sont diversifées et sont composées selon plusieurs strates : 
+Les plantations sont diversifiées et sont composées selon plusieurs strates : 
 * La strate arborée est composée de Chêne liège, d’Erable champêtre, de Tilleuls d’Henry, de Sorbier des oiseaux et de Noisetier.
 * La strate arbustive est composée d’un Arbousier, de Goyavier du Brésil et de Pistachier. Au pied des Tilleuls de la cour des CM, les massifs arbustifs en isolé sont composés de Pittosporum tobira ‘Nana’, de Sauges, de Myrte commune et de Scabieuse de l’Hymette.
 * Les massifs en pourtour de cours sont composées d'essences variées avec une première bande comestible, facilement accessible pour les enfants en bord de massif, tandis que celle située en arrière a plutôt vocation à attirer les pollinisateurs et est mellifère.
