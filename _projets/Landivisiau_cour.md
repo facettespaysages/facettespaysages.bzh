@@ -1,6 +1,6 @@
 ---
 title: Faire revivre les sols 
-excerpt: Etudes d’aménagement des cours de l'école Notre-dame-Des-Victoires
+excerpt: Etudes d’aménagement des cours de l'école Notre-Dame-Des-Victoires
 gallery:
     - url: /assets/images/projets/landi1.jpg
       image_path: /assets/images/projets/landi1.jpg
