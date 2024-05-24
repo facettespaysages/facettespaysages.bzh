@@ -1,6 +1,6 @@
 ---
 title: Faire revivre les sols 
-excerpt: Etudes d’aménagement des cours de l'école Notre-Dame-Des-Victoires
+excerpt: Etudes d’aménagement des cours de l'école Notre-Dame-des-Victoires
 gallery:
     - url: /assets/images/projets/landi1.webp
       image_path: /assets/images/projets/landi1.webp
@@ -28,7 +28,7 @@ sidebar:
   - title: "Site"
     text: "Landivisiau, département du Finistère (29)"
   - title: "Maîtrise d'ouvrage"
-    text: "OGEC"
+    text: "Association Notre-Dame-des-Victoires"
   - title: "Equipe"
     text: "Facettes Paysages,ECR environnement, Claire Bernard et Yannick Jégado"
   - title: "Surface"
