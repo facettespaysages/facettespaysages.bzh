@@ -79,7 +79,7 @@ Les cours des CE et des CP sont entièrement reprises pour décrouter l’enrob�
 Les plantations sont diversifiées et sont composées selon plusieurs strates : 
 * La strate arborée est composée de Chêne liège, d’Erable champêtre, de Tilleuls d’Henry, de Sorbier des oiseaux et de Noisetier.
 * La strate arbustive est composée d’un Arbousier, de Goyavier du Brésil et de Pistachier. Au pied des Tilleuls de la cour des CM, les massifs arbustifs en isolé sont composés de Pittosporum tobira ‘Nana’, de Sauges, de Myrte commune et de Scabieuse de l’Hymette.
-* Les massifs en pourtour de cours sont composées d'essences variées avec une première bande comestible, facilement accessible pour les enfants en bord de massif, tandis que celle située en arrière a plutôt vocation à attirer les pollinisateurs et est mellifère.
+* Les massifs en pourtour de cours sont composées d'essences variées avec une première bande comestible, facilement accessible pour les enfants en bord de massif, tandis que celle située en arrière est mellifère et a plutôt vocation à attirer les pollinisateurs.
 Cette palette végétale tend à proposer un fleurissement garantissant un minimum d'entretien, et pouvant résister à des périodes sèches en été, lorsque l'école est fermée au public.
 
 Le coût associé aux travaux est conséquent. L'enveloppe budgétaire englobe : 
