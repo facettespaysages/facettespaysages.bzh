@@ -2,25 +2,25 @@
 title: Faire revivre les sols 
 excerpt: Etudes d’aménagement des cours de l'école Notre-Dame-Des-Victoires
 gallery:
-    - url: /assets/images/projets/landi1.jpg
-      image_path: /assets/images/projets/landi1.jpg
+    - url: /assets/images/projets/landi1.webp
+      image_path: /assets/images/projets/landi1.webp
       alt: "Plan des principes d'aménagement"
-    - url: /assets/images/projets/landi2.jpg
-      image_path: /assets/images/projets/landi2.jpg
+    - url: /assets/images/projets/landi2.webp
+      image_path: /assets/images/projets/landi2.webp
       alt: "Croquis de la future cour du midi"
-    - url: /assets/images/projets/landi3.jpg
-      image_path: /assets/images/projets/landi3.jpg
+    - url: /assets/images/projets/landi3.webp
+      image_path: /assets/images/projets/landi3.webp
       alt: "Croquis de la future cour des CM, avec le nouveau porche aménagé"
-    - url: /assets/images/projets/landi4.jpg
-      image_path: /assets/images/projets/landi4.jpg
+    - url: /assets/images/projets/landi4.webp
+      image_path: /assets/images/projets/landi4.webp
       alt: "Croquis de la future cour des CP, avec le nouvel ascenseur intégré"
 phases:
   - name: all
     start: 2023-12-01
     end: 2024-02-19
 header:
-  teaser: /assets/images/thumbnails/projets/landi2.jpg
-  overlay_image: /assets/images/projets/landi2.jpg
+  teaser: /assets/images/thumbnails/projets/landi2.webp
+  overlay_image: /assets/images/projets/landi2.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2024-05-21T00:00:00-00:00
@@ -42,14 +42,14 @@ La direction de l'école cherche à requalifier les trois cours, qui accueille 4
 
 Le périmètre d'étude comprend trois cours distinctes : la cour des CM à l'Est, la cour des CE située à +3m au-dessus de la cour des CP, la cour des CP en coeur d'ilot.
 
-![photos situation existante](/assets/images/projets/landi6.jpg)
+![photos situation existante](/assets/images/projets/landi6.webp)
 
 L'école actuelle est caractérisée par des cours entièrement réalisées en enrobé, opérant comme des fours en période estivale, en plein coeur de la journée. Les élèves et le personnel encadrant suffoquent. 
 L'aménagement d'un grand porche entre la cour des grands et celles des petits est un espace où les vents d'Est et d'Ouest s'engouffrent, le rendant inconfortable et inappropriable par les enfants.
 
 ## Enjeux
 
-![schéma](/assets/images/projets/landi.jpg)
+![schéma](/assets/images/projets/landi.webp)
 
 Pour retrouver des cours accueillantes et agréables, tout en s'inscrivant dans le programme "Notre école, faisons-la ensemble!", le projet doit tenir compte des enjeux suivants :
 * participer à une école jardinée, pour tisser des liens avec la Nature par le biais d’atelier de jardinage et autre ;
@@ -59,22 +59,22 @@ Pour retrouver des cours accueillantes et agréables, tout en s'inscrivant dans 
 
 ## Le projet
 
-![plan des principes d'aménagement](/assets/images/projets/landi1.jpg)
+![plan des principes d'aménagement](/assets/images/projets/landi1.webp)
 
 Les cours retrouvent 650 m² de surfaces perméables, compris 430 m² de massifs arbustifs et de vivaces. 18 arbres tiges et 8 arbrisseaux sont plantés dans les trois cours.
 3 murs d’expression peuvent être approriés par les enfants, deux dans la cour des CP et un dans la cour des CM.
 
 Chaque cour dispose d’espaces de jeux dynamiques, soit sur sols durs soit sur sols souples.
 
-![croquis de la cour des CM](/assets/images/projets/landi3.jpg)
+![croquis de la cour des CM](/assets/images/projets/landi3.webp)
 
 La cour des CM est conservée en l’état, vue la qualité de l’enrobé goasq récemment réalisé. Les préaux retrouvés entre la cour des CM et la cour des CE est réalisé avec un platelage bois pour accompagner la grande cloison modulable.
 
-![croquis de la cour des CE](/assets/images/projets/landi2.jpg)
+![croquis de la cour des CE](/assets/images/projets/landi2.webp)
 
 Les cours des CE et des CP sont entièrement reprises pour décrouter l’enrobé noir existant en mauvais état. Un revêtement coulé en place type béton balayé ou béton désactivé est proposé pour faciliter les déplacements et l’entretien des surfaces pendant l’automne.
 
-![palette végétale des massifs arbustifs](/assets/images/projets/landi5.jpg)
+![palette végétale des massifs arbustifs](/assets/images/projets/landi5.webp)
 
 Les plantations sont diversifiées et sont composées selon plusieurs strates : 
 * La strate arborée est composée de Chêne liège, d’Erable champêtre, de Tilleuls d’Henry, de Sorbier des oiseaux et de Noisetier.
