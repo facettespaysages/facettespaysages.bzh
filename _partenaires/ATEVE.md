@@ -3,7 +3,7 @@ title: ATEVE Ingénierie
 excerpt: Ingénieurs en VRD, gestion hydraulique, mobilités actives, démarche environnementale
 incubator: maitres_oeuvre
 location:
-  latitude: 48.49290268743579, 
+  latitude: 48.49290268743579 
   longitude: -4.040797344867428
 header:
   teaser: /assets/images/partenaires/ateve.jpg
