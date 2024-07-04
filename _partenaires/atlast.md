@@ -10,7 +10,9 @@ header:
   show_overlay_excerpt: true
   overlay_image: /assets/images/partenaires/atlast.jpg
   overlay_filter: 0.5
-
+  actions:
+    - label: "Instagram"
+      url: https://www.instagram.com/atlas.t_collectif/?next=%2Forphicframe%2Ftagged%2F&hl=fr
 ---
 
 Le collectif Atlas.t est une agence d'architecture et d'urbanisme basée à Morlaix et Marseille. Nous sommes lauréates pour mener l'étude de requalification du centre-ville de Landivisiau avec ATEVE Ingénierie, Mael Iger et Technilampes.
