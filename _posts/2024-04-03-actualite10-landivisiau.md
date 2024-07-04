@@ -16,12 +16,18 @@ gallery:
   - url: /assets/images/actualites/landi.jpg
     image_path: /assets/images/actualites/landi.jpg
     alt: "Place de l'église vue depuis la place des halles, avec une saturation de parking"
+  - url: /assets/images/actualites/landi5.jpg
+    image_path: /assets/images/actualites/landi5.jpg
+    alt: "L'équipe de maîtrise d'ouvrage et maîtrise d'oeuvre réunie sur la place de l'église"
   - url: /assets/images/actualites/landi1.jpg
     image_path: /assets/images/actualites/landi1.jpg
     alt: "Arrêt devant les travaux de l'extension de la médiathèque, de le vallon où coule l'affluent du Lapic"
   - url: /assets/images/actualites/landi3.jpg
     image_path: /assets/images/actualites/landi3.jpg
     alt: "Depuis le point bas du fond du vallon, perspective ouverte sur le clocher de l'église Saint-Thuriau"
+  - url: /assets/images/actualites/landi6.jpg
+    image_path: /assets/images/actualites/landi6.jpg
+    alt: "L'équipe de maîtrise d'ouvrage et maîtrise d'oeuvre réunie dans le vallon de l'affluent du Lapic"
   - url: /assets/images/actualites/landi2.jpg
     image_path: /assets/images/actualites/landi2.jpg
     alt: "Retour à la mairie par le champ de Foire, pendant le marché"
