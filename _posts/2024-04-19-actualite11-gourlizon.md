@@ -3,7 +3,7 @@ layout: single
 title:  "Lecture de paysage à Gourlizon
 <br>
 Actualité #11"
-excerpt: "Balade paysagère organisée grâce à marine Le Thellec dans le cadre de sa résidence Médicis à Gourlizon"
+excerpt: "Balade paysagère organisée grâce à Marine Le Thellec dans le cadre de sa résidence Médicis à Gourlizon"
 categories:
   - Actualités
 author_profile: false
