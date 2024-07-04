@@ -40,7 +40,7 @@ Facettes Paysages avec à ses côtés Atlas.t mandataire architectes et urbanist
 
 A cette occasion, le premier comité de pilotage de lancement a eu lieu ce mercredi 03 juillet. Toute l'équipe s'est baladée dans le centre-ville pour appréhender et partager les attentes de la maîtrise d'ouvrage, les réflexions en cours, les faiblesses et les atouts des sites traversés à réaménager.
 
-{% include gallery caption="Quelques photos de notre échange" %}
+{% include gallery caption="Quelques photos de notre balade" %}
 
 Cette étude comporte deux tranches travaux, l'une portant sur l'aménagement de la place de l'église et l'autre sur les abords de la médiathèque. 
 L'enjeu principal est de créer un espace public convivial, agréable pour toutes et tous. La place de l'eau, du végétal, au regard des usages actuels et à venir sont matière à réflexion pour notre équipe.
