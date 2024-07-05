@@ -1,5 +1,5 @@
 ---
-title: Kevin La plaige
+title: Kevin Laplaige
 excerpt: Paysagiste et jardinier
 incubator: maitres_oeuvre
 location:
