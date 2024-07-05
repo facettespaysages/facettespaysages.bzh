@@ -6,9 +6,9 @@ location:
   latitude: 48.40397243957469 
   longitude: -3.7518664893904545
 header:
-  teaser: /assets/images/partenaires/berrien.jpg
+  teaser: /assets/images/thumbnails/partenaires/berrien.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/berrien.jpg
+  overlay_image: /assets/images/partenaires/berrien.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

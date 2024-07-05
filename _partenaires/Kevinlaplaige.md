@@ -6,9 +6,9 @@ location:
   latitude: 48.393415243797335 
   longitude: -3.8991714956343797
 header:
-  teaser: /assets/images/partenaires/kevinlaplaige.jpg
+  teaser: /assets/images/thumbnails/partenaires/kevinlaplaige.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/kevinlaplaige.jpg
+  overlay_image: /assets/images/partenaires/kevinlaplaige.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

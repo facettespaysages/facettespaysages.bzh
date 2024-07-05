@@ -8,28 +8,28 @@ categories:
   - Actualités
 author_profile: false
 header:
-  teaser: /assets/images/thumbnails/actualites/gourli.jpg
+  teaser: /assets/images/thumbnails/actualites/gourli.webp
   show_overlay_excerpt: false
-  overlay_image: /assets/images/actualites/gourli.jpg
+  overlay_image: /assets/images/actualites/gourli.webp
   overlay_filter: 0.2
 gallery:
-  - url: /assets/images/actualites/gourli3.jpg
-    image_path: /assets/images/actualites/gourli3.jpg
+  - url: /assets/images/actualites/gourli3.webp
+    image_path: /assets/images/actualites/gourli3.webp
     alt: "Lecture de la carte d'état major, comparatif des haies existantes au XIXème siècle et aujourd'hui"
-  - url: /assets/images/actualites/gourli2.jpg
-    image_path: /assets/images/actualites/gourli2.jpg
+  - url: /assets/images/actualites/gourli2.webp
+    image_path: /assets/images/actualites/gourli2.webp
     alt: "Cadrage du regard sur le paysage, chaque enfant regard à travers son cadre les éléments qui composent la vue"
-  - url: /assets/images/actualites/gourli1.jpg
-    image_path: /assets/images/actualites/gourli1.jpg
+  - url: /assets/images/actualites/gourli1.webp
+    image_path: /assets/images/actualites/gourli1.webp
     alt: "Lecture de paysage, les enfants dessinent le paysage qui se déroule sous leurs yeux"
-  - url: /assets/images/actualites/gourli4.jpg
-    image_path: /assets/images/actualites/gourli4.jpg
+  - url: /assets/images/actualites/gourli4.webp
+    image_path: /assets/images/actualites/gourli4.webp
     alt: "Lecture de paysage du bocage éparse sur le plateau agricole"
 ---
 
 Facettes Paysages a accompagné Marine Le Thellec et les élèves de CM1 CM2 de l'école publique de Gourlizon dans leurs travaux de recherche sur l'évolution du bocage.
 
-![carte générale de l'itinéraire avec les points d'arrêt envisagés pour lire les paysages du bocage de Gourlizon](/assets/images/actualites/gourlicarte.jpg)
+![carte générale de l'itinéraire avec les points d'arrêt envisagés pour lire les paysages du bocage de Gourlizon](/assets/images/actualites/gourlicarte.webp)
 
 L'occasion de partager des lectures de paysage le long d'un sentier de petite randonnée, avec les cartes anciennes en appui et des carnets d'exploration !
 Les enfants ont profité de cette escapade pour analyser les composantes du bocage actuel, source de richesse pour la biodiversité et les habitants de la commune.

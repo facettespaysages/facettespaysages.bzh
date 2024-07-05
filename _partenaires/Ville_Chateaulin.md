@@ -6,9 +6,9 @@ location:
   latitude: 48.195502756438074 
   longitude: -4.094322991539401
 header:
-  teaser: /assets/images/partenaires/chateaulin.jpg
+  teaser: /assets/images/thumbnails/partenaires/chateaulin.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/chateaulin.jpg
+  overlay_image: /assets/images/partenaires/chateaulin.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

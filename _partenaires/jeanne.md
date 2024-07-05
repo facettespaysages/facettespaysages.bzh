@@ -6,9 +6,9 @@ location:
   latitude: 48.40213623826372 
   longitude: -3.755733379726014
 header:
-  teaser: /assets/images/partenaires/jeanne.jpg
+  teaser: /assets/images/thumbnails/partenaires/jeanne.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/jeanne.jpg
+  overlay_image: /assets/images/partenaires/jeanne.webp
   overlay_filter: 0.5
   actions:
     - label: "Facebook"

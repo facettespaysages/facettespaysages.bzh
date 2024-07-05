@@ -6,9 +6,9 @@ location:
   latitude: 48.509042860646254
   longitude: -4.068864418879747
 header:
-  teaser: /assets/images/partenaires/landivisiau.jpg
+  teaser: /assets/images/thumbnails/partenaires/landivisiau.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/landivisiau.jpg
+  overlay_image: /assets/images/partenaires/landivisiau.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

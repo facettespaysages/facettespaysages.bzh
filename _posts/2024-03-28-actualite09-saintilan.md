@@ -8,19 +8,19 @@ categories:
   - Actualités
 author_profile: false
 header:
-  teaser: /assets/images/thumbnails/actualites/stilan.jpg
+  teaser: /assets/images/thumbnails/actualites/stilan.webp
   show_overlay_excerpt: false
-  overlay_image: /assets/images/actualites/stilan.jpg
+  overlay_image: /assets/images/actualites/stilan.webp
   overlay_filter: 0.2
 gallery:
-  - url: /assets/images/actualites/stilan2.jpg
-    image_path: /assets/images/actualites/stilan2.jpg
+  - url: /assets/images/actualites/stilan2.webp
+    image_path: /assets/images/actualites/stilan2.webp
     alt: "Présentation d'un carnet d'exploration réalisé en voyage dans les Alpes"
-  - url: /assets/images/actualites/stilan3.jpg
-    image_path: /assets/images/actualites/stilan3.jpg
+  - url: /assets/images/actualites/stilan3.webp
+    image_path: /assets/images/actualites/stilan3.webp
     alt: "Présentation de mon parcours autour d'une table conviviale"
-  - url: /assets/images/actualites/stilan4.jpg
-    image_path: /assets/images/actualites/stilan4.jpg
+  - url: /assets/images/actualites/stilan4.webp
+    image_path: /assets/images/actualites/stilan4.webp
     alt: "Présentation d'un calque réalisé à main levé pour un projet d'espaces publics dans le centre-bourg de Ploubezre"
 ---
 

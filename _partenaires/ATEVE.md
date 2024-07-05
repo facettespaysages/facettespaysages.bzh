@@ -6,9 +6,9 @@ location:
   latitude: 48.49290268743579 
   longitude: -4.040797344867428
 header:
-  teaser: /assets/images/partenaires/ateve.jpg
+  teaser: /assets/images/thumbnails/partenaires/ateve.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/ateve.jpg
+  overlay_image: /assets/images/partenaires/ateve.webp
   overlay_filter: 0.9
   actions:
     - label: "Lien direct"

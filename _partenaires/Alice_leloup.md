@@ -6,9 +6,9 @@ location:
   latitude: 47.8748514029704 
   longitude: -3.920075672393692
 header:
-  teaser: /assets/images/partenaires/aliceleloup.jpg
+  teaser: /assets/images/thumbnails/partenaires/aliceleloup.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/aliceleloup.jpg
+  overlay_image: /assets/images/partenaires/aliceleloup.webp
   overlay_filter: 0.5
   actions:
     - label: "Profil Linkedin"

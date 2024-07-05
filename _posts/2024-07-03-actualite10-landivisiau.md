@@ -8,31 +8,31 @@ categories:
   - Actualités
 author_profile: false
 header:
-  teaser: /assets/images/thumbnails/actualites/landi.jpg
+  teaser: /assets/images/thumbnails/actualites/landi.webp
   show_overlay_excerpt: false
-  overlay_image: /assets/images/actualites/landi.jpg
+  overlay_image: /assets/images/actualites/landi.webp
   overlay_filter: 0.2
 gallery:
-  - url: /assets/images/actualites/landi.jpg
-    image_path: /assets/images/actualites/landi.jpg
+  - url: /assets/images/actualites/landi.webp
+    image_path: /assets/images/actualites/landi.webp
     alt: "Place de l'église vue depuis la place des halles, avec une saturation de parking"
-  - url: /assets/images/actualites/landi5.jpg
-    image_path: /assets/images/actualites/landi5.jpg
+  - url: /assets/images/actualites/landi5.webp
+    image_path: /assets/images/actualites/landi5.webp
     alt: "L'équipe de maîtrise d'ouvrage et maîtrise d'oeuvre réunie sur la place de l'église"
-  - url: /assets/images/actualites/landi1.jpg
-    image_path: /assets/images/actualites/landi1.jpg
+  - url: /assets/images/actualites/landi1.webp
+    image_path: /assets/images/actualites/landi1.webp
     alt: "Arrêt devant les travaux de l'extension de la médiathèque, de le vallon où coule l'affluent du Lapic"
-  - url: /assets/images/actualites/landi3.jpg
-    image_path: /assets/images/actualites/landi3.jpg
+  - url: /assets/images/actualites/landi3.webp
+    image_path: /assets/images/actualites/landi3.webp
     alt: "Depuis le point bas du fond du vallon, perspective ouverte sur le clocher de l'église Saint-Thuriau"
-  - url: /assets/images/actualites/landi6.jpg
-    image_path: /assets/images/actualites/landi6.jpg
+  - url: /assets/images/actualites/landi6.webp
+    image_path: /assets/images/actualites/landi6.webp
     alt: "L'équipe de maîtrise d'ouvrage et maîtrise d'oeuvre réunie dans le vallon de l'affluent du Lapic"
-  - url: /assets/images/actualites/landi2.jpg
-    image_path: /assets/images/actualites/landi2.jpg
+  - url: /assets/images/actualites/landi2.webp
+    image_path: /assets/images/actualites/landi2.webp
     alt: "Retour à la mairie par le champ de Foire, pendant le marché"
-  - url: /assets/images/actualites/landi4.jpg
-    image_path: /assets/images/actualites/landi4.jpg
+  - url: /assets/images/actualites/landi4.webp
+    image_path: /assets/images/actualites/landi4.webp
     alt: "Le lavoir, résurgence de l'affluent du Lapic, dans une alcôve intimiste, rustique et arborée"
 ---
 

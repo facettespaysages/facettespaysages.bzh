@@ -6,9 +6,9 @@ location:
   latitude: 48.443891826145745 
   longitude: -4.459259581684062
 header:
-  teaser: /assets/images/partenaires/technilampes.jpg
+  teaser: /assets/images/thumbnails/partenaires/technilampes.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/technilampes.jpg
+  overlay_image: /assets/images/partenaires/technilampes.webp
   overlay_filter: 0.9
   actions:
     - label: "Lien direct"

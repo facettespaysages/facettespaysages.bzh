@@ -6,9 +6,9 @@ location:
   latitude: 48.51207025487083  
   longitude: -4.070879162397725
 header:
-  teaser: /assets/images/partenaires/pndv.jpg
+  teaser: /assets/images/thumbnails/partenaires/pndv.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/ndv.jpg
+  overlay_image: /assets/images/partenaires/ndv.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

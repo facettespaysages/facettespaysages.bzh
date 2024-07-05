@@ -6,9 +6,9 @@ location:
   latitude: 47.88703502720055 
   longitude: -4.155102128915337
 header:
-  teaser: /assets/images/partenaires/combrit.jpg
+  teaser: /assets/images/thumbnails/partenaires/combrit.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/combrit.jpg
+  overlay_image: /assets/images/partenaires/combrit.webp
   overlay_filter: 0.5
   actions:
     - label: "Lien direct"

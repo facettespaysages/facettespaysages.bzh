@@ -8,7 +8,7 @@ categories:
   - Blog
 author_profile: true
 header:
-  teaser: /assets/images/thumbnails/blog/feijoa169.jpg
+  teaser: /assets/images/thumbnails/blog/feijoa169.webp
   show_overlay_excerpt: false
   overlay_image: /assets/images/blog/feijoa.webp
   overlay_filter: 0.2

@@ -6,9 +6,9 @@ location:
   latitude: 48.30714082769034 
   longitude: -1.670293140621023
 header:
-  teaser: /assets/images/partenaires/tln.jpg
+  teaser: /assets/images/thumbnails/partenaires/tln.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/tln.jpg
+  overlay_image: /assets/images/partenaires/tln.webp
   overlay_filter: 0.5
   actions:
     - label: "Instagram"

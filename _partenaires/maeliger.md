@@ -6,9 +6,9 @@ location:
   latitude: 48.38790064135848
   longitude: -4.3484093622690985
 header:
-  teaser: /assets/images/partenaires/maeliger.jpg
+  teaser: /assets/images/thumbnails/partenaires/maeliger.webp
   show_overlay_excerpt: true
-  overlay_image: /assets/images/partenaires/maeliger.jpg
+  overlay_image: /assets/images/partenaires/maeliger.webp
   overlay_filter: 0.9
   actions:
     - label: "Lien direct"
