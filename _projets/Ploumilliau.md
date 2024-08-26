@@ -2,32 +2,32 @@
 title: Densifier le centre-bourg 
 excerpt: Faisabilité pour la construction de 19 logements en centre-bourg de Ploumilliau
 gallery:
-    - url: /assets/images/projets/ploum1.png
-      image_path: /assets/images/projets/ploum1.png
+    - url: /assets/images/projets/ploum1.webp
+      image_path: /assets/images/projets/ploum1.webp
       alt: "Scenario 1 - Plan masse du quartier"
-    - url: /assets/images/projets/ploum2.png
-      image_path: /assets/images/projets/ploum2.png
+    - url: /assets/images/projets/ploum2.webp
+      image_path: /assets/images/projets/ploum2.webp
       alt: "Scenario 1 - Plan d'implantation des logements"
-    - url: /assets/images/projets/ploum3.png
-      image_path: /assets/images/projets/ploum3.png
+    - url: /assets/images/projets/ploum3.webp
+      image_path: /assets/images/projets/ploum3.webp
       alt: "Scenario 1 - Croquis depuis l'entrée du nouveau quartier"
 gallery2:
-    - url: /assets/images/projets/ploum4.png
-      image_path: /assets/images/projets/ploum4.png
+    - url: /assets/images/projets/ploum4.webp
+      image_path: /assets/images/projets/ploum4.webp
       alt: "Scenario 2 - Plan masse du quartier"    
-    - url: /assets/images/projets/ploum5.png
-      image_path: /assets/images/projets/ploum5.png
+    - url: /assets/images/projets/ploum5.webp
+      image_path: /assets/images/projets/ploum5.webp
       alt: "Scenario 2 - Plan d'implantation des logements"
-    - url: /assets/images/projets/ploum6.png
-      image_path: /assets/images/projets/ploum6.png
+    - url: /assets/images/projets/ploum6.webp
+      image_path: /assets/images/projets/ploum6.webp
       alt: "Scenario 2 - Croquis depuis l'entrée du nouveau quartier"
 phases:
   - name: all
     start: 2023-06-01
     end: 2024-01-30
 header:
-  teaser: /assets/images/projets/ploum3.png
-  overlay_image: /assets/images/projets/ploum3.png
+  teaser: /assets/images/projets/ploum3.webp
+  overlay_image: /assets/images/projets/ploum3.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2024-05-21T00:00:00-00:00
@@ -48,7 +48,7 @@ sidebar:
 Sur le plateau du petit Trégor, Ploumilliau est en situation de promontoire sur la vallée du ruisseau de Kerdu.
 Formé à partir du mot ploue signifiant « paroisse » en breton, le toponyme a pour éponyme Saint Miliau, roi légendaire de Bretagne.
 
-![photos situation existante](/assets/images/projets/ploum0.png)
+![photos situation existante](/assets/images/projets/ploum0.webp)
 
 La commune de Ploumilliau, accompagnée de la SPLA de Lannion Trégor Communauté, souhaite densifier son centre-bourg en proposant des logements adaptés aux besoins actuels.
 Avec Nunc Architectes, mandataire du groupement, nous avons travaillé sur deux scenarii d'aménagement correspondant à une densité de 40 logements par hectare.
@@ -79,7 +79,7 @@ Au nord, une voie d’accès dessert deux antennes perpendiculaires. En dehors d
 Le premier îlot propose des logements intermédiaires de type T3 en R+1, le second propose des T2, sur deux niveaux. L’intimité des jardins est préservée par une bande très arborée de type verger servant également de noue pour l’infiltration des eaux pluviales.
 Le principe de coursive extérieure est conservé pour les logements en R+1. Tout à l’ouest sont implantés les logements individuels T4.
 
-![images_ambiance_des_espaces_exterieurs](/assets/images/projets/ploum7.png)
+![images_ambiance_des_espaces_exterieurs](/assets/images/projets/ploum7.webp)
 
 Un espace ludique est aménagé en entrée de lotissement, à proximité de l'école, afin d’augmenter l’offre en jeux de la commune. Cet espace communal sera adapté aux enfants, destiné à la fois aux futures familles qui s’installeront dans le lotissement mais aussi pour tous les enfants du centre-bourg, en lien avec les activités périscolaires et la maison paroissiale. 
 Afin de garantir leur insertion paysagère, les jeux seront réalisés en bois, et pourront être dessinés avec un groupe d’enfants intéressé par le projet. Si la commune a des projets d’abattage, une valorisation du bois coupé pourra être faite en vue de créer le mobilier sur-mesure.
@@ -88,11 +88,11 @@ Pour garantir un cadre de vie champêtre et apaisé, la stratégie végétale re
 * Composer des alignements d'arbres et de cépées, évoquant les motifs des haies bocagères situées aux alentours ; 
 * Proposer des massifs arbustifs nécessitant peu d'entretien et un fleurissement étalé sur toute l'année. 
 
-![palette végétale des alignements_arbores](/assets/images/projets/ploum8.png)
+![palette végétale des alignements_arbores](/assets/images/projets/ploum8.webp)
 
 L'occasion pour Facettes Paysages d'imaginer une palette végétale adaptée au contexte. Elle s’inspire des essences locales et marque les différentes saisons grâce aux floraisons remarquables du printemps et aux couleurs automnales flamboyantes de certains arbres et arbrisseaux. Les essences sont majoritairement comestibles de manière à proposer aux habitant·es un environnement foisonnant et vivant. 
 
-![palette végétale des massifs_arbustifs](/assets/images/projets/ploum9.png)
+![palette végétale des massifs_arbustifs](/assets/images/projets/ploum9.webp)
 
 Par exemple, les bords des allées piétonnes seront plantés de couvre-sols mellifères et dont certaines ont un pouvoir tapissant rapide comme la menthe et la ronce tricolore.
 
