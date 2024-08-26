@@ -24,7 +24,7 @@ gallery2:
   - url: /assets/images/projets/jank8.webp
     image_path: /assets/images/projets/jank8.webp
     alt: "palette végétale, massif arbustif aux abords de la terrasse"
-      - url: /assets/images/projets/jank9.webp
+  - url: /assets/images/projets/jank9.webp
     image_path: /assets/images/projets/jank9.webp
     alt: "palette végétale, massif arbustif à l'Est"
 phases:
