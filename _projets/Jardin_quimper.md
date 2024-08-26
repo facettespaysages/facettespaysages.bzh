@@ -29,7 +29,7 @@ gallery2:
     alt: "palette végétale, massif arbustif à l'Est"
 phases:
   - name: all
-    start: 2023-12-01
+    start: 2023-12-16
     end: 2024-03-30
 header:
   teaser: /assets/images/projets/jank4.webp
@@ -81,7 +81,7 @@ Les essences sélectionnées ont toutes un élément remarquable : que ce soit l
 
 ![tableau de répartition des floraisons et des éléments remarquables des plantes associées](/assets/images/projets/jank_palette.webp)
 
-Un tableau de répartition des floraisons et des éléments décoratifs de la plante a été construit, mettant en évidence la complémentarité des végétaux.
+Un tableau de répartition des floraisons et des éléments décoratifs des plantes met en évidence la complémentarité des végétaux.
 Dans un souci de limiter l'entretien et d'avoir une floraison étalée sur toute l'année, une dominante d'arbustes à port libre et compact est proposée.
 
 ## Echéances
