@@ -32,8 +32,8 @@ phases:
     start: 2023-12-16
     end: 2024-03-30
 header:
-  teaser: /assets/images/projets/jank_croquis.jpg
-  overlay_image: /assets/images/projets/jank_croquis.jpg
+  teaser: /assets/images/projets/jank_croquis.webp
+  overlay_image: /assets/images/projets/jank_croquis.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2024-08-26T00:00:00-00:00
