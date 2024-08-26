@@ -69,10 +69,15 @@ Un espace enherbé de 110 m² est laissé libre sur la partie Ouest où deux fru
 
 Dans l’optique d’installer un abri de jardin servant à stocker du bois pour l’hiver, une allée dallée en pas japonais ou en bastaing de bois antidérapant prend place sur une largeur d’un mètre et donne accès à une terrasse au sec dans la continuité du auvent de l’abri de jardin construit contre la façade Nord.
 
-{% include gallery id="gallery2" caption="Des extraits de la palette végétale imaginée" %}
+{% include gallery id="gallery2" caption="Extraits de la palette végétale imaginée" %}
 
-Afin de qualifier les pieds de la baie vitrée du salon, la terrasse en bois est prolongée sur une longueur de 3,70 m. Pour l’ombrager, un poteau (d’une longueur totale de 3 m, dont 1 m enfoncé dans le sol) est installé à l’angle sud-Ouest pour tendre une toile militaire. 
-Les abords sont agrémentés de plantes vivaces aromatiques, faciles d’accès depuis la cuisine/salle à manger. En plein été, les parfums de la menthe, du thym, de l’origan et de la verveine seront révélés avec la chaleur et les passages des personnes passant à table.
+Tous les massifs arbustifs ont été réfléchi en lien avec les plantes pré-existantes et en fonction des goûts des clients. 
+Les essences sélectionnées ont toutes un élément remarquable : que ce soit le parfum, la floraison remarquable, une écorce décorative, une fructification comestible et décorative.
+
+![tableau de répartition des floraisons et des éléments remarquables des plantes associées](/assets/images/projets/jank_palette.png)
+
+Un tableau de répartition des floraisons et des éléments décoratifs de la plante a été construit, mettant en évidence la complémentarité des végétaux.
+Dans un souci de limiter l'entretien et d'avoir une floraison étalée sur toute l'année, une dominante d'arbustes à port libre et compact est proposée.
 
 ## Echéances
 
