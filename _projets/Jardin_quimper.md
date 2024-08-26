@@ -79,7 +79,7 @@ Dans l’optique d’installer un abri de jardin servant à stocker du bois pour
 Tous les massifs arbustifs ont été réfléchi en lien avec les plantes pré-existantes et en fonction des goûts des clients. 
 Les essences sélectionnées ont toutes un élément remarquable : que ce soit le parfum, la floraison remarquable, une écorce décorative, une fructification comestible et décorative.
 
-![tableau de répartition des floraisons et des éléments remarquables des plantes associées](/assets/images/projets/jank_palette.png)
+![tableau de répartition des floraisons et des éléments remarquables des plantes associées](/assets/images/projets/jank_palette.webp)
 
 Un tableau de répartition des floraisons et des éléments décoratifs des plantes met en évidence la complémentarité des végétaux.
 Dans un souci de limiter l'entretien et d'avoir une floraison étalée sur toute l'année, une dominante d'arbustes à port libre et compact est proposée.
