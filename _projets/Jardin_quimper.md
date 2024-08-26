@@ -1,5 +1,5 @@
 ---
-title: Jardin de Quimper
+title: Un petit jardin intimiste
 excerpt: Esquisse d'un jardin privé dans l'Anse de Keraval
 gallery:
   - url: /assets/images/projets/jank1.webp
