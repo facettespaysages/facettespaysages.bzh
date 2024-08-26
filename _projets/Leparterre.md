@@ -1,5 +1,5 @@
 ---
-title: Imaginer un jardin d'exploration
+title: Un jardin d'exploration
 excerpt: Esquisse d'un jardin privé en bord de Loire
 gallery:
     - url: /assets/images/projets/parterre1.webp
