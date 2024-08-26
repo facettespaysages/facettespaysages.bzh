@@ -2,30 +2,30 @@
 title: Un petit jardin intimiste
 excerpt: Esquisse d'un jardin privé dans l'Anse de Keraval
 gallery:
-  - url: /assets/images/projets/jank1.png
-    image_path: /assets/images/projets/jank1.png
+  - url: /assets/images/projets/jank1.webp
+    image_path: /assets/images/projets/jank1.webp
     alt: "Plan masse des aménagements proposés"
-  - url: /assets/images/projets/jank2.png
-    image_path: /assets/images/projets/jank2.png
+  - url: /assets/images/projets/jank2.webp
+    image_path: /assets/images/projets/jank2.webp
     alt: "Elevation sud du jardin et de la maison"
-  - url: /assets/images/projets/jank3.png
-    image_path: /assets/images/projets/jank3.png
+  - url: /assets/images/projets/jank3.webp
+    image_path: /assets/images/projets/jank3.webp
     alt: "Coupe transversale, dans le verger à l'Ouest de la maison"
-  - url: /assets/images/projets/jank4.png
-    image_path: /assets/images/projets/jank4.png
+  - url: /assets/images/projets/jank4.webp
+    image_path: /assets/images/projets/jank4.webp
     alt: "Croquis depuis la terrasse" 
 gallery2:
-  - url: /assets/images/projets/jank6.png
-    image_path: /assets/images/projets/jank6.png
+  - url: /assets/images/projets/jank6.webp
+    image_path: /assets/images/projets/jank6.webp
     alt: "palette végétale, massif arbustif à l'Ouest"
-  - url: /assets/images/projets/jank7.png
-    image_path: /assets/images/projets/jank7.png
+  - url: /assets/images/projets/jank7.webp
+    image_path: /assets/images/projets/jank7.webp
     alt: "palette végétale, massif arbustif au Sud"
-  - url: /assets/images/projets/jank8.png
-    image_path: /assets/images/projets/jank8.png
+  - url: /assets/images/projets/jank8.webp
+    image_path: /assets/images/projets/jank8.webp
     alt: "palette végétale, massif arbustif aux abords de la terrasse"
-  - url: /assets/images/projets/jank9.png
-    image_path: /assets/images/projets/jank9.png
+  - url: /assets/images/projets/jank9.webp
+    image_path: /assets/images/projets/jank9.webp
     alt: "palette végétale, massif arbustif à l'Est"
 phases:
   - name: all
@@ -70,7 +70,7 @@ Le principal enjeu est de préserver l'intimité du jardin, en conservant et com
 Pour y répondre, des massifs arbustifs sont plantés en limite Sud, Ouest et Nord. A l'Est, un jardin d'agrément accueille les invité·es.
 Un espace enherbé de 110 m² est laissé libre sur la partie Ouest où deux fruitiers pourront être plantés.
 
-![axonométrie présentant la construction et l'installation d'un abri en bois avec récupérateur d'eau de pluie](/assets/images/projets/jank5.png)
+![axonométrie présentant la construction et l'installation d'un abri en bois avec récupérateur d'eau de pluie](/assets/images/projets/jank5.webp)
 
 Dans l’optique d’installer un abri de jardin servant à stocker du bois pour l’hiver, une allée dallée en pas japonais ou en bastaing de bois antidérapant prend place sur une largeur d’un mètre et donne accès à une terrasse au sec dans la continuité du auvent de l’abri de jardin construit contre la façade Nord.
 
