@@ -30,7 +30,7 @@ header:
   overlay_image: /assets/images/projets/ploum3.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2024-05-21T00:00:00-00:00
+last_modified_at: 2024-08-26T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Ploumilliau, département des Côtes d'Armor (22)"

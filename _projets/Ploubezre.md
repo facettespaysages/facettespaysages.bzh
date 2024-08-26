@@ -29,7 +29,7 @@ header:
   overlay_image: /assets/images/projets/ploubezre5.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2023-12-03T00:00:00-00:00
+last_modified_at: 2024-08-26T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Ploubezre, département des Côtes d'Armor (22)"

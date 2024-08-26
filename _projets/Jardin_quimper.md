@@ -33,7 +33,7 @@ header:
   overlay_image: /assets/images/projets/jank4.png
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2023-12-03T00:00:00-00:00
+last_modified_at: 2024-08-26T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Quimper (29)"
