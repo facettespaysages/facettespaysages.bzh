@@ -26,7 +26,7 @@ phases:
     start: 2023-06-01
     end: 2024-01-30
 header:
-  teaser: /assets/images/thumbnails/projets/ploum3.png
+  teaser: /assets/images/projets/ploum3.png
   overlay_image: /assets/images/projets/ploum3.png
   overlay_filter: 0.5
   show_overlay_excerpt: true
