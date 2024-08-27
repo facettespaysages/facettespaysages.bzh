@@ -98,6 +98,6 @@ Les matériaux employés sont conformes aux normes de la sécurité routière. A
 
 ## Echéances
 
-Les études ont été lancées en juin 2023 et devraient aboutir à des travaux en septembre 2024.
+Les études ont été lancées en juin 2023 et devraient aboutir à des travaux prochainement.
 
 
