@@ -3,8 +3,8 @@ title: Mael Iger
 excerpt: Conceptrice lumière
 incubator: maitres_oeuvre
 location:
-  latitude: 48.38790064135848
-  longitude: -4.3484093622690985
+  latitude: 47.996731 
+  longitude: -4.102375
 header:
   teaser: /assets/images/thumbnails/partenaires/maeliger.webp
   show_overlay_excerpt: true
