@@ -87,7 +87,7 @@ En plus de cette couleur jaune d’or du genêt, la couleur noire du revêtement
 
 Dans un premier temps d'étude, lors de l'esquisse, nous avons travaillé sur trois lignes graphiques distinctes, débattues avec les membres du conseil municipal.
 Au démarrage de l'Avant-Projet, nous avons rencontré le comité vélo afin de partager les premières intentions de projet.
-Nous avons poursuivi le travail sur une identité graphique partagée par tous les usagers et les partenaires, des motifs et des codes couleurs qui attire la vigilance des automobilistes sur le partage de la voie.
+Nous avons poursuivi le travail sur une identité graphique partagée par tous les usagers et les partenaires, des motifs et des codes couleurs, qui attirent la vigilance des automobilistes sur le partage de la voie.
 
 {% include gallery caption="Mise en perspective du projet sur l'entrée de la route de Saint Thurien" %}
 
