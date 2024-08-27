@@ -2,41 +2,41 @@
 title: Aménager les nouvelles portes d'entrée
 excerpt: Etudes d’aménagement des seuils de l'agglomération de Bannalec
 gallery:
-    - url: /assets/images/projets/ban4.png
-      image_path: /assets/images/projets/ban4.png
+    - url: /assets/images/projets/ban4.webp
+      image_path: /assets/images/projets/ban4.webp
       alt: "Plan des principes d'aménagement, route de Saint Thurien"
-    - url: /assets/images/projets/ban2.png
-      image_path: /assets/images/projets/ban2.png
+    - url: /assets/images/projets/ban2.webp
+      image_path: /assets/images/projets/ban2.webp
       alt: "Zoom du plan des aménagements, route de Saint Thurien"
-    - url: /assets/images/projets/ban3.png
-      image_path: /assets/images/projets/ban3.png
+    - url: /assets/images/projets/ban3.webp
+      image_path: /assets/images/projets/ban3.webp
       alt: "Coupe sur les futurs aménagements, route de Saint Thurien"
-    - url: /assets/images/projets/ban1.png
-      image_path: /assets/images/projets/ban1.png
+    - url: /assets/images/projets/ban1.webp
+      image_path: /assets/images/projets/ban1.webp
       alt: "Croquis de principe sur l'entrée d'agglomération route de Saint Thurien"
 gallery2:
-    - url: /assets/images/projets/ban9.png
-      image_path: /assets/images/projets/ban9.png
+    - url: /assets/images/projets/ban9.webp
+      image_path: /assets/images/projets/ban9.webp
       alt: "Plan des principes d'aménagement, route de Scaër"
-    - url: /assets/images/projets/ban7.png
-      image_path: /assets/images/projets/ban7.png
+    - url: /assets/images/projets/ban7.webp
+      image_path: /assets/images/projets/ban7.webp
       alt: "Zoom du plan des aménagements, route de Scaër"
-    - url: /assets/images/projets/ban8.png
-      image_path: /assets/images/projets/ban8.png
+    - url: /assets/images/projets/ban8.webp
+      image_path: /assets/images/projets/ban8.webp
       alt: "Coupe sur les futurs aménagements, route de Scaër"
-    - url: /assets/images/projets/ban5.png
-      image_path: /assets/images/projets/ban5.png
+    - url: /assets/images/projets/ban5.webp
+      image_path: /assets/images/projets/ban5.webp
       alt: "Croquis de principe sur l'entrée d'agglomération route de Scaër"
-    - url: /assets/images/projets/ban6.png
-      image_path: /assets/images/projets/ban6.png
+    - url: /assets/images/projets/ban6.webp
+      image_path: /assets/images/projets/ban6.webp
       alt: "Palette végétale suggérée pour l'entrée d'agglomération route de Scaër"
 phases:
   - name: all
     start: 2023-06-01
     end: en cours
 header:
-  teaser: /assets/images/projets/ban0.png
-  overlay_image: /assets/images/projets/ban0.png
+  teaser: /assets/images/projets/ban0.webp
+  overlay_image: /assets/images/projets/ban0.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2024-08-27T00:00:00-00:00
@@ -57,7 +57,7 @@ sidebar:
 Bannalec est une commune rurale située dans le Sud-Est du département du Finistère. Elle s’étend sur 77,51 km² et compte 5 668 habitants en 2019.
 Elle est traversée par trois routes départementales structurantes générant un trafic important notamment de poids-lourds.
 
-![vue aérienne de l'agglomération de Bannalec](/assets/images/projets/ban13.png)
+![vue aérienne de l'agglomération de Bannalec](/assets/images/projets/ban13.webp)
 
 Les excès de vitesse sont courants et peuvent être très importants en fonction des heures de pointe, des habitudes des usagers. Certaines portions de voie ont été la scène d’accidents (piétons, vélos renversés par des véhicules).
 
@@ -74,7 +74,7 @@ La route départementale doit troquer son caractère routier au profit d’une �
 La zone 50 laisse possibilité de travailler des marquages en peinture, en résine thermocollée, en enduit à froid, ou encore en résine avec de la
 pépite gravillonnée. Ces procédés permettent de réaliser tous types de formes. Pour autant, dans les différents contextes des entrées d’agglomération de Bannalec, nous proposons des lignes géométriques simples, qui sortent des gabarits classiques utilisés pour marquer les bandes de stop, de cédez-le-passage, de passage piéton et autres.
 
-![images de référence pour les futurs marquages](/assets/images/projets/ban12.png)
+![images de référence pour les futurs marquages](/assets/images/projets/ban12.webp)
 
 Nous proposons la même proportion de marquage pour les quatre entrées principales (Scaër, Rosporden, Saint-Thurien, Pont- Aven) : 30x6m. Cette proportion est adaptée pour l’entrée de Scaër en 2 fois 30x3m du fait du tourne-à-gauche maintenu pour la ZA de Moustoulgoat.
 Les entrées du hameau de Loge Begoarem sont marquées de façon plus légère : 14x6m.
@@ -83,7 +83,7 @@ Bannalec porte une identité végétale rattachée au genêt, plante commune pro
 Sa floraison jaune spectaculaire est appréciée en été et a inspiré la symbolique du nouveau logo de la commune. La couleur du jaune est donc retenue pour la ligne graphique à utiliser en marquage au sol.
 En plus de cette couleur jaune d’or du genêt, la couleur noire du revêtement en enrobé sera complété du blanc, en référence au drapeau Gwenn ha du breton.
 
-![évolution de la ligne graphique au cours de l'étude](/assets/images/projets/ban11.png)
+![évolution de la ligne graphique au cours de l'étude](/assets/images/projets/ban11.webp)
 
 Dans un premier temps d'étude, lors de l'esquisse, nous avons travaillé sur trois lignes graphiques distinctes, débattues avec les membres du conseil municipal.
 Au démarrage de l'Avant-Projet, nous avons rencontré le comité vélo afin de partager les premières intentions de projet.
