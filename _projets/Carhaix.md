@@ -103,7 +103,7 @@ Les parcs «à l’anglaise» correspondent à la philosophie de projet car ils 
 * S’inspirer du caractère sauvage de la Nature ; 
 * Exalter la poésie du lieu en mettant en valeur un élément remarquable (arbre rare, tronc tortueux, ruisseau, vallon humide, plan d’eau) ;
 * Rechercher l’équilibre entre les volumes, les variétés ornementales, les accords des coloris et des matières végétales.
-  <br>
+<br>
 En dehors de ces éléments existants à mettre en évidence, le site porte différents enjeux liés à la pratique sportive :
 * Thématiser les plantations comme un voyage autour du monde tout en limitant l’entretien ;
 * Travailler les formes végétales de manière à rythmer le parcours au fil du jeu et des saisons, en dehors des zones de rough ;
