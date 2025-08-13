@@ -25,7 +25,7 @@ sidebar:
     
 carousels:
   - images:
-    - url: /assets/images/projets/carhaix_exi3.webp
+    - url: /assets/images/projets/carhaix_exi3.jpg
       width: 1000
       height: 707
     - url: /assets/images/projets/carhaix_exi4.jpg
