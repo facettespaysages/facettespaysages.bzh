@@ -25,7 +25,7 @@ sidebar:
     
 carousels:
   - images:
-    - url: /assets/images/projets/berrien_exi1.JPG
+    - url: /assets/images/projets/berrien_exi.JPG
       width: 1000
       height: 707
     - url: /assets/images/projets/berrien_exi2.JPG
