@@ -6,11 +6,11 @@ phases:
     start: 2024-09-01
     end: en cours
 header:
-  teaser: /assets/images/thumbnails/projets/landi2.webp
-  overlay_image: /assets/images/projets/landi2.webp
+  teaser: /assets/images/thumbnails/projets/loudeac_exi3.jpg
+  overlay_image: /assets/images/projets/loudeac_exi3.jpg
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2024-05-21T00:00:00-00:00
+last_modified_at: 2025-08-13 T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Loudéac, département des Côtes d'Armor (22)"
