@@ -19,7 +19,7 @@ sidebar:
   - title: "Equipe"
     text: "Facettes Paysages"
   - title: "Surface"
-    text: "20 000 m²"
+    text: "200 000 m²"
   - title: "Budget travaux"
     text: "310 000 € H.T."
     
