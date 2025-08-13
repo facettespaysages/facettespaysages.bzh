@@ -1,13 +1,13 @@
 ---
 title: Un cour ludique 
-excerpt: Aménagement de la cour de l'école Jean Caër
+excerpt: Aménagement des cours de l'école Jean Caër
 phases:
   - name: all
-    start: 2024-10-01
+    start: 2024-09-01
     end: en cours
 header:
-  teaser: /assets/images/thumbnails/projets/chateaulin.webp
-  overlay_image: /assets/images/projets/chateau_chantier1_3.webp
+  teaser: /assets/images/thumbnails/projets/berrien8.webp
+  overlay_image: /assets/images/projets/berrien8.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2025-08-13 T00:00:00-00:00
@@ -25,121 +25,75 @@ sidebar:
     
 carousels:
   - images:
-    - url: /assets/images/projets/chateau_concert_1.webp
+    - url: /assets/images/projets/berrien_exi1.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/chateau_concert_2.webp
+    - url: /assets/images/projets/berrien_exi2.webp
       width: 1000
       height: 707
-  - images:
-    - url: /assets/images/projets/chateau_esq_1.webp
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/chateau_esq_2.webp
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/chateau_esq_3.webp
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/chateau_esq_4.jpg
+    - url: /assets/images/projets/berrien_exi3.webp
       width: 1000
       height: 707
   - images:
-      - url: /assets/images/projets/chateau_chantier1_1.webp
+      - url: /assets/images/projets/berrien1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier1_2.webp
+      - url: /assets/images/projets/berrien2.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier1_3.webp
+      - url: /assets/images/projets/berrien4.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/chateau_chantier2_1.webp
+      - url: /assets/images/projets/berrien5.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_2.webp
+      - url: /assets/images/projets/berrien6.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_3.webp
+      - url: /assets/images/projets/berrien7.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_4.webp
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/chateau_chantier2_5.webp
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/chateau_chantier2_6.webp
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/chateau_chantier2_7.webp
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/chateau_chantier2_8.webp
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/chateau_chantier2_9.webp
-        width: 1000
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/chateau2.webp
+      - url: /assets/images/projets/berrien8.webp
         width: 1000
         height: 707
 ---
 ## Contexte
 
-Dans le cadre de l'appel à projet Chifoumi du CAUE 29, notre équipe a été sélectionnée par la ville de Châteaulin pour réaliser les études de conception, mener les ateliers de concertation avec les enfants et les équipes enseignantes. C'est le collectif d'architectes constructeur·ices Tréteau La Nuit qui a piloté et rondement mené les travaux d'aménagement avec le concours des services techniques de la commune !
-<br>
-L'école, comme beaucoup d'autres en Finistère, est marquée par un plateau d'enrobé noir, où l'usage du foot domine avec les deux grandes cages de but.
-<br>
-Mais tout est encore possible, le terrain de jeux est immense pour dessiner avec les enfants, leur cour rêvée.
-
-![photos situation existante](/assets/images/projets/chateau1.webp)
-
-## Enjeux
-
-La démarche de conception s’appuie sur une solide concertation. Avec le collectif Tréteau La Nuit, Facettes Paysages a animé des ateliers où tous les enfants de l’école ont pu s’exprimer. Par le biais de dessins et de maquettes, ils ont conçu leur cour idéale.
+En parallèle du projet Chifoumi de Châteaulin, Facettes Paysages accompagne la commune de Berrien, l'équipe enseignante et les parents d'élèves dans l'aménagement des cours de l'école Jean Caër.
 
 {% include flickity.html %}
 
-## Le projet
+## Enjeux
 
-Avec le foisonnement d'idées parfois idéalisées mais souvent très ancrées dans le réel, nous avons synthétisé la matière produite lors des différents ateliers de concertation.
-<br>
-Les enfants sont unanimes, la cour doit permettre à toutes et tous de s'épanouir, grâce aux plantes, à la biodiversité déjà là et à différents dispositifs de récréation.
-<br>
-Dans ce sens, la cour est adaptée avec une nouvelle configuration spatiale, le terrain de foot devient un terrain multisport animé d'une fresque au sol. Des mobiliers sur-mesure sont installés çà et là pour répondre aux besoins d'usages calmes.
-Par un savant assemblage dessiné collectivement, des massifs plantés permettent :
-* aux tilleuls existants de retrouver un sol vivant ;
-* aux eaux pluviales de s'infiltrer au maximum à ciel ouvert évitant ainsi les grandes nappes de pluie ;
-* de créer différentes ambiances paysagères, pour se reposer, faire école dehors, regarder et observer la petite faune.
+L’école est composée de deux cours : la cour des grands au Sud et à l’Est du bâtiment, la cour des petits au Sud dans le prolongement des gradins enherbés donnant sur le centre de loisirs et le parking de la salle Asphodèle.
+Par beau temps, les cours sont des fours et sont mal vécues par les enfants et le personnel encadrant. Par mauvais temps, les espaces enherbés dans la cour des grands sont gorgés d’eau, car les pluies ont du mal à s’infiltrer. Des bordures périphériques guident l’eau vers des grilles avaloirs et peuvent être accidentogènes lorsque les enfants courent et jouent à proximité (risques d’entorse). 
+Par ailleurs, les casquettes du bâtiment ne suffisent pas à protéger les enfants en cas de pluie ou de vent.
+Une sur-représentation du jeu de balle ne permet pas un partage équitable de la cour bien que des tables de jeu et de pique-nique aient été disposées à différents endroits.
+
+
+![photos_de_références_inspirantes](/assets/images/projets/berrien3.webp)
+
+
+A la recherche d’un confort d’usages en toutes saisons, le projet d’aménagement répond aux enjeux suivants : 
+* Rafraîchir les cours avec des espaces plantés et composés de plusieurs strates, allant des vivaces couvre-sols aux arbustes et petits arbrisseaux et en travaillant la perméabilité des sols en place ;
+* Diversifier les usages des élèves et du personnel encadrant pour une meilleure répartition des pratiques récréatives, que ce soit des jeux dynamiques, des espaces de repos, de détente, de lecture ;
+* Eveiller les sens par l’aménagement de différents espaces en travaillant les textures, les arômes, les odeurs, les vues depuis les classes et les lieux utilisés en période de récré et par le centre de loisirs.
 
 {% include flickity_2.html %}
 
-## Le premier chantier participatif
+## Le projet
 
-Et c’est par une belle journée ensoleillée  de février que la jungle a pris racine : des igloos et un tunnel ont été tressés en saule vivant. Les plantes s’épanouissent et les rêves deviennent réalité !
+Afin de diversifier les pratiques récréatives, plusieurs bulles ont été aménagées de manière à répondre aux besoins et envies des enfants exprimés lors de la concertation de 2024 : 
+* Dans la petite cour, un premier espace est structuré par des pas de géant et un tipi construits en bois. Quelques prises d’escalade pourront être intégrées.
+Le deuxième tient compte de la structure de jeu actuelle qui pourrait être déposée reposée en lieu et place, avec une aire de réception en broyat. Cet espace peut également servir de petit amphithéâtre pour faire cour à l’extérieur, avec l’installation de deux bancs en arc de cercle. 
+* Dans la grande cour, quatre espaces sont aménagés comme des alcôves intimistes et réconfortantes avec différents dispositifs, pour des pratiques récréatives dynamiques ou calmes. La première est celle des cabanes de l'écoute propices à la lecture, aux dinettes et aux discussions tranquilles. La seconde, la plus grande, est destinée à des jeux d’équilibre avec la mise en place d’une grume et de pas de géant en bois. Les deux situées plus au Nord peuvent servir d’espaces de jeux de carte et de «cuisine», d’ateliers manuels à réaliser en plein air.
 
 {% include flickity_3.html %}
 
-## Le dernier chantier participatif
-
-Deux semaines de Juillet se sont écoulées pour que les services techniques et le collectif Tréteau La Nuit réalisent l'ensemble des mobiliers dont les enfants ont besoin : 
-* La cabane de l'amitié prend place sous le grand tilleul, et reste accessible pour tous les enfants, leur permettant de se ressourcer loin des espaces dynamiques ;
-* La scène est directement investie par les enfants pour présenter un spectacle de danse, sous les yeux bienveillants des animaux fantastiques et la boule à facettes du jardin pédagogique ;
-* Des bancs en gabion et en chêne massif sont installés dans la pente pour faire école dehors, avec en fond de scène, le jardin pédagogique et la crête de Cast ;
-* L'arbre couché est livré par Yves Garo élagueur, taillé et raboté par l'équipe pour devenir un animal à scutelles, tout droit sorti du lit de l'Aulne...
-
-Enfin, la fresque et les marquages au sol animent le tapis d'enrobé conservé. Sur la thématique de la vie des sols, la trame de la fresque a été préparée par l'équipe pour que les enfants du centre de loisirs puissent dessiné et participé à cette oeuvre d'art sur le mur existant.
-
-{% include flickity_4.html %}
-
 ## Echéances
 
-![photos projet_réalisé](/assets/images/projets/chateau2.webp)
-
-Les études ont été lancées au mois de juin 2024 et l'inauguration de la nouvelle cour est fixée au 15 septembre 2025.
+Les études ont été lancées au mois de septembre 2024 et sont toujours en cours. La préparation du chantier est prévue pour le début d'année 2026.
 
 
 
