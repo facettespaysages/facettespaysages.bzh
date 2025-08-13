@@ -135,7 +135,7 @@ Le plan de plantations tient compte de toutes les contraintes évoquées. Le par
 
 ## La botanique à travers le monde
 
-Le concept paysager repose sur l’organisation d’un voyage à travers les continents, au fil du parcours des neuf trous. A part l’Afrique, tous les continents sont représentés et sont évoqués par une sélection de végétaux dont l’origine ethno-botanique représente l’ambiance boisée dans ces continents. Pour chacun d’entre eux, la sélection végétale présente une diversification des strates, à la fois des arbres menés en cépées, d’autres en forme de tige, ou de très basses branches voire parfois des massifs arbustifs plus ou moins hauts pour cadrer les vues sur les éléments remarquables du site : les perspectives sur la vallée de l’Hyènes, le Clubhouse, les retenues d’eau (technique ou d’agrément) et le Châtaignier mort au centre de la parcelle Sud.
+Le concept paysager repose sur l’organisation d’un voyage à travers les continents, au fil du parcours des neuf trous. A part l’Afrique, tous les continents sont représentés et sont évoqués par une sélection de végétaux dont l’origine ethno-botanique représente l’ambiance boisée dans ces continents. Pour chacun d’entre eux, la sélection végétale présente une diversification des strates, à la fois des arbres menés en cépées, d’autres en forme de tige, ou de très basses branches voire parfois des massifs arbustifs plus ou moins hauts pour cadrer les vues sur les éléments remarquables du site : les perspectives sur la vallée de l’Hyères, le Clubhouse, les retenues d’eau (technique ou d’agrément) et le Châtaignier mort au centre de la parcelle Sud.
 
 {% include flickity_4.html %}
 
