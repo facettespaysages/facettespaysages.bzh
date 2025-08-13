@@ -54,10 +54,10 @@ carousels:
       width: 1000
       height: 707
   - images:
-      - url: /assets/images/projets/carhaix51.png
+      - url: /assets/images/projets/carhaix51.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix52.png
+      - url: /assets/images/projets/carhaix52.webp
         width: 1000
         height: 707
       - url: /assets/images/projets/carhaix6.webp

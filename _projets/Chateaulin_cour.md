@@ -41,7 +41,7 @@ carousels:
     - url: /assets/images/projets/chateau_esq_3.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/chateau_esq_4.webp
+    - url: /assets/images/projets/chateau_esq_4.jpg
       width: 1000
       height: 707
   - images:
