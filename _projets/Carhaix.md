@@ -86,19 +86,16 @@ carousels:
 ---
 ## Contexte
 
-Dans le cadre de l'appel à projet Chifoumi du CAUE 29, notre équipe a été sélectionnée par la ville de Châteaulin pour réaliser les études de conception, mener les ateliers de concertation avec les enfants et les équipes enseignantes. C'est le collectif d'architectes constructeur·ices Tréteau La Nuit qui a piloté et rondement mené les travaux d'aménagement avec le concours des services techniques de la commune !
-<br>
-L'école, comme beaucoup d'autres en Finistère, est marquée par un plateau d'enrobé noir, où l'usage du foot domine avec les deux grandes cages de but.
-<br>
-Mais tout est encore possible, le terrain de jeux est immense pour dessiner avec les enfants, leur cour rêvée.
+Prigent environnement a commandé l’esquisse d’un plan d’aménagement et de plantations du golf de Carhaix.
+Ce projet vise à créer un univers spécifique à la pratique de ce sport, qui s’insère dans le paysage de la vallée de l’Hyères et propose un voyage à travers les continents du monde.
 
-![photos situation existante](/assets/images/projets/chateau1.JPG)
+{% include flickity.html %}
 
 ## Enjeux
 
 La démarche de conception s’appuie sur une solide concertation. Avec le collectif Tréteau La Nuit, Facettes Paysages a animé des ateliers où tous les enfants de l’école ont pu s’exprimer. Par le biais de dessins et de maquettes, ils ont conçu leur cour idéale.
 
-{% include flickity.html %}
+{% include flickity_2.html %}
 
 ## Le projet
 
@@ -112,23 +109,11 @@ Par un savant assemblage dessiné collectivement, des massifs plantés permetten
 * aux eaux pluviales de s'infiltrer au maximum à ciel ouvert évitant ainsi les grandes nappes de pluie ;
 * de créer différentes ambiances paysagères, pour se reposer, faire école dehors, regarder et observer la petite faune.
 
-{% include flickity_2.html %}
-
-## Le premier chantier participatif
-
-Et c’est par une belle journée ensoleillée  de février que la jungle a pris racine : des igloos et un tunnel ont été tressés en saule vivant. Les plantes s’épanouissent et les rêves deviennent réalité !
-
 {% include flickity_3.html %}
 
-## Le dernier chantier participatif
+## La botanique à travers le monde
 
-Deux semaines de Juillet se sont écoulées pour que les services techniques et le collectif Tréteau La Nuit réalisent l'ensemble des mobiliers dont les enfants ont besoin : 
-* La cabane de l'amitié prend place sous le grand tilleul, et reste accessible pour tous les enfants, leur permettant de se ressourcer loin des espaces dynamiques ;
-* La scène est directement investie par les enfants pour présenter un spectacle de danse, sous les yeux bienveillants des animaux fantastiques et la boule à facettes du jardin pédagogique ;
-* Des bancs en gabion et en chêne massif sont installés dans la pente pour faire école dehors, avec en fond de scène, le jardin pédagogique et la crête de Cast ;
-* L'arbre couché est livré par Yves Garo élagueur, taillé et raboté par l'équipe pour devenir un animal à scutelles, tout droit sorti du lit de l'Aulne...
-
-Enfin, la fresque et les marquages au sol animent le tapis d'enrobé conservé. Sur la thématique de la vie des sols, la trame de la fresque a été préparée par l'équipe pour que les enfants du centre de loisirs puissent dessiné et participé à cette oeuvre d'art sur le mur existant.
+Chaque continent est représenté
 
 {% include flickity_4.html %}
 
