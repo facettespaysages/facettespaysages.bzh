@@ -6,7 +6,7 @@ phases:
     start: 2024-06-01
     end: en cours
 header:
-  teaser: /assets/images/thumbnails/projets/carhaix.webp
+  teaser: /assets/images/thumbnails/projets/carhaix_exi1.webp
   overlay_image: /assets/images/projets/carhaix_exi1.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
