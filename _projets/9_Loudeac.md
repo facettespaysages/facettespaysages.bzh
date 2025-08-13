@@ -44,9 +44,6 @@ carousels:
       - url: /assets/images/projets/loudeac3.png
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac4.png
-        width: 1000
-        height: 707
       - url: /assets/images/projets/loudeac5.png
         width: 1000
         height: 707
