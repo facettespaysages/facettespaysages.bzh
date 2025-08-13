@@ -120,13 +120,13 @@ Les espaces disponibles pour planter sont généreux et nécessitent une composi
 * limiter l’ombre sur le terrain ; 
 * équilibrer les masses végétales pour maintenir une qualité du fairway et du green sans concurrence pour la consommation en eau ; 
 * créer des évènements spectaculaires en fonction des saisons.
+<br>
 Pour travailler ces limites de terrain de jeu, trois outils seront très utiles en phase ultérieure pour affiner la composition des masses végétales :
 * Les contrastes ;
 * Les homogénéités de couleurs ;
 * En isolé ou en alignement éparse.
 
 ![stratégie_de_plantation_vue_en_coupes](/assets/images/projets/carhaix52.webp)
-
 <br>
 Le plan de plantations tient compte de toutes les contraintes évoquées. Le parcours est animé par différentes ambiances végétales. Les floraisons se poursuivront au fil des saisons.
 
