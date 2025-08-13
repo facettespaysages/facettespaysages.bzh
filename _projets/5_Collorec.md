@@ -16,8 +16,8 @@ phases:
     start: 2023-06-01
     end: 2023-11-21
 header:
-  teaser: /assets/images/thumbnails/projets/collorec1.png
-  overlay_image: /assets/images/projets/collorec1.png
+  teaser: /assets/images/thumbnails/projets/collorec1.webp
+  overlay_image: /assets/images/projets/collorec1.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2023-12-03T00:00:00-00:00
@@ -49,10 +49,10 @@ Les enjeux d'aménagement sont les suivants :
 ## Le projet
 
 Deux scenarii ont été dessiné avant de définir le plan de plantations.
-![plan_scenario1](/assets/images/projets/collorecprojet1.jpg)
+![plan_scenario1](/assets/images/projets/collorecprojet1.webp)
 
 
-![plan_scenario2](/assets/images/projets/collorecprojet2.jpg)
+![plan_scenario2](/assets/images/projets/collorecprojet2.webp)
 
 
 Le plan d’aménagement propose un jardin secret en limite Ouest, intimiste et fleuri, qui cache plusieurs espaces de détente :
@@ -63,7 +63,7 @@ Le plan d’aménagement propose un jardin secret en limite Ouest, intimiste et 
 La limite Est est densément plantée, avec une large haie persistante, pour protéger le jardin des vues de la rue et des aller-venues dans le garage. 
 Cette partie est clôturée avec une clôture type forestière, permettant le développement de plantes grimpantes sur les mailles du grillage métallique.
 
-![plan_d'aménagement du jardin](/assets/images/projets/collorecprojet3.png)
+![plan_d'aménagement du jardin](/assets/images/projets/collorecprojet3.webp)
 
 
 Nous partons d’une page blanche et pouvons tout inventer pour créer une ambiance qui ressemble aux clients. A partir des images de référence d’ambiance, la diversité végétale propose un mélange de tons blancs, violets, roses et bleus.

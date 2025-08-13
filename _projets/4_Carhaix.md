@@ -25,13 +25,13 @@ sidebar:
     
 carousels:
   - images:
-    - url: /assets/images/projets/carhaix_exi3.jpg
+    - url: /assets/images/projets/carhaix_exi3.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/carhaix_exi4.jpg
+    - url: /assets/images/projets/carhaix_exi4.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/carhaix_exi1.jpg
+    - url: /assets/images/projets/carhaix_exi1.webp
       width: 1000
       height: 707
     - url: /assets/images/projets/carhaix_exi2.webp

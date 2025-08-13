@@ -25,10 +25,10 @@ sidebar:
     
 carousels:
   - images:
-    - url: /assets/images/projets/berrien_exi1.png
+    - url: /assets/images/projets/berrien_exi1.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/berrien_exi2.JPG
+    - url: /assets/images/projets/berrien_exi2.webp
       width: 1000
       height: 707
     - url: /assets/images/projets/berrien_exi3.webp
@@ -45,19 +45,19 @@ carousels:
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/berrien41.png
+      - url: /assets/images/projets/berrien41.webp
         width: 1000
         height: 707
       - url: /assets/images/projets/berrien5.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/berrien6.png
+      - url: /assets/images/projets/berrien6.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/berrien7.png
+      - url: /assets/images/projets/berrien7.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/berrien8.png
+      - url: /assets/images/projets/berrien8.webp
         width: 1000
         height: 707
 ---

@@ -6,8 +6,8 @@ phases:
     start: 2024-09-01
     end: en cours
 header:
-  teaser: /assets/images/thumbnails/projets/loudeac_exi3.jpg
-  overlay_image: /assets/images/projets/loudeac_exi3.jpg
+  teaser: /assets/images/thumbnails/projets/loudeac_exi3.webp
+  overlay_image: /assets/images/projets/loudeac_exi3.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2025-08-13 T00:00:00-00:00
@@ -25,79 +25,67 @@ sidebar:
 
 carousels:
   - images:
-      - url: /assets/images/projets/loudeac_exi5.JPG
+      - url: /assets/images/projets/loudeac_exi5.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_exi4.JPG
+      - url: /assets/images/projets/loudeac_exi4.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_exi3.JPG
-        width: 1000
-        height: 707
-  - images:
-      - url: /assets/images/projets/loudeac1.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac2.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac3.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac5.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac6.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac7.png
+      - url: /assets/images/projets/loudeac_exi3.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/loudeac_palette1.png
+      - url: /assets/images/projets/loudeac1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_palette2.png
+      - url: /assets/images/projets/loudeac2.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_palette3.png
+      - url: /assets/images/projets/loudeac3.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_palette4.png
+      - url: /assets/images/projets/loudeac5.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_palette5.png
+      - url: /assets/images/projets/loudeac6.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_palette6.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac_palette7.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac_palette8.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac_palette9.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac_palette10.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac_palette11.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/loudeac_palette12.png
+      - url: /assets/images/projets/loudeac7.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/loudeac_exi2.jpg
+      - url: /assets/images/projets/loudeac_palette1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_exi3.jpg
+      - url: /assets/images/projets/loudeac_palette2.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_exi1.jpg
+      - url: /assets/images/projets/loudeac_palette3.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/loudeac_palette5.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/loudeac_palette8.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/loudeac_palette9.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/loudeac_palette10.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/loudeac_palette12.webp
+        width: 1000
+        height: 707
+  - images:
+      - url: /assets/images/projets/loudeac_exi2.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/loudeac_exi3.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/loudeac_exi1.webp
         width: 1000
         height: 707
 ---
