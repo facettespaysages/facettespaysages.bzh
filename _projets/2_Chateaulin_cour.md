@@ -1,6 +1,6 @@
 ---
-title: Une nouvelle cour Chifoumi 
-excerpt: Aménagement de la cour de l'école Marie Curie
+title: Ecole Marie Curie
+excerpt: Une nouvelle cour Chifoumi
 phases:
   - name: all
     start: 2024-06-01
