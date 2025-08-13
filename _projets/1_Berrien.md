@@ -1,6 +1,6 @@
 ---
 title: Ecole Jean Caër
-excerpt: De nouvelles cours jardinées
+excerpt: Des cours jardinées
 phases:
   - name: all
     start: 2024-09-01

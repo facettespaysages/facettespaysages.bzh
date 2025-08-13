@@ -1,6 +1,6 @@
 ---
 title: Ecole Marie Curie
-excerpt: Une nouvelle cour Chifoumi
+excerpt: Une cour Chifoumi
 phases:
   - name: all
     start: 2024-06-01
