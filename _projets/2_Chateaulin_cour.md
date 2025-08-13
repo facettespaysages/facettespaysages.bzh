@@ -83,9 +83,6 @@ carousels:
         width: 1000
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau2.webp
-        width: 1000
-        height: 707
 ---
 ## Contexte
 
