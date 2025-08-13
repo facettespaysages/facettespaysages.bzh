@@ -131,7 +131,7 @@ Deux semaines de Juillet se sont écoulées pour que les services techniques et 
 * Des bancs en gabion et en chêne massif sont installés dans la pente pour faire école dehors, avec en fond de scène, le jardin pédagogique et la crête de Cast ;
 * L'arbre couché est livré par Yves Garo élagueur, taillé et raboté par l'équipe pour devenir un animal à scutelles, tout droit sorti du lit de l'Aulne...
 
-Enfin, la fresque et les marquages au sol animent le tapis d'enrobé conservé. Sur la thématique de la vie des sols, la trame de la fresque a été préparée par l'équipe pour que les enfants du centre de loisirs puissent dessiné et participé à cette oeuvre d'art sur le mur existant.
+Enfin, la fresque et les marquages au sol animent le tapis d'enrobé conservé. Sur la thématique de la vie des sols, la trame de la fresque a été préparée par l'équipe pour que les enfants du centre de loisirs puissent dessiner et participer à cette oeuvre d'art sur le mur existant.
 
 {% include flickity_4.html %}
 
