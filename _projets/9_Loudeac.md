@@ -25,10 +25,10 @@ sidebar:
 
 carousels:
   - images:
-      - url: /assets/images/projets/loudeac_exi5.webp
+      - url: /assets/images/projets/loudeac_exi5.JPG
         width: 1000
         height: 707
-      - url: /assets/images/projets/loudeac_exi4.webp
+      - url: /assets/images/projets/loudeac_exi4.JPG
         width: 1000
         height: 707
       - url: /assets/images/projets/loudeac_exi3.webp
