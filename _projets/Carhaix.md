@@ -6,8 +6,8 @@ phases:
     start: 2024-06-01
     end: en cours
 header:
-  teaser: /assets/images/thumbnails/projets/carhaix.jpg
-  overlay_image: /assets/images/projets/carhaix_exi1.jpg
+  teaser: /assets/images/thumbnails/projets/carhaix.webp
+  overlay_image: /assets/images/projets/carhaix_exi1.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2025-08-13 T00:00:00-00:00
@@ -25,61 +25,61 @@ sidebar:
     
 carousels:
   - images:
-    - url: /assets/images/projets/carhaix_exi3.jpg
+    - url: /assets/images/projets/carhaix_exi3.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/carhaix_exi4.jpg
+    - url: /assets/images/projets/carhaix_exi4.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/carhaix_exi1.jpg
+    - url: /assets/images/projets/carhaix_exi1.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/carhaix_exi2.jpg
-      width: 1000
-      height: 707
-  - images:
-    - url: /assets/images/projets/carhaix1.jpg
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/carhaix2.jpg
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/carhaix3.jpg
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/carhaix4.jpg
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/carhaix5.jpg
+    - url: /assets/images/projets/carhaix_exi2.webp
       width: 1000
       height: 707
   - images:
-      - url: /assets/images/projets/carhaix6.jpg
+    - url: /assets/images/projets/carhaix1.webp
+      width: 1000
+      height: 707
+    - url: /assets/images/projets/carhaix2.webp
+      width: 1000
+      height: 707
+    - url: /assets/images/projets/carhaix3.webp
+      width: 1000
+      height: 707
+    - url: /assets/images/projets/carhaix4.webp
+      width: 1000
+      height: 707
+    - url: /assets/images/projets/carhaix5.webp
+      width: 1000
+      height: 707
+  - images:
+      - url: /assets/images/projets/carhaix6.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix7.jpg
+      - url: /assets/images/projets/carhaix7.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix8.jpg
+      - url: /assets/images/projets/carhaix8.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix9.jpg
+      - url: /assets/images/projets/carhaix9.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix10.jpg
+      - url: /assets/images/projets/carhaix10.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/carhaix11.jpg
+      - url: /assets/images/projets/carhaix11.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix12.jpg
+      - url: /assets/images/projets/carhaix12.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix13.jpg
+      - url: /assets/images/projets/carhaix13.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix14.jpg
+      - url: /assets/images/projets/carhaix14.webp
         width: 1000
         height: 707
 
