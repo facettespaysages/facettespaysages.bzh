@@ -1,5 +1,5 @@
 ---
-title: Un cour ludique 
+title: Des cours jardinées
 excerpt: Aménagement des cours de l'école Jean Caër
 phases:
   - name: all
