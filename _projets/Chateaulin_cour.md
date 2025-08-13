@@ -6,8 +6,8 @@ phases:
     start: 2024-06-01
     end: 2025-09-15
 header:
-  teaser: /assets/images/thumbnails/projets/chateaulin.jpg
-  overlay_image: /assets/images/projets/chateau_chantier1_3.jpg
+  teaser: /assets/images/thumbnails/projets/chateaulin.webp
+  overlay_image: /assets/images/projets/chateau_chantier1_3.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2025-08-13 T00:00:00-00:00
@@ -25,64 +25,65 @@ sidebar:
     
 carousels:
   - images:
-    - url: /assets/images/projets/chateau_concert_1.jpg
+    - url: /assets/images/projets/chateau_concert_1.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/chateau_concert_2.jpg
-      width: 1000
-      height: 707
-  - images:
-    - url: /assets/images/projets/chateau_esq_1.jpg
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/chateau_esq_2.jpg
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/chateau_esq_3.jpg
-      width: 1000
-      height: 707
-    - url: /assets/images/projets/chateau_esq_4.jpg
+    - url: /assets/images/projets/chateau_concert_2.webp
       width: 1000
       height: 707
   - images:
-      - url: /assets/images/projets/chateau_chantier1_1.jpg
+    - url: /assets/images/projets/chateau_esq_1.webp
+      width: 1000
+      height: 707
+    - url: /assets/images/projets/chateau_esq_2.webp
+      width: 1000
+      height: 707
+    - url: /assets/images/projets/chateau_esq_3.webp
+      width: 1000
+      height: 707
+    - url: /assets/images/projets/chateau_esq_4.webp
+      width: 1000
+      height: 707
+  - images:
+      - url: /assets/images/projets/chateau_chantier1_1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier1_2.jpg
+      - url: /assets/images/projets/chateau_chantier1_2.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier1_3.jpg
+      - url: /assets/images/projets/chateau_chantier1_3.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/chateau_chantier2_1.jpg
+      - url: /assets/images/projets/chateau_chantier2_1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_2.jpg
+      - url: /assets/images/projets/chateau_chantier2_2.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_3.jpg
+      - url: /assets/images/projets/chateau_chantier2_3.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_4.jpg
+      - url: /assets/images/projets/chateau_chantier2_4.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_5.jpg
+      - url: /assets/images/projets/chateau_chantier2_5.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_6.jpg
+      - url: /assets/images/projets/chateau_chantier2_6.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_7.jpg
+      - url: /assets/images/projets/chateau_chantier2_7.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_8.jpg
+      - url: /assets/images/projets/chateau_chantier2_8.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau_chantier2_9.jpg
+      - url: /assets/images/projets/chateau_chantier2_9.webp
+        width: 1000
         width: 1000
         height: 707
-      - url: /assets/images/projets/chateau2.jpg
+      - url: /assets/images/projets/chateau2.webp
         width: 1000
         height: 707
 ---
