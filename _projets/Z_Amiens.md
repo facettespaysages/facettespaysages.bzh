@@ -1,6 +1,6 @@
 ---
-title: Des zones au quartier
-excerpt: La vallée sèche Saint-Ladre, de nouveaux paysages en entrée nord d'Amiens
+title: Diplôme de paysagiste conceptrice
+excerpt: Des zones au quartier, la vallée sèche Saint-Ladre, de nouveaux paysages en entrée nord d'Amiens
 phases:
   - name: all
     start: 2015-09-01

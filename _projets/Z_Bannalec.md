@@ -1,6 +1,6 @@
 ---
-title: Aménager les nouvelles portes d'entrée
-excerpt: Etudes d’aménagement des seuils de l'agglomération de Bannalec
+title: Seuils d'agglomération
+excerpt: Aménager les nouvelles portes d'entrée paysagères de Bannalec
 gallery:
     - url: /assets/images/projets/ban4.webp
       image_path: /assets/images/projets/ban4.webp
