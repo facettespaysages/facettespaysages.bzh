@@ -95,7 +95,7 @@ L'école, comme beaucoup d'autres en Finistère, est marquée par un plateau d'e
 <br>
 Mais tout est encore possible, le terrain de jeux est immense pour dessiner avec les enfants, leur cour rêvée.
 
-![photos situation existante](/assets/images/projets/chateau1.JPG)
+![photos situation existante](/assets/images/projets/chateau1.webp)
 
 ## Enjeux
 
@@ -136,6 +136,8 @@ Enfin, la fresque et les marquages au sol animent le tapis d'enrobé conservé. 
 {% include flickity_4.html %}
 
 ## Echéances
+
+![photos projet_réalisé](/assets/images/projets/chateau2.webp)
 
 Les études ont été lancées au mois de juin 2024 et l'inauguration de la nouvelle cour est fixée au 15 septembre 2025.
 
