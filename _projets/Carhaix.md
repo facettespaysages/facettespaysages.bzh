@@ -70,16 +70,16 @@ carousels:
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/carhaix11.webp
-        width: 1000
-        height: 707
       - url: /assets/images/projets/carhaix12.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/carhaix13.webp
+      - url: /assets/images/projets/carhaix11.webp
         width: 1000
         height: 707
       - url: /assets/images/projets/carhaix14.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/carhaix13.webp
         width: 1000
         height: 707
 
@@ -94,7 +94,8 @@ Ce projet vise à créer un univers spécifique à la pratique de ce sport, qui 
 ## Enjeux et références
 
 En analysant le site dans son état existant, plusieurs éléments sont à mettre en valeur dans l’aménagement du futur parc. Ils peuvent être naturels, bâtis, où liés à notre perception individuelle.
-<br>
+
+
 Le parallèle est vite trouvé entre la déambulation récréative proposée dans un parc et le parcours de jeu au sein du golf. Ce travail de recherche vise à trouver des clés de composition dans l’ambiance à créer, pou que le golf soit inscrit dans la vallée de l’Hyères tout en ayant son propre univers.
 Le paysage existant, riche dans ses formes et sa géographie, est une matière propice au développement d’un parc à l’ambiance spécifique, dédié à la pratique du golf. 
 En accompagnant le parcours des joueuses et des joueurs, le paysage doit mettre en scène les différentes étapes et aussi structurer le regard, en sculptant les masses végétales pour orienter la vue sur un élément  particulier.
@@ -103,31 +104,34 @@ Les parcs «à l’anglaise» correspondent à la philosophie de projet car ils 
 * S’inspirer du caractère sauvage de la Nature ; 
 * Exalter la poésie du lieu en mettant en valeur un élément remarquable (arbre rare, tronc tortueux, ruisseau, vallon humide, plan d’eau) ;
 * Rechercher l’équilibre entre les volumes, les variétés ornementales, les accords des coloris et des matières végétales.
-<br>
+
+{% include flickity_2.html %}
+
 En dehors de ces éléments existants à mettre en évidence, le site porte différents enjeux liés à la pratique sportive :
 * Thématiser les plantations comme un voyage autour du monde tout en limitant l’entretien ;
 * Travailler les formes végétales de manière à rythmer le parcours au fil du jeu et des saisons, en dehors des zones de rough ;
 * Planter les limites du parc dépourvues de végétation, en camouflant les bâtiments disgrâcieux tout en évitant les balles perdues chez les voisins ; 
 * Repérer les départs sans compromettre la qualité du gazon (ombres et racines) et augmenter les difficultés de jeux avec les effets de couloirs végétalisés.
 
-{% include flickity_2.html %}
-
 ## Le projet
 
 ![stratégie_de_plantation_vue_en_coupes](/assets/images/projets/carhaix51.webp)
+
 
 Les espaces disponibles pour planter sont généreux et nécessitent une composition réfléchie afin de :
 * limiter l’ombre sur le terrain ; 
 * équilibrer les masses végétales pour maintenir une qualité du fairway et du green sans concurrence pour la consommation en eau ; 
 * créer des évènements spectaculaires en fonction des saisons.
-<br>
+
+
 Pour travailler ces limites de terrain de jeu, trois outils seront très utiles en phase ultérieure pour affiner la composition des masses végétales :
 * Les contrastes ;
 * Les homogénéités de couleurs ;
 * En isolé ou en alignement éparse.
 
 ![stratégie_de_plantation_vue_en_coupes](/assets/images/projets/carhaix52.webp)
-<br>
+
+
 Le plan de plantations tient compte de toutes les contraintes évoquées. Le parcours est animé par différentes ambiances végétales. Les floraisons se poursuivront au fil des saisons.
 
 {% include flickity_3.html %}
