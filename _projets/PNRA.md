@@ -1,6 +1,6 @@
 ---
-title: Labellisation GeoPark du Parc Naturel Régional d'Armorique
-excerpt: Rédaction des permis d'aménager pour l'insertion de mobilier signalétique dédiée à la géologie du parc
+title: Le GeoPark du PNRA
+excerpt: Rédaction des permis d'aménager pour l'insertion de mobilier signalétique dédiée à la géologie du Parc Naturel Régional d'Armorique
 phases:
   - name: all
     start: 2023-02-26
@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/projets/PNRA.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2023-05-26T00:00:00-00:00
+last_modified_at: 2023-05-26 T00:00:00-00:00
 sidebar:
     - title: "Site"
       text: "Parc Naturel Régional d'Armorique, département du Finistère (29)"

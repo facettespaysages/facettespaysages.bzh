@@ -1,6 +1,6 @@
 ---
-title: Ouvrir le centre-bourg sur le vallon humide
-excerpt: Etudes d’aménagement du centre-bourg de Ploubezre
+title: Etude du centre-bourg
+excerpt: Requalification des espaces publics de Ploubezre
 gallery:
     - url: /assets/images/projets/ploubezre2.webp
       image_path: /assets/images/projets/ploubezre2.webp
@@ -23,13 +23,13 @@ gallery:
 phases:
   - name: all
     start: 2023-06-01
-    end: en cours
+    end: abandonné politiquement
 header:
   teaser: /assets/images/thumbnails/projets/ploubezre5.webp
   overlay_image: /assets/images/projets/ploubezre5.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2024-08-26T00:00:00-00:00
+last_modified_at: 2025-08-13 T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Ploubezre, département des Côtes d'Armor (22)"
@@ -83,8 +83,6 @@ Les aires de stationnement sont optimisées, et pour libérer une vaste place pi
 
 ## Echéances
 
-Les études ont été lancées dès le mois de juin 2023 en vue d'un dépôt de dossier de demandes de subventions en avril 2024.
-
-Une étude hydraulique sera menée en parallèle de la mission d'AVant Projet prévue pour le mois de février 2024.
+Les études ont été lancées en juin 2023 et ont pris fin en mars 2025 pour raison d'abanbon politique. 
 
 {% include gallery caption="Quelques vues du projet" %}
