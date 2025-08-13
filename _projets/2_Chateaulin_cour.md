@@ -95,7 +95,7 @@ L'école, comme beaucoup d'autres en Finistère, est marquée par un plateau d'e
 <br>
 Mais tout est encore possible, le terrain de jeux est immense pour dessiner avec les enfants, leur cour rêvée.
 
-![photos situation existante](/assets/images/projets/chateau1.webp)
+![photos situation existante](/assets/images/projets/chateau1.JPG)
 
 ## Enjeux
 
