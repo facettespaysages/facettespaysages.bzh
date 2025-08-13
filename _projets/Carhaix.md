@@ -28,10 +28,10 @@ carousels:
     - url: /assets/images/projets/carhaix_exi3.webp
       width: 1000
       height: 707
-    - url: /assets/images/projets/carhaix_exi4.webp
+    - url: /assets/images/projets/carhaix_exi4.jpg
       width: 1000
       height: 707
-    - url: /assets/images/projets/carhaix_exi1.webp
+    - url: /assets/images/projets/carhaix_exi1.jpg
       width: 1000
       height: 707
     - url: /assets/images/projets/carhaix_exi2.webp
