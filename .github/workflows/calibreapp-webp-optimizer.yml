@@ -26,6 +26,8 @@ jobs:
         uses: actions/checkout@v3
       - name: Install packages
         run: sudo apt-get install -y imagemagick webp parallel
+      - name: Auto-rotate images
+        run: find . -type f -iname "*.jpg" -exec mogrify -auto-orient {} +
       - name: Create thumbnails
         working-directory: ./assets/images
         run: ./create_thumbnails.sh
