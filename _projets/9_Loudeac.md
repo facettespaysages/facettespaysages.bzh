@@ -17,7 +17,7 @@ sidebar:
   - title: "Maîtrise d'ouvrage"
     text: "Département des Côtes d'Armor"
   - title: "Equipe"
-    text: "Nunc Architectes, Facettes Paysages, Hinoki, Acoustibel, FLEC"
+    text: "Nunc Architectes (mandataire), Facettes Paysages, Hinoki, Acoustibel, FLEC"
   - title: "Surface"
     text: "8 000 m²"
   - title: "Budget travaux"

@@ -17,7 +17,7 @@ sidebar:
   - title: "Maîtrise d'ouvrage"
     text: "Ville de Landivisiau"
   - title: "Equipe"
-    text: "Atlas.t, Facettes Paysages, ATEVE Ingénierie, Mael Iger, Technilampes"
+    text: "Atlas.t (mandataire), Facettes Paysages, ATEVE Ingénierie, Mael Iger, Technilampes"
   - title: "Surface"
     text: "13 000 m²"
   - title: "Budget travaux"
