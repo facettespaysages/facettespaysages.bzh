@@ -6,8 +6,8 @@ phases:
     start: 2024-06-01
     end: en cours
 header:
-  teaser: /assets/images/thumbnails/projets/landi_place_croquis.png
-  overlay_image: /assets/images/projets/landi_place_croquis.png
+  teaser: /assets/images/thumbnails/projets/landi_place_croquis.webp
+  overlay_image: /assets/images/projets/landi_place_croquis.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
 last_modified_at: 2025-08-14 T00:00:00-00:00
@@ -25,58 +25,58 @@ sidebar:
 
 carousels:
   - images:
-      - url: /assets/images/projets/landi_enjeux1.png
+      - url: /assets/images/projets/landi_enjeux1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/landi_enjeux2.png
+      - url: /assets/images/projets/landi_enjeux2.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/landi_enjeux3.png
-        width: 1000
-        height: 707
-  - images:
-      - url: /assets/images/projets/landi_bibli.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/landi_bibli1.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/landi_bibli2.jpg
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/landi_place_croquis1.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/landi_place_croquis4.png
-        width: 1000
-        height: 707
-      - url: /assets/images/projets/landi_place_croquis5.png
+      - url: /assets/images/projets/landi_enjeux3.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/landi_place.jpg
+      - url: /assets/images/projets/landi_bibli.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/landi_place1.jpg
+      - url: /assets/images/projets/landi_bibli1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/landi_place2.jpg
+      - url: /assets/images/projets/landi_bibli2.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/landi_place_croquis2.png
+      - url: /assets/images/projets/landi_place_croquis1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/landi_place_croquis3.png
+      - url: /assets/images/projets/landi_place_croquis4.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/landi_place_croquis5.webp
         width: 1000
         height: 707
   - images:
-      - url: /assets/images/projets/landi_place_palette2.png
+      - url: /assets/images/projets/landi_place.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/landi_place_palette1.png
+      - url: /assets/images/projets/landi_place1.webp
         width: 1000
         height: 707
-      - url: /assets/images/projets/landi_place_palette3.png
+      - url: /assets/images/projets/landi_place2.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/landi_place_croquis2.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/landi_place_croquis3.webp
+        width: 1000
+        height: 707
+  - images:
+      - url: /assets/images/projets/landi_place_palette2.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/landi_place_palette1.webp
+        width: 1000
+        height: 707
+      - url: /assets/images/projets/landi_place_palette3.webp
         width: 1000
         height: 707
 ---

@@ -129,7 +129,7 @@ Avant d'entamer la construction de la nouvelle maison du Département, les bâti
 Dans la continuité des recherches menées par Laure Vidal-Beaudet de l'Institut Agro Rennes-Angers pour le projet DESSERT (Désimperméabiliser les Sols, Services Ecosystémiques, Résilience des Territoires), nous avons proposé à la maîtrise d'ouvrage d'expérimenter la renaturation des sols avec un mélange de compost, de broyat forestier, et de graves décompactées.
 En scrutant les stocks disponibles, le département a mis à disposition du broyat issu des travaux d'élaguage sur les voies vertes. Le compost est issu de la déchèterie de Loudéac, située à moins de 10km du site.
 
-![suite de schémas représentant le processus de renaturation des sols](/assets/images/projets/loudeac_process.png)
+![suite de schémas représentant le processus de renaturation des sols](/assets/images/projets/loudeac_process.webp)
 
 ## Echéances
 
