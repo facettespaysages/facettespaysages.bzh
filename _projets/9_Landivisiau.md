@@ -1,6 +1,6 @@
 ---
 title: Etude du centre-ville
-excerpt: Aménagement de la place de l’église et des abords de la bibliothèque
+excerpt: Aménagement de la place de l’église et des abords de la bibliothèque de Landivisiau
 phases:
   - name: all
     start: 2024-06-01
