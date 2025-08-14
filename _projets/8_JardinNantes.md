@@ -1,6 +1,6 @@
 ---
-title: Un jardin sec suspendu
-excerpt: Aménagement d'un jardin sur un toit-terrasse Nantais
+title: Jardin sec suspendu
+excerpt: Aménagement d'un jardin sur un toit-terrasse à Nantes
 phases:
   - name: all
     start: 2020-12-01
@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/projets/JardinNantes.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2023-05-26T00:00:00-00:00
+last_modified_at: 2025-08-14 T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Ecoquartier de la Prairie au Duc, département de Loire-Atlantique (44)"

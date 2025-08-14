@@ -1,5 +1,5 @@
 ---
-title: Un jardin de cottage
+title: Jardin de cottage
 excerpt: Esquisse d'un jardin privé à Collorec
 gallery:
     - url: /assets/images/projets/collorec5.webp
@@ -20,7 +20,7 @@ header:
   overlay_image: /assets/images/projets/collorec1.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2023-12-03T00:00:00-00:00
+last_modified_at: 2025-08-14 T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Collorec (29)"

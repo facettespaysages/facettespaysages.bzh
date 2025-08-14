@@ -1,5 +1,5 @@
 ---
-title: Un jardin d'exploration
+title: Jardin d'exploration
 excerpt: Esquisse d'un jardin privé en bord de Loire
 gallery:
     - url: /assets/images/projets/parterre1.webp
@@ -23,7 +23,7 @@ header:
   overlay_image: /assets/images/projets/parterre.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2023-12-03T00:00:00-00:00
+last_modified_at: 2025-08-14 T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Saint-Rémy-La-Varenne (49)"

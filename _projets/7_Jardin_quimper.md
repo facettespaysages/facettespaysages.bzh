@@ -1,5 +1,5 @@
 ---
-title: Un petit jardin intimiste
+title: Jardin intimiste
 excerpt: Esquisse d'un jardin privé dans l'Anse de Keraval
 gallery:
   - url: /assets/images/projets/jank1.webp
@@ -36,7 +36,7 @@ header:
   overlay_image: /assets/images/projets/jank_croquis.webp
   overlay_filter: 0.5
   show_overlay_excerpt: true
-last_modified_at: 2024-08-26T00:00:00-00:00
+last_modified_at: 2025-08-14 T00:00:00-00:00
 sidebar:
   - title: "Site"
     text: "Quimper (29)"
