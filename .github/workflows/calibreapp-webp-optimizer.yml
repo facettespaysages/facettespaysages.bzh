@@ -38,7 +38,8 @@ jobs:
         working-directory: ./assets/images
         run: ./create_thumbnails.sh
       - name: Create WebP
-        run: find . | egrep -i '.jpeg|.jpg|.tiff|.tif|.png' | parallel --progress 'cwebp -quiet -metadata all -af {} -o {.}.webp'
+        run: |
+          git diff --name-only HEAD~20 HEAD | egrep -i '\.(jpeg|jpg|tiff|tif|png)$' | parallel --progress 'test -f {} && cwebp -quiet -metadata all -af {} -o {.}.webp'
       - name: Compress Images
         uses: calibreapp/image-actions@main
         with:
