@@ -48,7 +48,7 @@ Les enjeux d'aménagement sont les suivants :
 
 ## Le projet
 
-Deux scenarii ont été dessiné avant de définir le plan de plantations.
+Deux scenarii ont été dessinés avant de définir le plan de plantations.
 ![plan_scenario1](/assets/images/projets/collorecprojet1.webp)
 
 
