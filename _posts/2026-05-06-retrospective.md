@@ -3,8 +3,8 @@ layout: single
 title:  "L'histoire de Facettes Paysages"
 excerpt: "Retrospective sur l'activité professionnelle de Facettes Paysages"
 categories:
-  - Actualités
-author_profile: false
+  - Blog
+author_profile: true
 header:
   teaser: /assets/images/thumbnails/Reno.jpg
   show_overlay_excerpt: false
