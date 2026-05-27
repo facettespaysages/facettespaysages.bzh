@@ -160,7 +160,7 @@ Je mesure l’ampleur du développement mais je ne pensais pas arriver aussi vit
 
 
 2025 est l’année de concrétisation de plusieurs projets avec des chantiers lancés dans le centre-ville de Landivisiau, le futur quartier d’habitats légers de Combrit, la cour d’école Marie Curie à Châteaulin, les travaux de renaturation sur l’emprise de la future Maison du Département de Loudéac. 
-Toutes ses lignes de dessin à la main qui se traduisent concrètement dans l’espace… C’est palpable, c’est vivant, c’est incarné, c’est utilisé ! 
+Toutes ces lignes de dessin à la main qui se traduisent concrètement dans l’espace… C’est palpable, c’est vivant, c’est incarné, c’est utilisé ! 
 
 ![photos projet_réalisé](/assets/images/projets/chateau2.webp)
 
