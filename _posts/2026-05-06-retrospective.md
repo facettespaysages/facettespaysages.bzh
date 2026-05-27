@@ -216,6 +216,7 @@ Facettes Paysages ne peut rayonner que par les lumineuses collaborations profess
 * Nunc Architectes
 * Okaré Ingénierie
 * OTE Ingénierie
+* Roux et Jankowski géomètre expert
 * SODEREF
 * Sophie Meunier
 * Technilampes
